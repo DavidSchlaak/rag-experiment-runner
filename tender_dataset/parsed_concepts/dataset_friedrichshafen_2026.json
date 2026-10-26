@@ -1,0 +1,185 @@
+{
+  "blocks": [
+    {
+      "tender_id": "friedrichshafen_zentrales_datenmanagement_2025",
+      "theme": "Datenplattform",
+      "chapter": "1 Verständnis der Aufgabenstellung und Zielbild",
+      "block_id": "a-14651a94-2071-5047-9640-e3fb5c6f2005",
+      "text": "1. Verständnis der Aufgabenstellung und Zielbild\n\nDie Stadt Friedrichshafen verfolgt das Ziel, Daten aus unterschiedlichen Quellen – einschließlich Nahe-Echtzeitdaten aus Sensoren und IoT-Geräten – in einem zentralen Zu- griffspunkt zusammenzuführen und für interne wie externe Akteure einheitlich nutzbar bereitzustellen. Heute liegen viele Datenbestände in einzelnen Fachverfahren und Systemen getrennt („Datensilos“). Der Mehrwert entsteht künftig vor allem durch Verknüp- fung, Katalogisierung, Standardisierung und sichere Bereitstellung der Daten für Verwaltung, Partner, Anwendungen, Dashboards sowie perspektivisch für Bürgerinnen und Bürger. Drei Erfolgsfaktoren sind entscheidend:\n\n1. Schneller, risikoarmer Einstieg: Eine modular aufgebaute Plattform muss zügig\n\nnutzbare Ergebnisse liefern („früher Nutzen“), ohne sich in langwierigen Grundsatzdiskussionen zu verlieren.\n\n2. Nachhaltige Skalierbarkeit: Die Lösung darf nicht als Einzellösung enden, sondern\n\nmuss für weitere Datenquellen, Use Cases und Organisationsbereiche ausbaufähig sein.\n\n3. Verwaltungsnahe Bedienbarkeit: Die Plattform muss so eingeführt werden, dass\n\nMitarbeitende in der Verwaltung Daten verstehen, finden, bewerten und sicher weiterverwenden können – ohne dauerhaft auf externe Unterstützung angewiesen zu sein.",
+      "length_tokens": 155,
+      "structure_path": "CONCEPT Konzept > 1 Verständnis der Aufgabenstellung und Zielbild"
+    },
+    {
+      "tender_id": "friedrichshafen_zentrales_datenmanagement_2025",
+      "theme": "Datenplattform",
+      "chapter": "2 Projektplan – Umsetzungskonzept (Phasen, Meilensteine, Ressourcen, Ris",
+      "block_id": "a-4a0fafda-33f5-5a75-a54d-f81915d538f4",
+      "text": "2. Projektplan – Umsetzungskonzept (Phasen, Meilensteine, Ressourcen, Risiko, Qualität)\n\nDie Umsetzung erfolgt in klaren Projektphasen mit definierten Ergebnissen. Der Gesamtansatz ist iterativ: Wir liefern nicht erst am Ende „ein Gesamtsystem“, sondern stellen Schritt für Schritt nutzbare Bausteine bereit, die gemeinsam mit der Stadtverwaltung validiert werden.",
+      "length_tokens": 45,
+      "structure_path": "CONCEPT Konzept > 2 Projektplan – Umsetzungskonzept (Phasen, Meilensteine, Ressourcen, Risiko, Qualität)"
+    },
+    {
+      "tender_id": "friedrichshafen_zentrales_datenmanagement_2025",
+      "theme": "Datenplattform",
+      "chapter": "2.1 Projektphasen",
+      "block_id": "a-93375ab4-297f-5b16-a4c7-09b79d59c289",
+      "text": "2.1. Projektphasen Phase 1: Konzeption & Projektinitialisierung Ziel: Gemeinsames Zielbild, Prioritäten und Rahmenbedingungen festlegen. Inhalte:\n\n• Kickoff inkl. Stakeholder- und Rollenklärung (Verwaltung, IT, Fachbereiche, ggf.\n\nExterne)\n\n• Dateninventur: Welche Datenquellen existieren? Wer ist verantwortlich? Welche\n\nQualität liegt vor?\n\n• Ableitung der ersten priorisierten Use-Case-Pakete (z. B. interne Dashboards,\n\nDatenbereitstellung, Open-Data-Anteile)\n\n• Definition von Abnahmekriterien, Vorgehen, Kommunikations- und Eskalationswegen\n\nPhase 2: Aufbau Kernplattform & Basisfunktionen Ziel: Plattform als „Drehscheibe“ bereitstellen, erste Datenflüsse produktiv machen. Inhalte:\n\n• Einrichtung der Cloud-Umgebung, Basisbetrieb, Monitoring\n\n• Einrichtung Zugänge, Rollen & Rechte\n\n• Aufbau Datenkatalog/Metadaten als Grundvoraussetzung für Auffindbarkeit und\n\nSteuerbarkeit Phase 3: Datenanbindung & Datenmanagement (Pilotdaten / erste produktive Quellen) Ziel: Daten aus internen und externen Quellen integriert verfügbar machen. Inhalte:\n\n• Anbindung priorisierter Datenquellen (Fachverfahren, Sensorik/IoT, Open Data,\n\nexterne APIs)\n\n• Harmonisierung, Qualitätsprüfung, Standardisierung (soweit erforderlich)\n\n• Erste Berichte/Visualisierungen zur Wirksamkeitsprüfung\n\nPhase 4: Tests, Abnahme & Go-Live Ziel: Stabiler Produktivbetrieb mit abgestimmten Service- und Supportprozessen. Inhalte:\n\n• Funktionale Tests, Sicherheits-/Berechtigungstests, Performance-Checks\n\n• Schulungen (Admin/Key User/Fachbereiche)\n\n• Abnahme & Übergang in den Regelbetrieb\n\nPhase 5: Verstetigung & Ausbau (Option) Ziel: Skalierung für weitere Fachbereiche, Datenquellen, Anwendungen und externe Nutzung. Inhalte:\n\n• Rollout weiterer Module und Use Cases\n\n• Weiterentwicklung in priorisierten Backlog-Paketen\n\n• Verstärkung Self-Service-Fähigkeit und Organisationsprozesse",
+      "length_tokens": 202,
+      "structure_path": "CONCEPT Konzept > 2 Projektplan – Umsetzungskonzept (Phasen, Meilensteine, Ressourcen, Risiko, Qualität) > 2.1 Projektphasen"
+    },
+    {
+      "tender_id": "friedrichshafen_zentrales_datenmanagement_2025",
+      "theme": "Datenplattform",
+      "chapter": "2.2 Meilensteine (kritische Fortschrittspunkte)",
+      "block_id": "a-e8244572-ab12-51f6-a566-71238e36c22e",
+      "text": "2.2. Meilensteine (kritische Fortschrittspunkte) Die Meilensteine sind so gewählt, dass die Auftraggeberin jederzeit erkennt, wo das Projekt steht und welches Ergebnis konkret erreicht wurde:\n\n• M1 – Projektsetup abgeschlossen: Governance, Rollen, Kommunikationsstruktur,\n\nProjektplan final\n\n• M2 – Plattformgrundbetrieb steht: Cloudbetrieb aktiv, Zugänge/Benutzer, Monitoring, Basis-Security\n\n• M3 – Erste Datenquellen integriert: Datenkatalog befüllt, Datenflüsse stabil, Datenqualität sichtbar\n\n• M4 – Erste Nutzung in der Verwaltung: Dashboards/Analysen nutzbar, erste\n\nfachliche Auswertungen\n\n• M5 – Go-Live & Übergabe: Dokumentation, Schulung, Supportprozess, Abnahme\n\nund Regelbetrieb",
+      "length_tokens": 81,
+      "structure_path": "CONCEPT Konzept > 2 Projektplan – Umsetzungskonzept (Phasen, Meilensteine, Ressourcen, Risiko, Qualität) > 2.2 Meilensteine (kritische Fortschrittspunkte)"
+    },
+    {
+      "tender_id": "friedrichshafen_zentrales_datenmanagement_2025",
+      "theme": "Datenplattform",
+      "chapter": "2.3 Ressourcenplanung (Personal, Infrastruktur, Software)",
+      "block_id": "a-be060dfe-c262-5e58-b5cf-d50b57f7ad83",
+      "text": "2.3. Ressourcenplanung (Personal, Infrastruktur, Software) Die Umsetzung erfolgt in einem Kernteam, das Projektsteuerung, technische Umsetzung und fachliche Abstimmung eng verbindet. Wesentliche Rollen sind:\n\n• Product Owner / fachliche Steuerung: Priorisierung, Backlog, Zielbild, Abnahmen\n\n• Projektleitung: Termin-/Risikosteuerung, Stakeholdermanagement, Reporting\n\n• Plattform-/Integrationsteam: Datenanbindung, Konfiguration, Schnittstellen\n\n• Betrieb & Support: Überwachung, Incident-Bearbeitung, Release-Management\n\n• Fachliche Key User (AG-seitig): Validierung, Datenfreigabe, Anwendungsfeedback\n\nDie Plattform wird als Cloud-Dienst betrieben, wodurch Beschaffung und Pflege lokaler Infrastruktur minimiert werden und Skalierung planbar bleibt.",
+      "length_tokens": 76,
+      "structure_path": "CONCEPT Konzept > 2 Projektplan – Umsetzungskonzept (Phasen, Meilensteine, Ressourcen, Risiko, Qualität) > 2.3 Ressourcenplanung (Personal, Infrastruktur, Software)"
+    },
+    {
+      "tender_id": "friedrichshafen_zentrales_datenmanagement_2025",
+      "theme": "Datenplattform",
+      "chapter": "2.4 Risikomanagement",
+      "block_id": "a-05c983f8-bfe3-52f0-8a9e-ac9e734e522c",
+      "text": "2.4. Risikomanagement Wir betreiben ein aktives Risikoregister, das regelmäßig in den Steuerungsrunden geprüft wird. Typische Risiken und Gegenmaßnahmen:\n\n• Unklare Datenverantwortung / Dateneigentümer → frühe Stakeholderklärung,\n\nDateninventur, Freigabeprozesse\n\n• Datenqualität schwankt (Lücken, Dubletten, falsche Formate) → Qualitätschecks, Datenregeln, Transparenz über „Gütegrade“\n\n• Abhängigkeiten von Drittanbietern/Schnittstellen → Testumgebungen, klare\n\nEskalationswege, frühe technische Klärungen\n\n• Überfrachtete Erwartungen (zu viele Use Cases gleichzeitig) → Priorisierung\n\nüber Product-Backlog, inkrementelle Releases\n\n• Sicherheits-/Datenschutzfragen verzögern Freigaben → Rollen/Rechte von\n\nBeginn an, Datenschutz-Checkpoints je Datenquelle Diese Vorgehensweise ist im Halle-Konzept bereits erprobt und wird hier in gleicher Logik angewendet.",
+      "length_tokens": 92,
+      "structure_path": "CONCEPT Konzept > 2 Projektplan – Umsetzungskonzept (Phasen, Meilensteine, Ressourcen, Risiko, Qualität) > 2.4 Risikomanagement"
+    },
+    {
+      "tender_id": "friedrichshafen_zentrales_datenmanagement_2025",
+      "theme": "Datenplattform",
+      "chapter": "2.5 Qualitätssicherung (QS)",
+      "block_id": "a-d117e7a4-5795-5b85-8190-00a852540969",
+      "text": "2.5. Qualitätssicherung (QS) Qualität entsteht nicht nur durch Tests am Ende, sondern durch regelmäßige Validierung:\n\n• Definition von Abnahmekriterien pro Arbeitspaket (fachlich & technisch)\n\n• Teilabnahmen je Meilenstein (Datenquelle, Dashboard, Schnittstelle etc.)\n\n• Testkonzept für Funktionen, Berechtigungen, Datenflüsse und Performance\n\n• Dokumentation & Nachvollziehbarkeit: Entscheidungen, Änderungen und offene Punkte werden kontinuierlich dokumentiert (verwaltungsnah verständlich).",
+      "length_tokens": 54,
+      "structure_path": "CONCEPT Konzept > 2 Projektplan – Umsetzungskonzept (Phasen, Meilensteine, Ressourcen, Risiko, Qualität) > 2.5 Qualitätssicherung (QS)"
+    },
+    {
+      "tender_id": "friedrichshafen_zentrales_datenmanagement_2025",
+      "theme": "Datenplattform",
+      "chapter": "3 Funktionen der Datenplattform (Datenintegration, Standards, Nutzerkonz",
+      "block_id": "a-c6bfd081-a9cd-5fff-9d72-976c509c799d",
+      "text": "3. Funktionen der Datenplattform (Datenintegration, Standards, Nutzerkonzept, Sicherheit)\n\nDie Datenplattform (Civitas Core; CIVITAS/CORE - Civitas Connect ) dient als modularer Daten- und Bereitstellungsservice, der sowohl interne Nutzungen (Verwaltung, Führung, Fachbereiche) als auch externe Nutzungen (Partner, Dienstleister, Öffentlichkeit) ermöglicht – jeweils über klar definierte und abgesicherte Zugänge.",
+      "length_tokens": 46,
+      "structure_path": "CONCEPT Konzept > 3 Funktionen der Datenplattform (Datenintegration, Standards, Nutzerkonzept, Sicherheit)"
+    },
+    {
+      "tender_id": "friedrichshafen_zentrales_datenmanagement_2025",
+      "theme": "Datenplattform",
+      "chapter": "3.1 Datenintegration und Datenmanagement",
+      "block_id": "a-d5478e59-4c79-5c8e-8e49-fde2a19fddbc",
+      "text": "3.1. Datenintegration und Datenmanagement Ziel ist die strukturierte Aufnahme und Bereitstellung von Daten aus:\n\n• städtischen Bestandssystemen und Fachverfahren,\n\n• IoT-Sensorik und Nahe-Echtzeitquellen,\n\n• Open-Data-Quellen,\n\n• externen Schnittstellen/APIs.\n\nWesentliche Funktionen im Datenmanagement:\n\n• Datenkatalog & Metadaten: Herkunft, Aktualität, Verantwortlichkeit, Nutzungsregeln\n\n• Datenaufbereitung: Vereinheitlichung und Plausibilisierung, damit Daten fachlich nutzbar werden\n\n• Nachvollziehbarkeit: „Welche Daten wurden wann wie verändert?“ als Basis für\n\nVertrauen\n\n• Datenbereitstellung für Analyse, Dashboards und Weiterverarbeitung in anderen Anwendungen",
+      "length_tokens": 72,
+      "structure_path": "CONCEPT Konzept > 3 Funktionen der Datenplattform (Datenintegration, Standards, Nutzerkonzept, Sicherheit) > 3.1 Datenintegration und Datenmanagement"
+    },
+    {
+      "tender_id": "friedrichshafen_zentrales_datenmanagement_2025",
+      "theme": "Datenplattform",
+      "chapter": "3.2 Datenstandard-Kompatibilität (Muss-Kriterium)",
+      "block_id": "a-2d13d8f6-a95a-5bf1-8519-f92dfde7b363",
+      "text": "3.2. Datenstandard-Kompatibilität (Muss-Kriterium) Die Plattform wird so konzipiert, dass sie bestehende Datenstandards unterstützen kann und neue Datenquellen nicht „Sonderfälle“ bleiben. Das reduziert Folgekosten und erhöht die Wiederverwendbarkeit. Der Fokus liegt dabei nicht auf Standard-Dogmatik, sondern auf pragmatischer Interoperabilität: Daten sollen in strukturierten Formaten vorliegen und klar beschrieben sein.",
+      "length_tokens": 48,
+      "structure_path": "CONCEPT Konzept > 3 Funktionen der Datenplattform (Datenintegration, Standards, Nutzerkonzept, Sicherheit) > 3.2 Datenstandard-Kompatibilität (Muss-Kriterium)"
+    },
+    {
+      "tender_id": "friedrichshafen_zentrales_datenmanagement_2025",
+      "theme": "Datenplattform",
+      "chapter": "3.3 Standardisierung und Interoperabilität",
+      "block_id": "a-e45b581e-e1ce-5c1b-ac62-6a9c20d7040b",
+      "text": "3.3. Standardisierung und Interoperabilität Die Stadt Friedrichshafen verfolgt mittelfristig den Aufbau eines städtischen Datenraums und perspektivisch die Vernetzung in andere Datenräume. Dafür ist die Platt- form offen, modular, interoperabel und erweiterbar auszulegen, gemäß DIN Spec 91357. Interoperabilität bedeutet in diesem Kontext:\n\n• neue Datenquellen können ergänzt werden, ohne bestehende Abläufe zu gefährden,\n\n• Anwendungen können Daten wiederverwenden, statt sie neu „nachzubauen“,\n\n• externe Partner können – falls gewünscht – über definierte Prozesse Daten liefern oder nutzen.",
+      "length_tokens": 76,
+      "structure_path": "CONCEPT Konzept > 3 Funktionen der Datenplattform (Datenintegration, Standards, Nutzerkonzept, Sicherheit) > 3.3 Standardisierung und Interoperabilität"
+    },
+    {
+      "tender_id": "friedrichshafen_zentrales_datenmanagement_2025",
+      "theme": "Datenplattform",
+      "chapter": "4 Plattformfunktionen und Nutzerkonzept (Zugänge, Funktionen, Dashboards",
+      "block_id": "a-1707d797-fbec-5c09-827c-937979115132",
+      "text": "4. Plattformfunktionen und Nutzerkonzept (Zugänge, Funktionen, Dashboards/KI)",
+      "length_tokens": 7,
+      "structure_path": "CONCEPT Konzept > 4 Plattformfunktionen und Nutzerkonzept (Zugänge, Funktionen, Dashboards/KI)"
+    },
+    {
+      "tender_id": "friedrichshafen_zentrales_datenmanagement_2025",
+      "theme": "Datenplattform",
+      "chapter": "4.1 Zugangswege",
+      "block_id": "a-14f33f06-ed62-5722-807d-7f2ae56b4ea8",
+      "text": "4.1. Zugangswege Die Plattform stellt benutzerfreundliche und sichere Zugangswege bereit – abgestimmt auf die Nutzergruppen: Verwaltung, externe Dienstleister/Partner und ggf. Öffentlichkeit. Wichtige Prinzipien:\n\n• Rollenbasierte Zugriffe: „Wer darf was sehen und nutzen?“\n\n• Trennung interner und externer Nutzung (z. B. interne Fachauswertungen\n\nvs. öffentliche Daten)\n\n• Sicherer Datenaustausch mit klaren Nutzungsregeln und Protokollierung",
+      "length_tokens": 53,
+      "structure_path": "CONCEPT Konzept > 4 Plattformfunktionen und Nutzerkonzept (Zugänge, Funktionen, Dashboards/KI) > 4.1 Zugangswege"
+    },
+    {
+      "tender_id": "friedrichshafen_zentrales_datenmanagement_2025",
+      "theme": "Datenplattform",
+      "chapter": "4.2 Funktionale Anforderungen: Dashboards, Analysen, Echtzeit, KIOptionen",
+      "block_id": "a-23824776-198c-5031-a796-49195d706409",
+      "text": "4.2. Funktionale Anforderungen: Dashboards, Analysen, Echtzeit, KIOptionen Die Plattform unterstützt die Nutzung über:\n\n• Dashboards und Analyse-Oberflächen für Fachbereiche und Entscheidende,\n\no Dabei kann der AG auf das Know-How und die Erfahrung des AN aus mehr\n\nals 80 realisierten Use Cases in den Bereichen Klima, Energie und Verkehr / Mobilität zurückgreifen.\n\no Darüber hinaus kann der AG die bereits entwickelten Use Cases, durch die\n\nOpen Source basierte Umsetzung, direkt nachnutzen\n\n▪ Z.B. die Use Cases aus Fulda\n\n▪ Die sensorunabhängige Verkehrsanalyse aus Mannheim & Kiel\n\n▪ Das Energiemanagement für kommunale Liegenschaften aus Westhausen\n\n• Echtzeit- bzw. Nahe-Echtzeit-Visualisierung für geeignete Datenquellen,\n\n• Auswertungen und Berichte, die wiederkehrend erzeugt werden können.\n\nKI-gestützte Funktionen werden als Option betrachtet, die auf einer sauberen Datenbasis aufsetzt (z. B. Prognosen, Mustererkennung, Anomalien). Entscheidend ist: KI wird nicht „um der KI willen“ eingeführt, sondern nur dort, wo sie fachlich messbaren Nutzen stiftet.",
+      "length_tokens": 145,
+      "structure_path": "CONCEPT Konzept > 4 Plattformfunktionen und Nutzerkonzept (Zugänge, Funktionen, Dashboards/KI) > 4.2 Funktionale Anforderungen: Dashboards, Analysen, Echtzeit, KIOptionen"
+    },
+    {
+      "tender_id": "friedrichshafen_zentrales_datenmanagement_2025",
+      "theme": "Datenplattform",
+      "chapter": "5 Sicherheits- und Datenschutzmaßnahmen (DSGVO, Zugriff, Verschlüsselung",
+      "block_id": "a-0504da47-b514-58bb-ae63-b162c03ca52e",
+      "text": "5. Sicherheits- und Datenschutzmaßnahmen (DSGVO, Zugriff, Verschlüsselung)\n\nSicherheit und Datenschutz sind integrale Bestandteile der Plattform – nicht „nachgelagert“. Dies umfasst:\n\n• DSGVO-konforme Datenverarbeitung (insbesondere bei personenbezogenen\n\noder personenbeziehbaren Daten)\n\n• Zugriffskontrollen über Rollen- und Rechtekonzepte\n\n• Verschlüsselung beim Transport und – wo erforderlich – bei der Speicherung\n\n• Protokollierung relevanter Zugriffe und Datenflüsse zur Nachvollziehbarkeit\n\nWichtig aus Verwaltungssicht: Für jede Datenquelle wird transparent gemacht, welcher Schutzbedarf vorliegt, und welche Nutzungsregeln gelten. So entsteht Rechtssicherheit und Handlungsfähigkeit.",
+      "length_tokens": 76,
+      "structure_path": "CONCEPT Konzept > 5 Sicherheits- und Datenschutzmaßnahmen (DSGVO, Zugriff, Verschlüsselung)"
+    },
+    {
+      "tender_id": "friedrichshafen_zentrales_datenmanagement_2025",
+      "theme": "Datenplattform",
+      "chapter": "6 Cloud-Betrieb, Performance, Wartung, Verfügbarkeit",
+      "block_id": "a-e91f7f9d-a441-5759-a9ee-ace5045c05cf",
+      "text": "6. Cloud-Betrieb, Performance, Wartung, Verfügbarkeit",
+      "length_tokens": 5,
+      "structure_path": "CONCEPT Konzept > 6 Cloud-Betrieb, Performance, Wartung, Verfügbarkeit"
+    },
+    {
+      "tender_id": "friedrichshafen_zentrales_datenmanagement_2025",
+      "theme": "Datenplattform",
+      "chapter": "6.1 Softwarearchitektur: Cloud-basierte Lösung",
+      "block_id": "a-468dc835-020d-54e8-a5b4-c9f5f627be8c",
+      "text": "6.1. Softwarearchitektur: Cloud-basierte Lösung Die Software wird als Cloud-basierter Dienst, in einem Kubernetes Cluster auf IONOS (in Deutschland und ISO 27001 zertifiziert), betrieben. Dadurch werden zentrale Anforderungen der Ausschreibung erfüllt: Betrieb, Wartung und Skalierung können effizient organisiert werden, ohne lokale Infrastruktur aufbauen zu müssen.",
+      "length_tokens": 44,
+      "structure_path": "CONCEPT Konzept > 6 Cloud-Betrieb, Performance, Wartung, Verfügbarkeit > 6.1 Softwarearchitektur: Cloud-basierte Lösung"
+    },
+    {
+      "tender_id": "friedrichshafen_zentrales_datenmanagement_2025",
+      "theme": "Datenplattform",
+      "chapter": "6.2 Kennzahlen (CPU/RAM) und Skalierbarkeit",
+      "block_id": "a-6da4e982-eb90-5054-820e-7e450a5eba24",
+      "text": "6.2. Kennzahlen (CPU/RAM) und Skalierbarkeit Die Plattform wird mit definierten Basisressourcen betrieben (Standard-Leistungswerte wie CPU/RAM) und kann bei Bedarf erweitert werden. Skalierung ist dabei nicht nur „mehr Leistung“, sondern umfasst z. B.:\n\n• mehr Datenquellen / höhere Frequenzen,\n\n• mehr Nutzer,\n\n• mehr Auswertungen und Dashboards,\n\n• zusätzliche externe Zugriffe.",
+      "length_tokens": 50,
+      "structure_path": "CONCEPT Konzept > 6 Cloud-Betrieb, Performance, Wartung, Verfügbarkeit > 6.2 Kennzahlen (CPU/RAM) und Skalierbarkeit"
+    },
+    {
+      "tender_id": "friedrichshafen_zentrales_datenmanagement_2025",
+      "theme": "Datenplattform",
+      "chapter": "6.3 Betrieb, Wartung, SLA und Weiterentwicklung",
+      "block_id": "a-57b6d3a3-4170-53a4-ba80-db7aebef0b3f",
+      "text": "6.3. Betrieb, Wartung, SLA und Weiterentwicklung Für den Regelbetrieb sind entscheidend:\n\n• klar definierte Supportprozesse (Incident/Request),\n\n• regelmäßige Wartungsfenster und Updates,\n\n• nachvollziehbares Änderungsmanagement,\n\n• Weiterentwicklung entlang eines priorisierten Backlogs (produktorientiert statt\n\n„Ticket-Chaos“).",
+      "length_tokens": 33,
+      "structure_path": "CONCEPT Konzept > 6 Cloud-Betrieb, Performance, Wartung, Verfügbarkeit > 6.3 Betrieb, Wartung, SLA und Weiterentwicklung"
+    },
+    {
+      "tender_id": "friedrichshafen_zentrales_datenmanagement_2025",
+      "theme": "Datenplattform",
+      "chapter": "6.4 Systemperformance, Redundanz, Notfallmanagement",
+      "block_id": "a-51d95086-9ed1-5912-9b07-258748c49481",
+      "text": "6.4. Systemperformance, Redundanz, Notfallmanagement Die Plattform wird so ausgelegt, dass sie auch bei steigender Nutzung stabil bleibt. Dazu gehören:\n\n• Monitoring und Alerting,\n\n• definierte Wiederanlaufprozesse,\n\n• Backup-/Restore-Konzept,\n\n• organisatorische Notfallprozesse (wer entscheidet was im Ernstfall).",
+      "length_tokens": 36,
+      "structure_path": "CONCEPT Konzept > 6 Cloud-Betrieb, Performance, Wartung, Verfügbarkeit > 6.4 Systemperformance, Redundanz, Notfallmanagement"
+    }
+  ],
+  "links": []
+}

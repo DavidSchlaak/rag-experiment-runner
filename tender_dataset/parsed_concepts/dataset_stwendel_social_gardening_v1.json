@@ -1,0 +1,203 @@
+{
+  "blocks": [
+    {
+      "tender_id": "stwendel_social_gardening_2023",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit ",
+      "chapter": "Leistungsbeschreibung",
+      "block_id": "q-909f90fd-2a94-5c83-a1d1-4ecd4e32cb74",
+      "text": "Leistungsbeschreibung\n\nLeistungsbeschreibung – Social Gardening in der Kreisstadt St. Wendel (Sensorik und Visualisierung) Im Rahmen des Modellprojekts Smart Cities wird der Landkreis Sankt Wendel seit 2020 vom Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen (BMWSB) gemeinsam mit der Kreditanstalt für Wiederaufbau (KfW) für die Projektdauer bis einschließlich Dezember 2027 gefördert. Im Rahmen des Modellprojektes sollen als Teilmaßnahme soziale Garten gestaltet werden. In der Kreisstadt St. Wendel soll diesbezüglich ein erster Pilot für die Umsetzung erprobt werden. Ziel ist es, die soziale Komponente in der Kreisstadt zu stärken. Darüber hinaus soll der Einsatz von Sensoren die Nutzer:innen bei der Gartenpflege unterstützen. Dazu wird von der Kreisstadt eine Fläche samt Beete in zentraler Lage zur Verfügung gestellt. Die folgende Leistungsbeschreibung beinhaltet die für den Bieter angebotsrelevanten Informationen. Es ist zu beachten, dass etwaige Quellcodes (z.B. von Dashboards) auf OpenSource-Basis zu entwickeln sind. Die Quellcodes sind auf OpenCode.de unter den dort genannten Lizenzen zu veröffentlichen. Es wird grundlegend ein strenges Copyleft verfolgt. Alle Entwicklungen sind so zu gestalten, dass ein späterer Umzug auf eine eigene, noch zu entwickelnde Datenplattform des Landkreises möglich ist. Umsetzung und Rechnungsstellung bis spätestens 30.06.2023. Alle Leistungen sind inkl. Nebenkosten zu kalkulieren. Gewertet wird der Nettoangebotspreis.",
+      "length_tokens": 196,
+      "structure_path": "LV Leistungsbeschreibung > Leistungsbeschreibung"
+    },
+    {
+      "tender_id": "stwendel_social_gardening_2023",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit ",
+      "chapter": "Leistungspaket 1: Vorab-Besprechung",
+      "block_id": "q-29f888a6-5e69-5ff4-b9ac-46f46b0c00ea",
+      "text": "Leistungspaket 1: Vorab-Besprechung\n\nIm Rahmen einer Vorab-Besprechung sind mit allen Beteiligten die genauen Modalitäten abzustimmen. Es sind folgende Beteiligte bekannt:\n\n- Kreisstadt St. Wendel\n\n- Landkreis Sankt Wendel\n\n- Wirtschaftsförderung St. Wendeler Land mbH",
+      "length_tokens": 34,
+      "structure_path": "LV Leistungsbeschreibung > Leistungspaket 1: Vorab-Besprechung"
+    },
+    {
+      "tender_id": "stwendel_social_gardening_2023",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit ",
+      "chapter": "Leistungspaket 2: Sensoren",
+      "block_id": "q-b6693628-b5de-5887-bb6e-a4a2d757e038",
+      "text": "Leistungspaket 2: Sensoren\n\nUm die im Leistungspaket 3 beschriebene Visualisierung mit Daten zu untermauern, sollen Sensoren beschafft und eingebaut werden (12 Sensoren). Anforderungen an die Sensoren: Leitfabrikat:\n\n• DRA LSE01 LoRaWAN Bodenfeuchte- und EC-Sensoren sein.\n\n• Bezeichnung: DRAGINO LSE01-EU868 868 MHz (EU-Version)\n\n• Artikelnr.: LSE01-EU868\n\noder gleichwertig. Mindestanforderungen:\n\n• LoRaWAN 1.0.3 Klasse A\n\n• Niedriger Stromverbrauch\n\n• Bodenfeuchte überwachen\n\n• Bodentemperatur überwachen\n\n• Bands: CN470/EU433/KR920/US915/EU868/AS923/AU915/IN865\n\n• AT-Befehle zum Ändern von Parametern\n\n• Uplink periodisch einschalten\n\n• Downlink zum Ändern der Konfiguration\n\n• IP66 Wasserdichtes Gehäuse\n\n• 4000mAh Akku für Langzeiteinsatz\n\nBeim Start wird sich bei den Sensoren lediglich auf das Messen der Bodenfeuchte und -temperatur beschränkt. Weitere Sensoren sollen im Nachhinein eingebunden werden können. Dies soll als optionale Position im Angebot festgehalten werden.",
+      "length_tokens": 123,
+      "structure_path": "LV Leistungsbeschreibung > Leistungspaket 2: Sensoren"
+    },
+    {
+      "tender_id": "stwendel_social_gardening_2023",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit ",
+      "chapter": "Leistungspaket 3: Datenbank",
+      "block_id": "q-9489c4b0-8724-5f8c-a977-0c8d2d80cafd",
+      "text": "Leistungspaket 3: Datenbank\n\nFür die Datenannahme von den Betreibern und um einen historischen Verlauf erstellen zu können, muss eine eigene Datenbank hierfür entwickelt werden.\n\n- Initialisierung der Datenbankstruktur, Datensicherung und Sicherheit des Systems\n\n- Implementierung von Konnektoren zu den Datenbeständen der Betreiber\n\n- Datenspeicherung (für historische Verläufe)\n\nEine Serverlandschaft (Hosting) muss vorübergehend ebenfalls zur Verfügung gestellt werden. Die Kosten hierfür sind pro Monat anzugeben. Perspektivisch entwickelt der Landkreis St. Wendel im kommenden Jahr seine eigene Serverlandschaft (Datenplattform). Eine mögliche Skalierung des Systems muss dennoch jederzeit möglich sein.",
+      "length_tokens": 87,
+      "structure_path": "LV Leistungsbeschreibung > Leistungspaket 3: Datenbank"
+    },
+    {
+      "tender_id": "stwendel_social_gardening_2023",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit ",
+      "chapter": "Leistungspaket 4: Visualisierung",
+      "block_id": "q-297ec1bc-e212-5fbc-9aaf-4ff106219066",
+      "text": "Leistungspaket 4: Visualisierung\n\nDie von den Sensoren erfassten Daten sollen den Nutzer:innen in Form eines Dashboard präsentiert werden. Die Darstellung soll dabei verständlich und ansprechend sein. Die einzelnen Sensoren sollen den einzelnen Beeten bzw. Pflanzen zugeordnet werden können. Dies setzt eine 2D Aufnahme der Beete in die Visualisierung voraus. Das geschaffene Dashboard soll über eine Subdomain des Landkreises abrufbar sein. Entsprechende Schnittstellen werden dafür zur Verfügung gestellt. Bei der Darstellung ist ein responsive web design zu beachten. Die Anpassung des Dashboards ist mit dem Presseamt des Landkreises auf die Corporate Identity (s. Anhang) abzustimmen.",
+      "length_tokens": 94,
+      "structure_path": "LV Leistungsbeschreibung > Leistungspaket 4: Visualisierung"
+    },
+    {
+      "tender_id": "stwendel_social_gardening_2023",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit ",
+      "chapter": "Leistungspaket 5: Wartung und Support",
+      "block_id": "q-ed099017-2b25-5446-9c8d-f07aab62560a",
+      "text": "Leistungspaket 5: Wartung und Support\n\nDer Betreiber stellt über die Laufzeit 2nd-Level Support zur Verfügung und stellt die Funktionsfähigkeit des Systems sicher.",
+      "length_tokens": 22,
+      "structure_path": "LV Leistungsbeschreibung > Leistungspaket 5: Wartung und Support"
+    },
+    {
+      "tender_id": "stwendel_social_gardening_2023",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit ",
+      "chapter": "Allgemeine Anmerkungen",
+      "block_id": "q-557014a3-260e-5b15-a44d-93fa29a052d7",
+      "text": "Allgemeine Anmerkungen\n\n- Wartung und Support sollen bis 31.12.2024 erfolgen mit der Option zur Verlängerung\n\n- Erklärung zur Echtzeitdarstellung: Die Daten werden in einem Zeitintervall je nach Daten- und\n\nRessourcenverfügbarkeit aktualisiert\n\n- Server: Standort in der EU und ISO27001 zertifiziert\n\n- Im Angebot sollen übliche regelmäßige Updates enthalten sein\n\n- Alle Anwendungen müssen auf Open Source basieren\n\n- Offene Systeme, die jederzeit –auch durch Dritte- weiterentwickelt werden können",
+      "length_tokens": 68,
+      "structure_path": "LV Leistungsbeschreibung > Allgemeine Anmerkungen"
+    },
+    {
+      "tender_id": "stwendel_social_gardening_2023",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit ",
+      "chapter": "Ausgangssituation und Zielstellung",
+      "block_id": "a-e4cb4384-90ef-595d-8ffc-413ae2685a93",
+      "text": "Ausgangssituation und Zielstellung\n\nDer Auftraggeber (AG) plant die Umsetzung der Teilmaßnahme „Social Gardening“ bzw. soziale Garten im Rahmen des Modellpr ojekts Smart Cities. Dabei soll en Nutzer:innen durch den Einsatz von Sensoren bei der Gartenpflege unterstützt werden. Das übergeordnete Ziel stellt dabei die Fö rderung sozialer Aspekte der Kreisstadt St. Wendel dar. Dabei stehen folgende, wesentliche Ziele im Vordergrund:\n\n• Integration und Anbindung der Datenquellen (Sensordaten) sowie die Implementierung von Konnektoren zu Datenbeständen de r Betreiber\n\n• Aufbau einer (vorübergehenden) und skalierbaren Datenbankstruktur mit Serverlandschaft (Standort in der EU und IOS27001 zertifiziert) inkl. Datensicherung und Sicherheit\n\ndes zu entwickelnden Systems sowie regelmäßigen Updates, die nachtr äglich in eine noch zu entwickelnde Datenplattform des Landkreises Sankt Wendels überführbar ist\n\n• Aufnahme und 2D-Visualisierung der Beete im Rahmen eines Dashboards im responsive Webdesign\n\n• Entwicklung der Quellcodes auf Open Source Basis mit Veröffentlichung auf OpenCode.de\n\n• Umsetzung und Rechnungsstellung bis spätestens 30.06.2023\n\n• Bereitstellung eines 2nd -Level Supports",
+      "length_tokens": 156,
+      "structure_path": "CONCEPT Konzept > Ausgangssituation und Zielstellung"
+    },
+    {
+      "tender_id": "stwendel_social_gardening_2023",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit ",
+      "chapter": "Leistungsangebot",
+      "block_id": "a-a00c96f1-f4fb-510c-9d97-c8a3d0023ee4",
+      "text": "Leistungsangebot\n\nIm Rahmen des Leistungsangebots der KI -P GmbH (im folgenden Auftragnehmer bzw. AN) stellen wir ein System in Form einer Daten plattfor m, inkl. Daten einbindung, -verarbeitung und -speicherung, sowie darauf aufbauende Dashboards mit einer 2D-Visualisierung der Beete mit integrierten Messwerten bereit. Das System zeichnet sich durch folgende Eigenschaften aus:\n\n• Interoperabilität: Anbindung und Zusammenführung von Datenquellen unterschiedlicher Herkunft und Ausgabe über offene Schnittstellen.\n\n• Modularität: Das System zeichnet sich durch ein modulares Baukastensystem aus und\n\nist jederzeit um weitere Datenquellen oder Use Cases erweiterbar (z.B. Sensordate n). Dies gilt sowohl für die Datenplattform als auch die Dashboards. Darüber hinaus bietet das System die Möglichkeit, Ser vices wie z.B. Buchungs - und Bezahlvorgänge durchzuführen.\n\n• Skalierbarkei t und Performanz: Das Systemsetup ermöglicht die Echtzeitdarstellung\n\nder Daten sowie eine dynamische Skalierbarkeit.\n\n• Standort und Zertifizierung: Der Standort der Server für das beschriebene System ist\n\ninnerhalb der EU und ISO27001 zertifiziert.\n\n• Open -Source: Das System basiert auf Open Source Komponenten.\n\n• Integrierbarkeit: Eine s pätere Integrierbarkeit in Datenplattform des Landkreises ist\n\nmöglich. Darüber hinaus gewährleisten der AN eine 2nd -Level Support über die gesamte Projektlaufzeit bis Ende 2024.",
+      "length_tokens": 188,
+      "structure_path": "CONCEPT Konzept > Leistungsangebot"
+    },
+    {
+      "tender_id": "stwendel_social_gardening_2023",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit ",
+      "chapter": "Projektmanagement",
+      "block_id": "a-5a0dad93-372f-5aa5-967c-570643eea975",
+      "text": "Projektmanagement\n\nDer verfolgte Projektmanagementansatz kombiniert die Anforderungen des \"klassischen\" Projektmanagements, der übergreifenden Projektsteuerung und der agilen Entwicklung auf Basis von Scrum. Zur Umsetzung de s Pilotprojekts „So cial Gardening“ verfolg en wir den folgenden vorläufigen Projektplan, wobei dieser zwischen AG und AN nach einer möglichen Auf- tragserteilung abgestimmt wird. Abbildung 1: Entwurf des v orläufige n Projektplan s. Quelle: Eigene Darstellung Nachdem der Projektplan in einem Kickoff mit dem AG abgestimmt und ein gemeinsames Verständnis zu Anforderungen und Projektzielen, beteiligte Stakeholder wie die Energieanlagenbetreiber und Rahmenbedingungen geschaffen ist, geht das Projektmanagement in die Projektsteuerung über. Im Rahmen der Projektsteuerung wird die zeitliche und inhaltliche Koordination der verschiedenen Leistungs - und Arbeitspakete und Projektbeteiligten durchge- führt. Dabei werden folgende Leistungen erbracht:\n\n• Zweiwöchentliche Abstimmung zur Projektsteuerung mit der Projektleitung des AG\n\n• Transparenz über den Umsetzungsstand der Projektumsetzung\n\n• Kontinuierliche Überwachung und Kontrolle des Projektfortschritts. Im Falle negativer\n\nAbweichungen von der Projektplanung werden frühzeitig Gegenmaßnahmen ermittelt und Änderungen vorgeschlagen\n\n• Frühzeitige und aktive Einbindung relevanter Stakeholder\n\nUnser interdisziplinäres Projektteam setzt sich aus unterschiedlichen fachlichen und methodischen Kompetenzen, insbesondere zu den Themen Smart -City, digitalen Plattformen, agiler Softwareentwicklung und Projektmanagement, zusammen. Auf Basis der aktuell vorliegenden Informationen sehen wir für die Projektrealisierung die nachfolgenden Rollen vor. Im Rahmen der gemeinsamen Projektinitialisierungsphase werden die einzelnen Rollen detaillierter ausgeprägt. Auf dieser Grundlage wird über die Zuordnung der Rollen zu einzelnen Teammitgliedern final entschieden.\n\n• Projektleitung und stellvertretende Projektleitung\n\n• Scrum Master\n\n• Product Owner\n\n• Scrum / Entwicklungsteam",
+      "length_tokens": 244,
+      "structure_path": "CONCEPT Konzept > Projektmanagement"
+    },
+    {
+      "tender_id": "stwendel_social_gardening_2023",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit ",
+      "chapter": "Mitwirkungspflicht",
+      "block_id": "a-dd60329b-d1a7-59e5-98ae-9605478a7d4d",
+      "text": "Mitwirkungspflicht\n\nEine wesentliche Grundlage für erfolgreiche Projekte ist eine vertrauensvolle Zusammenarbeit zwischen dem AG und dem AN. Der AG ist an allen Projektschritten intensiv beteiligt, um Veränderungsprozesse zu gestalten und die Einführung zu unterstützen. Im Ei nzelnen ist der AG zur Erbringung folgender Mitwirkungshandlungen verpflichtet, die für die AN kostenfrei sind:\n\n• Der Kunden -Projektleiter ist mitverantwortlich für die Definition des Projektumfangs\n\nund Abstimmung des Projektplans.\n\n• Es wird ein verantwortlicher Mitarbeiter mit Stellvertretung als Projektleiter zur Verfügung gestellt.\n\n• Der AG informiert vor Projektstart seine Teammitglieder über alle Vereinbarungen, die\n\nfür die Projektdurchführung relevant sind. Dies betrifft insbesondere vereinbarte Zielsetzungen wie z.B. Einführung standardisierter Prozesse und Abweichungen vom Stan- dard nur in begründeten Sonderfällen.\n\n• Bereitstellung von Zugangsinformationen für Systeme (z.B. LoRa Netzwerkserver zur\n\nIntegration der Sensoren). Der AG stellt sämtliche Informationen, Unterlagen und Daten, die für die Leistungserbringung der AN erforderlich sind, termingerecht zur Verfügung. Auf Anforderung wird passend zum Informationsbedarf relevante Dokumentation vom AG zur Verfügung gestellt un d bei Bedarf das Team der AN erläutert.",
+      "length_tokens": 169,
+      "structure_path": "CONCEPT Konzept > Projektmanagement > Mitwirkungspflicht"
+    },
+    {
+      "tender_id": "stwendel_social_gardening_2023",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit ",
+      "chapter": "Leistungspaket 1: Vorab-Besprechung",
+      "block_id": "a-e2c0cb6c-089d-5a1e-9801-62161c03b695",
+      "text": "Leistungspaket 1: Vorab-Besprechung\n\nNachdem die Kommunikation zu Anforderungen und Erwartungshaltung des AG im Kickoff und im Rahmen der Projektsteuerung erfolgt, stehen in Leistungspaket 1 die Abstimmung der spezifischen Modalitäten für die Projektumsetzung im Fokus. Hierfür w ird ein oder mehrere Workshop s mit den beteiligten Akteursgruppen durchgeführt. Bisher sind folgende Beteiligte bekannt:\n\n• Kreisstadt St. Wendel\n\n• Landkreis Sankt Wendel\n\n• Wirtschaftsförderung St. Wendeler Land mbH\n\nDie Zielstellung und I nhalte der Vorab -Besprechung sowie deren Durchführung wird durch den AN erarbeitet und m it dem AG abgestimmt. Dabei können folgende Fragestellungen und Themen Bestandteilt sein:\n\n• Identifikation und Definition der (kurz- und mittelfristigen) Zielstellung und zu adressierenden Nutzergruppen des Social Gardening Projekts\n\n• Aufzeigen möglicher Endergebnisse (Visualisierungen) des Projekts durch den AN\n\n• Abstimmung und Festlegung eines gemeinsamen Zielbilds und dessen Umsetzung\n\n(z.B. Ausgestaltung d er Visualisierung, Bereitstellung der Visualisierung aus Leistungspaket 4)",
+      "length_tokens": 144,
+      "structure_path": "CONCEPT Konzept > Leistungspaket 1: Vorab-Besprechung"
+    },
+    {
+      "tender_id": "stwendel_social_gardening_2023",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit ",
+      "chapter": "Leistungspaket 2: Sensoren",
+      "block_id": "a-00e29f77-9e25-5a5a-bdb4-e04075274d8b",
+      "text": "Leistungspaket 2: Sensoren\n\nUnter Einbezug der durch den AG aufgeführten Mindestanforderungen, kümmert sich der AN um die Beschaffung, Einbindung und Integration in das LoRaWAN (LoRa Netzwerkserver) des Landkreises und Installation der Sensoren. Gemäß Mindestanforderungen greift der AN auf das angegebene Leitfabrikat Dragino LS E01 zurück. Für die Auswahl und Integration weiterer Sensoren wird die Erfahrung unterschiedlicher Projekte eingebracht. Je nach verfolgtem Ziel – auch im Hinblick auf Messung von Bodenfeuchte und -temperaturen – werden Einschätzungen und Unterstützung zu verwendetem Sensorkopf sowie Art der Bestimmung von bspw. Bodenfeuchte gegeben.",
+      "length_tokens": 88,
+      "structure_path": "CONCEPT Konzept > Leistungspaket 2: Sensoren"
+    },
+    {
+      "tender_id": "stwendel_social_gardening_2023",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit ",
+      "chapter": "Leistungspaket 3: Datenbank",
+      "block_id": "a-ce0d730f-e416-5380-af60-7d528d6430f0",
+      "text": "Leistungspaket 3: Datenbank\n\nFür die Integration der Daten unterschiedlicher Sensoren und Datenquellen sowie zur Visualisierung historischer Datenverläufe stellt der AN eine Datenbank, respektive Datenplattform zur Verfügung. Hierbei wurde bei der Konzeption der Datenplattform neben der Sicherheit des Systems die Interoperabilität mit Drittsystemen und Offenheit des Systems als Prämissen, gemäß der DIN SPEC 91357, definiert. Die dadurch modulare Schnittstellenarchitektur ermöglicht die Integration neuer Schnittstellen (u.a. MQTT, Webho ok über TTN / TTI) und der Daten in Echtzeit. Die Schnittstellenarchitektur sieht zur Verallgemeinerung der Schnittstellen einen abstrakten Adapter vor. Dieser regelt die Vereinheitlichung der verschiedenen Protokolle und Datenformate der externen Schnittstellen und definiert somit eine allgemeine Schnittstelle. Die Adapter werden in zwei große Bereiche unterteilt: anliefernde und abholende Adapter. Für die anliefernden Schnittstellen werden versionierte Schnittstellen zur Verfügung gestellt, sodass bestehe nde externe Systeme in dem geforderten Übergangszeitraum mit der bekannten Version, ohne Einschränkung, weiterarbeiten können. Abholende Schnittstellen werden über einen modernen Scheduler gesteuert, sodass verschiedene periodische Abrufe oder ereignisgesteuerte Abrufe (z.B. neue Datei vorhanden) ermöglicht werden. Ist die Datenanbindung erfolgt, werden die Daten zur persistenten Verfügbarkeit in entsprechenden hochskalierbaren relationalen Datenbanken, z.B. MySQL, InfluxDB oder Cockro- achDB gespeichert. Hier wird im Vorfeld die entsprechende Datenbankinfrastruktur mit verbundenem Datenmodell (z.B. Star Modell) und Datenbankstruktur aufgesetzt und über den Projektzeitraum betrieben. Hierbei werden die Prinzipien der effizienten und datenspars amen Datenhaltung ebenso berücksichtigt wie eine sorgfältige Erfassung der Metadaten der jeweiligen Daten (-quellen). Um einen Echtzeitschutz der Daten zu gewährleisten, erfolgt die Spei- cherung der Daten redundant in unterschiedlichen Umgebungen, mindesten s auf täglicher Basis. Das Hosting mit notwendigen Sicherheitsstandards (u.a. tägliche Backups zur Datensicherung, mehrere Firewalls und Antivirus Programme) wird gewährleistet, wobei die Standorte der Server in der EU liegen und diese den Anforderungen ISO27001 (Informationssicherheitsmanagementsystem (ISMS) entsprechen (entsprechende Nachweise können vorgelegt wer- den). Dies inkludiert ebenfalls die Durchführung regelmäßiger Updates.",
+      "length_tokens": 299,
+      "structure_path": "CONCEPT Konzept > Leistungspaket 3: Datenbank"
+    },
+    {
+      "tender_id": "stwendel_social_gardening_2023",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit ",
+      "chapter": "Leistungspaket 4: Visualisierung",
+      "block_id": "a-db188cec-2e86-5af6-a0c4-9783b1ac251f",
+      "text": "Leistungspaket 4: Visualisierung\n\nZur Visualisierung der erfassten Daten stellt der AN ein webbasiertes Dashboard zur Verfügung. Dabei wird der mit dem AG abgestimmte Weg zur Einbindung des Dashboards in die Subdomain des Lan dkreises gewählt (z.B. über IFrame). Die Entwicklung des Dashboards – im responsive Webdesign und Corporate Identity des Landkreises – basiert auf Open Source Komponenten. Hierbei kann die Visualisierung der Daten, anfangs zu Bodenfeuchte und -temperatur, in einzelnen Widgets ohne Raumbezug und mit räumlicher Verortung erfolgen. Die ansprechende und verständliche Darstellung der Informationen nimmt dabei einen hohen Stellenwert ein. Einige der nachfolgend aufgeführten Varianten zur Darstellung werden dem AG und den beteiligten Akteursgruppen in den Vorabstimmungen vorgestellt gemeinsam weiterentwickelt und anschließend durch den AN umgesetzt.\n\n• Integration von Popups mit erklärenden Texten, z.B. zu den Pflanzen, Sensoren, gesammelten Daten oder abgeleitete Erkenntnisse (siehe Abbildung 2)\n\n• Unterschiedliche Darstellungsoptionen der Daten, z.B. Verlaufsgrafiken über einen bestimmten Zeitraum, Absolut - oder Vergleichswerte\n\n• Integration der Echtzeitdaten in das 2D Modell der Beete und Pflanzen\n\n• Ableitung von Handlungsempfehlungen, z.B. notwendige Bewässerung der Pflanzen\n\nAbbildung 2: Darstellungsoptionen für ergänzende Informationen. Quelle: Eigene Darstellung Feldfunktion geändert Folgende Abbildung zeigt im Widget Land - & Forstwirtschaft – Klimawald eine beispielhafte Darstellung der Bodenfeuchte sowie der Lufttemperatur als Absolutzahl bzw. im zeitlichen Verlauf. Abbildung 3: Darstellungsoptionen der erfassten Daten. Quelle: Eigene Darstellung Feldfunktion geändert Bei der Aufnahme der Beete wird auf hochauflösende Erfassungssysteme zurück gegriffen, die eine maßstabsgetreue Nachbildung der Beete ermöglichen. Nachfolgende Abbildung zeigt beispielhafte Aufnahmen im 2D und 3D Modell. Diese Aufnahmen könnten als Basis zur Visualisierung mit Integration der Echtzeitdaten verwendet werden. Abbildung 4: Beispielhafte Aufnahmemöglichkeiten und Darstellung der Beete. Quelle: Eigene Darstellung Feldfunktion geändert Das Angebot des AN umfasst 3 Iterationsstufen zur Entwicklung der finalen Ausprägung des Dashboards. In den jeweiligen Iterationsstufen haben AG und beteiligte Akteursgruppen die Gelegenheit Wünsche und Anforderungen einzubringen bzw. zu definieren. Jede Iterationsstufe wird eng mit dem AG abgestimmt.",
+      "length_tokens": 314,
+      "structure_path": "CONCEPT Konzept > Leistungspaket 4: Visualisierung"
+    },
+    {
+      "tender_id": "stwendel_social_gardening_2023",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit ",
+      "chapter": "Leistungspaket 5: Wartung und Support",
+      "block_id": "a-f8438bc1-3627-5d52-837f-8f814942607f",
+      "text": "Leistungspaket 5: Wartung und Support\n\nZur Sicherstellung des Systems mit zugrundeliegender Datenbank / Datenplattform und Dashboard zu Datenvisualisierung, erbringt der AN über die gesamte Projektlaufzeit einen soge- nannten 2nd -Level Support. Die Störungsmeldungen können telefonisch oder per Mail erfolgen. Der AN b ietet folgenden Standardservicezeiten an, wobei Samstag, Sonn - und Feiertage in Baden -Württemberg sowie die betriebliche Schließung zwischen Weihnachten und Neujahr von den Servicezeiten ausgenommen sind. Wochentag Betreute Betriebszeit Unbetreute Betriebszeit Mo - Fr 08:00 - 17:00 17:00 - 08:00 Sa/So/Feiertag - 00:00 - 24:00 Die Standard Reaktions - und Wiederherstellungszeiten ergeben sich aus der Klasse der aufkommenden Mängel. Hier erbringt der AN folgende Leistungen. Reaktionszeit* Wiederherstellungszeit* Mängelklasse in Stunden in Stunden Betriebsverhindern4 Stunden 8 Stunden der Mangel Betriebsbehindern8 Stunden 16 Stunden der Mange l Leichter Mangel 8 Stunden 24 Stunden Davon abweichende Anforderungen durch den AG sind in Abstimmung mit dem AN möglich.",
+      "length_tokens": 146,
+      "structure_path": "CONCEPT Konzept > Leistungspaket 5: Wartung und Support"
+    },
+    {
+      "tender_id": "stwendel_social_gardening_2023",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit ",
+      "chapter": "Ergänzende Informationen / Allgemeines",
+      "block_id": "a-9cd51554-070b-54a2-83e5-2105d23e6bdb",
+      "text": "Ergänzende Informationen / Allgemeines\n\nBeim Setup de r Software für den Energieweg wird darauf geachtet, dass ein späterer Umzug auf eine eigene Datenplattform des Landkreises möglich ist (z.B. durch die Verwendung von Docker). Bei der Entwicklung der einzelnen Module (z.B. Dashboard) wird auf Open Source Software zurückgegriffen, der en Veröffentlichung auf OpenCode.de und den dort aufgeführten Lizenzen möglich ist. Dabei werden auch die Lizenzketten berücksichtigt.",
+      "length_tokens": 65,
+      "structure_path": "CONCEPT Konzept > Ergänzende Informationen / Allgemeines"
+    },
+    {
+      "tender_id": "stwendel_social_gardening_2023",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit ",
+      "chapter": "Unternehmensvorstellung",
+      "block_id": "a-850716df-d609-51a9-87a0-032ec25466fe",
+      "text": "Unternehmensvorstellung\n\nKI-P GmbH als Lösungsanbieter für Datenverarbeitung und Datenanalytik sowie Prozessmanagement, gestaltet effiziente und datengetriebene Prozesse für Kommunen, Regionen, In- stitutionen und Unternehmen. Es werden existierende sowie neu zu erfassende Daten verknüpft, in bestehende Abläufe und Strukturen eingebunden, wodurch nachhaltig Mehrwerte für die gegenwärtigen Aufgabengebiete entstehen. Durch Einbezug der technologischen Möglichkeiten entwickeln wir für unsere Kunden passende digitale Werkzeug e, wodurch Echtzeitinformationen auf Knopfdruck ein ge sehen, be- darfsgerecht Maßnahmen aus ge löst sowie Handlungsempfehlungen ab ge leitet werden können. Die Entwicklung von Werkzeuge n oder digitale n Anwendungen, die u.a. Dashboards, Software - und KI -Produkte oder Automatisierungslösungen sein können, startet mit der Ideenfindung und ist erst abgeschlossen, nachdem die Einbindung in bestehende Prozesse erfolgt ist. Die KI -P GmbH tritt seit der Gründung 2021 zusammen mit der GEO DATA GmbH und dem Zentrum für Digitale Entwicklung (ZDE) als Kompetenzpartner Digitale Zukunft auf und agiert innerhalb und unter Nutzung der spezifischen Kompetenzen der Kompetenzpartner.\n",
+      "length_tokens": 221,
+      "structure_path": "CONCEPT Konzept > Unternehmensvorstellung"
+    }
+  ],
+  "links": [
+    {
+      "query_block_id": "q-29f888a6-5e69-5ff4-b9ac-46f46b0c00ea",
+      "answer_block_id": "a-e2c0cb6c-089d-5a1e-9801-62161c03b695",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-b6693628-b5de-5887-bb6e-a4a2d757e038",
+      "answer_block_id": "a-00e29f77-9e25-5a5a-bdb4-e04075274d8b",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-9489c4b0-8724-5f8c-a977-0c8d2d80cafd",
+      "answer_block_id": "a-ce0d730f-e416-5380-af60-7d528d6430f0",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-297ec1bc-e212-5fbc-9aaf-4ff106219066",
+      "answer_block_id": "a-db188cec-2e86-5af6-a0c4-9783b1ac251f",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-ed099017-2b25-5446-9c8d-f07aab62560a",
+      "answer_block_id": "a-f8438bc1-3627-5d52-837f-8f814942607f",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-909f90fd-2a94-5c83-a1d1-4ecd4e32cb74",
+      "answer_block_id": "a-e4cb4384-90ef-595d-8ffc-413ae2685a93",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-909f90fd-2a94-5c83-a1d1-4ecd4e32cb74",
+      "answer_block_id": "a-a00c96f1-f4fb-510c-9d97-c8a3d0023ee4",
+      "relevance": 1
+    }
+  ]
+}

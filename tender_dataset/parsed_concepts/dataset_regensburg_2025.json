@@ -1,0 +1,176 @@
+{
+  "blocks": [
+    {
+      "tender_id": "regensburg_udp_produktivsystem_2025",
+      "theme": "Datenplattform",
+      "chapter": "0 Einordnung und Selbstverständnis als Betreiber urbaner Datenplattforme",
+      "block_id": "a-cb78a183-59c8-5105-b06d-3178789fc43c",
+      "text": "0. Einordnung und Selbstverständnis als Betreiber urbaner Datenplattformen\n\nDer nachhaltige Erfolg einer Urbanen Datenplattform entscheidet sich daher nicht an der eingesetzten Software, sondern maßgeblich an der Fähigkeit, Betrieb, Datenmanagement und fachliche Nutzung dauerhaft miteinander zu verbinden. Der Auftraggeber kennt den CIVITAS/CORE bereits und setzt diesen produktiv ein. Die vorliegende Aufgabe ist damit ausdrücklich keine Einführung einer neuen Plattform, sondern die langfristige Sicherung, Stabilisierung und Weiterentwicklung einer bestehenden Urbanen Datenplattform im Regelbetrieb. Unser Ansatz trägt diesem Reifegrad Rechnung. Wir verstehen unsere Rolle nicht als reinen technischen Betreiber, sondern als langfristigen Plattformpartner, der den Betrieb verlässlich absichert und zugleich die fachliche Nutzbarkeit der Plattform weiterentwickelt. Grundlage dafür ist unsere Erfahrung aus dem produktiven Betrieb von Datenplattformen in KubernetesClustern sowie unser Domänenwissen aus über 40 realisierten Urban-Data-Use-Cases. Der Einsatz von CIVITAS/CORE ist für uns keine technologische Entscheidung allein, sondern ein bewusster Schritt hin zu einem offenen, community-getriebenen Plattformansatz, der Wiederverwendbarkeit, Zukunftsfähigkeit und Unabhängigkeit von proprietären Lösungen ermöglicht. Unsere Aufgabe sehen wir darin, diesen Ansatz stabil, sicher und nutzungsorientiert in den kommunalen Alltag zu überführen.",
+      "length_tokens": 171,
+      "structure_path": "CONCEPT Konzept > 0 Einordnung und Selbstverständnis als Betreiber urbaner Datenplattformen"
+    },
+    {
+      "tender_id": "regensburg_udp_produktivsystem_2025",
+      "theme": "Datenplattform",
+      "chapter": "1 Betrieb von Open-Source-Datenplattformen (LB Kap. 2.1)",
+      "block_id": "a-249a962f-ce0d-5b40-80da-a4b44257cd08",
+      "text": "1. Betrieb von Open-Source-Datenplattformen (LB Kap. 2.1)\n\nDer Auftraggeber betreibt mit CIVITAS/CORE bereits eine etablierte Urbane Datenplattform. Ziel dieses Konzepts ist daher nicht die Einführung, sondern die dauerhafte Sicherstellung eines stabilen, sicheren und skalierbaren Produktivbetriebs. Der Betrieb erfolgt in einem Kubernetes-Cluster auf MS Azure, der speziell auf den Betrieb datenintensiver Open-Source-Plattformen ausgelegt ist. So betreiben wir bereits Datenplattformen seit über 6 Jahren und verarbeiten in manchen Projekten mehr als 500.000.000 Datensätze und haben mehr als 500.000 User pro Monat in den Applikationen. Alle Plattformkomponenten werden containerisiert betrieben und klar voneinander getrennt administriert.",
+      "length_tokens": 92,
+      "structure_path": "CONCEPT Konzept > 1 Betrieb von Open-Source-Datenplattformen (LB Kap. 2.1)"
+    },
+    {
+      "tender_id": "regensburg_udp_produktivsystem_2025",
+      "theme": "Datenplattform",
+      "chapter": "1.1 Systemadministration",
+      "block_id": "a-b304de2b-c3fd-556e-ba1b-b993a2318883",
+      "text": "1.1. Systemadministration Die Systemadministration umfasst:\n\n• Verwaltung der Kubernetes-Cluster,\n\n• Konfiguration und Pflege der Plattformdienste,\n\n• rollenbasierte Zugriffssteuerung,\n\n• dokumentierte Betriebsund Notfallprozesse.\n\n• Administrative Eingriffe sind versioniert, nachvollziehbar dokumentiert und unterliegen\n\ndem Vier-Augen-Prinzip.",
+      "length_tokens": 33,
+      "structure_path": "CONCEPT Konzept > 1 Betrieb von Open-Source-Datenplattformen (LB Kap. 2.1) > 1.1 Systemadministration"
+    },
+    {
+      "tender_id": "regensburg_udp_produktivsystem_2025",
+      "theme": "Datenplattform",
+      "chapter": "1.2 Monitoring und Alerting",
+      "block_id": "a-9ad5dcd1-a64d-51c2-9d1e-f86279d1b592",
+      "text": "1.2. Monitoring und Alerting Alle relevanten System-, Applikationsund Datenflussmetriken werden kontinuierlich überwacht. Ein mehrstufiges Alerting stellt sicher, dass:\n\n• kritische Zustände frühzeitig erkannt werden,\n\n• Eskalationen klar geregelt sind,\n\n• Reaktionszeiten minimiert werden.",
+      "length_tokens": 33,
+      "structure_path": "CONCEPT Konzept > 1 Betrieb von Open-Source-Datenplattformen (LB Kap. 2.1) > 1.2 Monitoring und Alerting"
+    },
+    {
+      "tender_id": "regensburg_udp_produktivsystem_2025",
+      "theme": "Datenplattform",
+      "chapter": "1.3 Patch- und Release-Management",
+      "block_id": "a-a461be41-f624-5735-973f-b26380c6bb06",
+      "text": "1.3. Patchund Release-Management Updates von CIVITAS/CORE sowie aller Open-Source-Komponenten erfolgen kontrolliert:\n\n• Bewertung neuer Releases,\n\n• Tests in separaten Umgebungen,\n\n• abgestimmte Rollouts,\n\n• dokumentierte Rückfallstrategien.",
+      "length_tokens": 26,
+      "structure_path": "CONCEPT Konzept > 1 Betrieb von Open-Source-Datenplattformen (LB Kap. 2.1) > 1.3 Patch- und Release-Management"
+    },
+    {
+      "tender_id": "regensburg_udp_produktivsystem_2025",
+      "theme": "Datenplattform",
+      "chapter": "1.4 Backup- und Recovery (ISO 27001-konform)",
+      "block_id": "a-bc19e597-de3d-5ed8-b77a-4cf0f775dc46",
+      "text": "1.4. Backupund Recovery (ISO 27001-konform)\n\n• Backupund Wiederherstellungsprozesse sind Bestandteil des ISMS:\n\n• regelmäßige automatisierte Backups,\n\n• getrennte Speicherung,\n\n• dokumentierte Recovery-Szenarien,\n\n• regelmäßige Wiederherstellungstests.",
+      "length_tokens": 25,
+      "structure_path": "CONCEPT Konzept > 1 Betrieb von Open-Source-Datenplattformen (LB Kap. 2.1) > 1.4 Backup- und Recovery (ISO 27001-konform)"
+    },
+    {
+      "tender_id": "regensburg_udp_produktivsystem_2025",
+      "theme": "Datenplattform",
+      "chapter": "1.5 Betrieb in anspruchsvollen Situationen",
+      "block_id": "a-a0019515-1a54-5bae-a9d0-78ee9149dada",
+      "text": "1.5. Betrieb in anspruchsvollen Situationen Der reale Betrieb urbaner Datenplattformen ist geprägt von Veränderungen, Abhängigkeiten und nicht vollständig planbaren Ereignissen. Typische Situationen sind beispielsweise: Qualitätsprobleme oder Änderungen in angebundenen Datenquellen, neue Releases oder Moduländerungen aus der CIVITAS/CORE-Community, steigende Lasten durch neue Use Cases oder öffentliche Anwendungen, organisatorische Veränderungen auf Seiten des Auftraggebers oder der Fachbereiche. Unser Betriebskonzept ist genau auf diese Realität ausgelegt. Änderungen werden nicht ungeprüft in den Produktivbetrieb übernommen, sondern durchlaufen strukturierte Test-, Freigabeund Rollout-Prozesse. Kritische Anpassungen können\n\nparallel in Testumgebungen geprüft werden, bevor sie produktiv geschaltet werden. Darüber hinaus verstehen wir uns als frühzeitiger Risikopartner. Auffälligkeiten in Datenqualität, Performance oder Nutzbarkeit werden nicht erst bei Störungen adressiert, sondern proaktiv analysiert, transparent kommuniziert und gemeinsam priorisiert. Diese Vorgehensweise stellt sicher, dass Stabilität und Vertrauen in die Plattform auch dann erhalten bleiben, wenn sich Rahmenbedingungen ändern.",
+      "length_tokens": 137,
+      "structure_path": "CONCEPT Konzept > 1 Betrieb von Open-Source-Datenplattformen (LB Kap. 2.1) > 1.5 Betrieb in anspruchsvollen Situationen"
+    },
+    {
+      "tender_id": "regensburg_udp_produktivsystem_2025",
+      "theme": "Datenplattform",
+      "chapter": "2 Umgang mit eingesetzten Open-Source-Komponenten (LB Kap. 2.2 & 2.3)",
+      "block_id": "a-d965a851-5b44-5f97-aeb9-fbb447833854",
+      "text": "2. Umgang mit eingesetzten Open-Source-Komponenten (LB Kap. 2.2 & 2.3)\n\nCIVITAS/CORE basiert auf einer Vielzahl etablierter Open-Source-Komponenten. Die sichere Beherrschung dieser Komponenten ist Grundlage für Betrieb, Weiterentwicklung und Support.",
+      "length_tokens": 29,
+      "structure_path": "CONCEPT Konzept > 2 Umgang mit eingesetzten Open-Source-Komponenten (LB Kap. 2.2 & 2.3)"
+    },
+    {
+      "tender_id": "regensburg_udp_produktivsystem_2025",
+      "theme": "Datenplattform",
+      "chapter": "2.1 Methodischer Umgang mit Open Source",
+      "block_id": "a-e1c0c935-24db-5cd4-845d-3c1ac446e683",
+      "text": "2.1. Methodischer Umgang mit Open Source Open-Source-Komponenten werden nicht isoliert, sondern als integriertes System betrachtet. Abhängigkeiten, Versionen und Sicherheitsaspekte sind dokumentiert und Bestandteil des Betriebsmodells.",
+      "length_tokens": 25,
+      "structure_path": "CONCEPT Konzept > 2 Umgang mit eingesetzten Open-Source-Komponenten (LB Kap. 2.2 & 2.3) > 2.1 Methodischer Umgang mit Open Source"
+    },
+    {
+      "tender_id": "regensburg_udp_produktivsystem_2025",
+      "theme": "Datenplattform",
+      "chapter": "2.2 Methodik zur Use-Case-Implementierung",
+      "block_id": "a-589b31f4-8986-5d02-abb2-6378393eced4",
+      "text": "2.2. Methodik zur Use-Case-Implementierung Die Umsetzung von Use Cases folgt einem klaren, reproduzierbaren Vorgehen, das technische Integration, Datenqualität und fachliche Nutzbarkeit gleichermaßen berücksichtigt. Am Beispiel „Umfelddaten“ erfolgt die Umsetzung wie folgt:\n\n• Integration der Datenquellen\n\n• Anbindung von Sensorik, Fachsystemen oder externen Datenquellen über standardisierte Schnittstellen und Protokolle.\n\n• Vorverarbeitung und Harmonisierung\n\n• Datenvalidierung\n\n• Formatvereinheitlichung\n\n• Anreicherung und Aggregation\n\n• Analyse und Visualisierung\n\nFachliche Auswertung und Visualisierung der Daten mit Apache Superset, abgestimmt auf unterschiedliche Nutzergruppen.\n\n• Bereitstellung über CIVITAS/CORE-API\n\nDie Plattform CIVITAS/CORE bietet umfassende Funktionen zur Integration und Kombination von Daten aus unterschiedlichen Quellen. Die Grundlage bilden standardisierte Schnittstellen wie FIWARE/NGSI-LD, OGC SensorThings API, WMS/WFS/WCS, REST, GraphQL und\n\nMQTT. Ergänzt werden diese durch konfigurierbare Konnektoren für Pushund Pull-Mechanismen. Damit können sowohl Echtzeit-Datenströme (z. B. Sensordaten über MQTT oder NGSI-LD) als auch Batch-Datenquellen (z. B. GIS-Daten oder Verwaltungsdatenbanken über WFS/WMS oder REST) effizient angebunden werden. CIVITAS/CORE unterstützt die Nutzung bestehender ETL-Werkzeuge und Datenpipelines, sodass Daten direkt übernommen, harmonisiert und weiterverarbeitet werden können. Für Standardprotokolle ist keine zusätzliche Entwicklung erforderlich. Individuelle Schnittstellen lassen sich über eigene Adapter mit geringem Aufwand ergänzen. Nutzung der CIVITAS/CORE-APIs zur Weiterverwendung in:\n\n• Fachanwendungen\n\n• Dashboards\n\n• mobilen Apps\n\n• externen Systemen\n\nTypische Risiken bei IoT-Projekten und Risikoradar IoT-Use-Cases unterliegen spezifischen Risiken, u. a.:\n\n• schwankende Datenqualität\n\n• Sensorausfälle oder Kommunikationsabbrüche\n\n• zeitlich verzögerte Daten\n\n• inkonsistente Datenmodelle\n\n• unklare fachliche Verantwortlichkeiten\n\nDiese Risiken werden systematisch über ein Risikoradar adressiert, das u.a. bewertet:\n\n• Kritikalität der Datenquelle\n\n• Auswirkung bei Datenverlust oder -verzögerung\n\n• technische Abhängigkeiten\n\n• organisatorische Zuständigkeiten\n\nSo können Risiken frühzeitig erkannt, priorisiert und mitigiert werden. Zur Umsetzung wird immer auf die Architektur des Civitas Core Bezug genommen:",
+      "length_tokens": 275,
+      "structure_path": "CONCEPT Konzept > 2 Umgang mit eingesetzten Open-Source-Komponenten (LB Kap. 2.2 & 2.3) > 2.2 Methodik zur Use-Case-Implementierung"
+    },
+    {
+      "tender_id": "regensburg_udp_produktivsystem_2025",
+      "theme": "Datenplattform",
+      "chapter": "2.3 Support-Konzept (Second Level)",
+      "block_id": "a-aa9d74f8-dcd3-5fe2-83f1-a502af7fe4a4",
+      "text": "2.3. Support-Konzept (Second Level) Der Second-Level-Support adressiert komplexe fachliche und technische Anfragen, die über die reine Störungsbehebung hinausgehen und vertiefte Plattformund Domänenkenntnisse erfordern. Ein besonderer Fokus liegt auf der Unterstützung fachlicher Power User in Apache Superset, beispielsweise bei der Erstellung komplexer Abfragen, der Optimierung von Dashboards oder der Interpretation von Analyseergebnissen. Ebenso umfasst der Second-Level-Support die Unterstützung bei der fachlichen Administration von Keycloak, etwa bei der Definition von Rollenund Rechtemodellen, der Anbindung externer Identitätsquellen oder der Analyse von Authentifizierungsund Autorisierungsproblemen. Der Second-Level-Support ist eng mit dem laufenden Betrieb und der Weiterentwicklung der Plattform verzahnt. Eingehende Tickets werden strukturiert analysiert, priorisiert und – sofern erforderlich – mit dem Betriebsteam oder der Entwicklung abgestimmt. Erkenntnisse aus Supportfällen fließen systematisch in die Verbesserung von Dokumentation, Konfigurationen und Betriebsprozessen ein. Die Ticketbearbeitung erfolgt transparent und nachvollziehbar über ein zentrales Ticketsystem. Dadurch ist jederzeit ersichtlich, welche Maßnahmen ergriffen wurden, welche Abhängigkeiten bestehen und wie der aktuelle Bearbeitungsstand ist. Dieses Vorgehen stellt sicher, dass auch komplexe Anfragen qualifiziert, reproduzierbar und nachhaltig gelöst werden.",
+      "length_tokens": 167,
+      "structure_path": "CONCEPT Konzept > 2 Umgang mit eingesetzten Open-Source-Komponenten (LB Kap. 2.2 & 2.3) > 2.3 Support-Konzept (Second Level)"
+    },
+    {
+      "tender_id": "regensburg_udp_produktivsystem_2025",
+      "theme": "Datenplattform",
+      "chapter": "2.4 CIVITAS/CORE im Community-Kontext",
+      "block_id": "a-cb9e6676-6bf1-5a5d-92c0-22890c8e195e",
+      "text": "2.4. CIVITAS/CORE im Community-Kontext CIVITAS/CORE ist Teil eines lebendigen Open-Source-Ökosystems. Diese Community-Dynamik ist ein zentraler Vorteil – erfordert im Betrieb jedoch einen professionellen Umgang. Wir bewerten neue Module und Weiterentwicklungen aus der Community fachlich und technisch, prüfen ihre Relevanz für den konkreten Einsatz und integrieren sie nur dann in den Produktivbetrieb, wenn sie zum Stabilitätsund Nutzungskonzept des Auftraggebers passen. So profitiert der Auftraggeber von Innovation und Weiterentwicklung, ohne den Risiken ungeprüfter Änderungen ausgesetzt zu sein. Der Betrieb fungiert dabei als Filter, Übersetzer und Stabilitätsanker zwischen Community und kommunaler Praxis.",
+      "length_tokens": 89,
+      "structure_path": "CONCEPT Konzept > 2 Umgang mit eingesetzten Open-Source-Komponenten (LB Kap. 2.2 & 2.3) > 2.4 CIVITAS/CORE im Community-Kontext"
+    },
+    {
+      "tender_id": "regensburg_udp_produktivsystem_2025",
+      "theme": "Datenplattform",
+      "chapter": "3 Konzept zur IT-Integration (LB Kap. 2.4)",
+      "block_id": "a-0627c94d-730a-554a-9c30-5b7f44e290b3",
+      "text": "3. Konzept zur IT-Integration (LB Kap. 2.4)\n\nDie Urbane Datenplattform ist Teil der IT-Gesamtarchitektur der Stadtverwaltung.",
+      "length_tokens": 16,
+      "structure_path": "CONCEPT Konzept > 3 Konzept zur IT-Integration (LB Kap. 2.4)"
+    },
+    {
+      "tender_id": "regensburg_udp_produktivsystem_2025",
+      "theme": "Datenplattform",
+      "chapter": "3.1 Fahrplan Integrationskonzept",
+      "block_id": "a-3f16eba8-ba18-58bc-b517-90a275aff4d7",
+      "text": "3.1. Fahrplan Integrationskonzept\n\n• Bestandsaufnahme bestehender Systeme,\n\n• Definition von Zielarchitektur und Schnittstellen,\n\n• schrittweise Integration priorisierter Systeme.",
+      "length_tokens": 18,
+      "structure_path": "CONCEPT Konzept > 3 Konzept zur IT-Integration (LB Kap. 2.4) > 3.1 Fahrplan Integrationskonzept"
+    },
+    {
+      "tender_id": "regensburg_udp_produktivsystem_2025",
+      "theme": "Datenplattform",
+      "chapter": "3.2 Anbindung an das städtische IAM",
+      "block_id": "a-dcc724e9-44a1-5f6a-bbe3-3a2207643be2",
+      "text": "3.2. Anbindung an das städtische IAM Für die Authentifizierung und Autorisierung setzt die Plattform konsequent auf die etablierten offenen Standards OAuth 2.0 und OpenID Connect (OIDC). Diese Standards haben sich als De-facto-Norm für sichere, skalierbare und interoperable Identitätsund Zugriffslösungen etabliert und sind explizit für den Einsatz in verteilten, serviceorientierten Architekturen wie CIVITAS/CORE geeignet.\n\n• OAuth 2.0 wird zur sicheren Autorisierung von Zugriffen auf APIs, Datenservices und\n\nMicroservices eingesetzt. Zugriffe erfolgen tokenbasiert, zeitlich begrenzt und rollenabhängig.\n\n• OpenID Connect wird als Identitätsschicht auf OAuth 2.0 genutzt, um Benutzer eindeutig zu authentifizieren und Identitätsinformationen standardisiert bereitzustellen.\n\nDurch den Einsatz dieser Standards wird sichergestellt, dass die Urbane Datenplattform nahtlos an vorhandene oder zukünftige IAM-Systeme der Stadtverwaltung angebunden werden kann, ohne proprietäre Abhängigkeiten zu erzeugen. Integration in das städtische IAM Die Anbindung an das städtische IAM erfolgt konzeptionell in mehreren Schritten:\n\n• Analyse der bestehenden IAM-Architektur der Stadt Regensburg (z. B. Verzeichnisdienste, föderierte Identitäten, Rollenmodelle).\n\n• Abbildung der fachlichen Rollen (z. B. Administratoren, Fachanwender, Power User,\n\nexterne Nutzer) auf technische Rollen und Scopes innerhalb von OAuth 2.0.\n\n• Einbindung von Keycloak (als in CIVITAS/CORE etablierte IAM-Komponente) als Vermittlungsund Integrationsschicht zwischen städtischem IAM und Plattformdiensten.\n\n• Test und Validierung der Authentifizierungsund Autorisierungsflüsse in getrennten\n\nTestund Integrationsumgebungen vor dem Produktivbetrieb. Dieses Vorgehen stellt sicher, dass bestehende Nutzerverzeichnisse, Rollenmodelle und Sicherheitsrichtlinien der Stadtverwaltung übernommen und konsistent angewendet werden.",
+      "length_tokens": 221,
+      "structure_path": "CONCEPT Konzept > 3 Konzept zur IT-Integration (LB Kap. 2.4) > 3.2 Anbindung an das städtische IAM"
+    },
+    {
+      "tender_id": "regensburg_udp_produktivsystem_2025",
+      "theme": "Datenplattform",
+      "chapter": "3.3 IT-Sicherheit und Datenschutz",
+      "block_id": "a-80c563b7-124a-51e7-ac0a-7a80b9d27715",
+      "text": "3.3. IT-Sicherheit und Datenschutz Der Einsatz von OAuth 2.0 und OpenID Connect ist integraler Bestandteil unseres Securityby-Design-Ansatzes. Er ermöglicht:\n\n• eine feingranulare Zugriffskontrolle auf Daten, APIs und Funktionen,\n\n• eine klare Trennung von Authentifizierung und Fachlogik,\n\n• die Protokollierung und Nachvollziehbarkeit sicherheitsrelevanter Zugriffe,\n\n• die Umsetzung des Least-Privilege-Prinzips.\n\nIn Kombination mit unserem etablierten ISMS und Datenschutz-Managementsystem stellen wir sicher, dass alle Anforderungen der DSGVO, der städtischen IT-Sicherheitsrichtlinien sowie der einschlägigen BSI-Empfehlungen eingehalten werden. Personenbezogene Daten werden ausschließlich auf Basis klar definierter Berechtigungen verarbeitet, und Zugriffstokens enthalten nur die minimal erforderlichen Informationen.",
+      "length_tokens": 91,
+      "structure_path": "CONCEPT Konzept > 3 Konzept zur IT-Integration (LB Kap. 2.4) > 3.3 IT-Sicherheit und Datenschutz"
+    },
+    {
+      "tender_id": "regensburg_udp_produktivsystem_2025",
+      "theme": "Datenplattform",
+      "chapter": "4 Rolle des Auftraggebers im langfristigen Betrieb",
+      "block_id": "a-596aabcb-c17d-5094-9a95-099f89c9ffd6",
+      "text": "4. Rolle des Auftraggebers im langfristigen Betrieb\n\nEin nachhaltiger Betrieb einer Urbanen Datenplattform erfordert eine klare Rollenverteilung zwischen Betreiber und Auftraggeber. Unser Ansatz ist partnerschaftlich, aber eindeutig abgegrenzt. Wir übernehmen die Verantwortung für: den stabilen technischen Betrieb, die\n\nWeiterentwicklung der Plattformbasis, das professionelle Datenmanagement, sowie die strukturierte Integration neuer Anforderungen. Der Auftraggeber behält die fachliche Steuerungshoheit, insbesondere bei: der Priorisierung von Use Cases, der Entscheidung, welche Daten dauerhaft in der Plattform gehalten werden, der strategischen Weiterentwicklung der Urbanen Datenplattform. Diese klare Aufgabenteilung stellt sicher, dass der Auftraggeber jederzeit handlungsfähig bleibt, während der Betrieb dauerhaft verlässlich abgesichert ist. Unser Ziel ist es, den Auftraggeber zu entlasten, nicht zu ersetzen.",
+      "length_tokens": 108,
+      "structure_path": "CONCEPT Konzept > 4 Rolle des Auftraggebers im langfristigen Betrieb"
+    },
+    {
+      "tender_id": "regensburg_udp_produktivsystem_2025",
+      "theme": "Datenplattform",
+      "chapter": "5 Qualität, Sicherheit und Governance",
+      "block_id": "a-8e7d2511-517c-517b-914c-0d1ecb1c0117",
+      "text": "5. Qualität, Sicherheit und Governance\n\nUnser Betrieb ist eingebettet in ein etabliertes Qualitäts-, Sicherheitsund Governance-Framework. Änderungen sind dokumentiert, nachvollziehbar und überprüfbar. Sicherheitsund Datenschutzanforderungen sind integraler Bestandteil der Architektur (Security by Design) und werden kontinuierlich weiterentwickelt. Damit erfüllen wir nicht nur formale Anforderungen, sondern schaffen eine vertrauenswürdige Grundlage für den langfristigen Betrieb einer Urbanen Datenplattform.",
+      "length_tokens": 54,
+      "structure_path": "CONCEPT Konzept > 5 Qualität, Sicherheit und Governance"
+    },
+    {
+      "tender_id": "regensburg_udp_produktivsystem_2025",
+      "theme": "Datenplattform",
+      "chapter": "6 Zusammenfassung",
+      "block_id": "a-b23c9a8f-e1f1-579a-a0da-5c185fc31e01",
+      "text": "6. Zusammenfassung\n\nMit unserem Betriebskonzept verbinden wir technische Exzellenz im Kubernetes-Betrieb, tiefes Data-Management-Know-how und umfassende Domänenkenntnis im Kontext urbaner Datenplattformen. CIVITAS/CORE ist dabei nicht nur eingesetzte Technologie, sondern der Rahmen für einen nachhaltigen, offenen und zukunftsfähigen urbanen Datenraum. Wir bringen nicht nur die Fähigkeit zum stabilen Betrieb mit, sondern auch das Verständnis dafür, wie Urbane Datenplattformen langfristig Mehrwert erzeugen – für Verwaltung, Fachbereiche und die Stadtgesellschaft",
+      "length_tokens": 66,
+      "structure_path": "CONCEPT Konzept > 6 Zusammenfassung"
+    }
+  ],
+  "links": []
+}

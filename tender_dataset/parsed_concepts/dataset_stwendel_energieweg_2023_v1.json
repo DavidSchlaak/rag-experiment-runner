@@ -1,0 +1,324 @@
+{
+  "blocks": [
+    {
+      "tender_id": "stwendel_energieweg_2023",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit",
+      "chapter": "Leistungsbeschreibung – Themenweg Erneuerbare Energien",
+      "block_id": "q-69d3ec6b-29de-50e5-9ac5-020e01118ea1",
+      "text": "Leistungsbeschreibung – Themenweg Erneuerbare Energien\n\nIm Rahmen des Modellprojekts Smart Cities wird der Landkreis Sankt Wendel seit 2020 vom Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen (BMWSB) gemeinsam mit der Kreditanstalt für Wiederaufbau (KfW) für die Projektdauer bis einschließlich Dezember 2027 gefördert.\n\nIm Rahmen des Modellprojektes soll als Teilmaßnahme ein Themenweg \"Erneuerbare Energien\" gestaltet werden, in dem die Themenfelder Solarpark, Windpark sowie die Wasserturbine auf einem Rundweg in Primstal für die Bevölkerung visualisiert werden.\n\nDie folgende Leistungsbeschreibung beinhaltet die für den Bieter angebotsrelevanten Informationen.\n\nEs ist zu beachten, dass etwaige Quellcodes (z.B. von Dashboards) auf OpenSource-Basis zu entwickeln sind. Die Quellcodes sind auf OpenCode.de unter den dort genannten Lizenzen zu veröffentlichen. Es wird grundlegend ein strenges Copyleft verfolgt.\n\nAlle Entwicklungen sind so zu gestalten, dass ein späterer Umzug auf eine eigene, noch zu entwickelnde Datenplattform des Landkreises möglich ist.\n\nUmsetzung und Rechnungsstellung bis spätestens 28.04.2023.\n\nAlle Leistungen sind inkl. Nebenkosten zu kalkulieren. Gewertet wird der Nettoangebotspreis.",
+      "length_tokens": 155,
+      "structure_path": "LV Leistungsbeschreibung > Leistungsbeschreibung – Themenweg Erneuerbare Energien"
+    },
+    {
+      "tender_id": "stwendel_energieweg_2023",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit",
+      "chapter": "Leistungspaket 1: Vorab-Besprechung",
+      "block_id": "q-1d6baf88-883f-515f-ab69-ca8283aeff62",
+      "text": "Leistungspaket 1: Vorab-Besprechung\n\nDie Betreiber der Energieanlagen verfügen über eigene Dashboards, über die entsprechende Zugriffsrechte für einen Datenbezug geregelt werden können. Im Rahmen einer Vorab-Besprechung sind die genauen Modalitäten dieses Datenbezuges und die vorhandenen Schnittstellen abzustimmen. Aktuell sind folgende Bezugsquellen bekannt:\n\n- OPC Schnittstelle für den Direktvermarkter\n\n- RTU in der Anlage (Schnittstelle Protokoll 104)",
+      "length_tokens": 55,
+      "structure_path": "LV Leistungsbeschreibung > Leistungspaket 1: Vorab-Besprechung"
+    },
+    {
+      "tender_id": "stwendel_energieweg_2023",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit",
+      "chapter": "Leistungspaket 2: Datenbank",
+      "block_id": "q-34f9ec7d-6f98-5a3f-bc8a-663d3c71965f",
+      "text": "Leistungspaket 2: Datenbank\n\nFür die Datenannahme von den Betreibern und um einen historischen Verlauf erstellen zu können, muss eine eigene Datenbank hierfür entwickelt werden.\n\n- Initialisierung der Datenbankstruktur, Datensicherung und Sicherheit des Systems\n\n- Implementierung von Konnektoren zu den Datenbeständen der Betreiber\n\n- Datenspeicherung (für historische Verläufe)\n\nEine Serverlandschaft (Hosting) muss vorübergehend ebenfalls zur Verfügung gestellt werden. Die Kosten hierfür sind pro Monat anzugeben.\n\nPerspektivisch entwickelt der Landkreis St. Wendel im kommenden Jahr seine eigene Serverlandschaft (Datenplattform). Die aufkommenden Datenmengen und Frequentierung durch die Bürger wird als moderat eingeschätzt. Eine mögliche Skalierung des Systems muss dennoch jederzeit möglich sein.",
+      "length_tokens": 99,
+      "structure_path": "LV Leistungsbeschreibung > Leistungspaket 2: Datenbank"
+    },
+    {
+      "tender_id": "stwendel_energieweg_2023",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit",
+      "chapter": "Leistungspaket 3: Entwicklung einer interaktiven Standortkarte zur Visualisierung",
+      "block_id": "q-ca975cc9-7eee-5735-8bf5-8a939d21c74b",
+      "text": "Leistungspaket 3: Entwicklung einer interaktiven Standortkarte zur Visualisierung\n\nBasierend auf einer 2D-Karte, die 3D Elemente enthält (siehe beigefügtes Beispiel in der Anlage), sollen die Standorte der einzelnen Anlagen ersichtlich sein. Diese soll über einen gängigen Web Browser für den Bürger erreichbar sein. Über anklickbare Widgets sollen einzelne Informationen zu den Anlagen angezeigt werden und eine Weiterleitung zu den Dashboards mit den Messdaten stattfinden. Zudem soll die Karte in die Webseite des Smart Wendeler Lands eingebunden werden.\n\n- Karte in 2D inkl. 3D Objekten\n\n- Widgets: 2x PV Anlage, 8x Windkraftanlage + 1x Wasserturbine\n\n- Weiterleitung zu den Dashboards mit den Messdaten",
+      "length_tokens": 101,
+      "structure_path": "LV Leistungsbeschreibung > Leistungspaket 3: Entwicklung einer interaktiven Standortkarte zur Visualisierung"
+    },
+    {
+      "tender_id": "stwendel_energieweg_2023",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit",
+      "chapter": "Leistungspaket 4: Entwicklung der Dashboards",
+      "block_id": "q-fc77d166-ab98-5577-8fff-c7210f11ab27",
+      "text": "Leistungspaket 4: Entwicklung der Dashboards\n\nFür die 3 Anwendungsfälle (Solar, Wind und Wasser) wird ein Dashboard mit der Visualisierung der Messwerte erstellt. Diese Dashboards können für den Bürger entweder über den Webbrowser oder über den QR-Code an der jeweiligen Station direkt am Themenweg aufgerufen werden. Die darzustellenden Messparameter befinden sich im Anhang.",
+      "length_tokens": 52,
+      "structure_path": "LV Leistungsbeschreibung > Leistungspaket 4: Entwicklung der Dashboards"
+    },
+    {
+      "tender_id": "stwendel_energieweg_2023",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit",
+      "chapter": "Leistungspaket 5: Einbindung der Anlagen in die Dashboards",
+      "block_id": "q-f2997036-c32f-5de5-bb2f-7af0489848b3",
+      "text": "Leistungspaket 5: Einbindung der Anlagen in die Dashboards\n\nFolgende Anlagen müssen in die Dashboards eingebunden werden:\n\n- PV Anlage Pescheid\n\n- PV Anlage Handenberg\n\n- Windpark Langheck (5 Anlagen)\n\n- Windpark Wadern-Wenzelstein (3 Anlagen)\n\n- Wasserturbine Primstal",
+      "length_tokens": 37,
+      "structure_path": "LV Leistungsbeschreibung > Leistungspaket 5: Einbindung der Anlagen in die Dashboards"
+    },
+    {
+      "tender_id": "stwendel_energieweg_2023",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit",
+      "chapter": "Allgemeine Anmerkungen",
+      "block_id": "q-aba3bf88-3978-5346-be7b-f783a075f668",
+      "text": "Allgemeine Anmerkungen\n\n- Erklärung zur Echtzeitdarstellung: Die Daten werden in einem Zeitintervall je nach Daten- und\n\nRessourcenverfügbarkeit aktualisiert\n\n- Server: im Angebot sollen übliche regelmäßige Updates enthalten sein\n\n- Alle Anwendungen müssen auf Open Source basieren\n\n- Offene Systeme, die jederzeit –auch durch Dritte- weiterentwickelt werden können",
+      "length_tokens": 47,
+      "structure_path": "LV Leistungsbeschreibung > Allgemeine Anmerkungen"
+    },
+    {
+      "tender_id": "stwendel_energieweg_2023",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit",
+      "chapter": "Messwerte PV-Anlage:",
+      "block_id": "q-dab6680b-66c8-5780-a032-ae34759dcc11",
+      "text": "Messwerte PV-Anlage:\n\n- Aktuelle elektrische Leistung in kW (Echtzeit) je Baufeld (Pescheid und Handenberg)\n\n- Aktuelle Sonneneinstrahlung in W/qm (Echtzeit)\n\n- Aktuelle Umgebungstemperatur in Grad Celsius (Echtzeit)\n\n- Aktuelle Modultemperatur in Grad Celsius (Echtzeit)\n\n- Aktuelle Windgeschwindigkeit in m/s (Echtzeit)\n\n- Historische Tages-Stromproduktion in kWh oder mWh je Baufeld und Tag (Datum)",
+      "length_tokens": 52,
+      "structure_path": "LV Leistungsbeschreibung > Anhang > Messwerte PV-Anlage:"
+    },
+    {
+      "tender_id": "stwendel_energieweg_2023",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit",
+      "chapter": "Messwerte Windpark:",
+      "block_id": "q-7a02e890-b380-5429-87e8-c66d8719cda3",
+      "text": "Messwerte Windpark:\n\n- Aktuelle elektrische Leistung in kW je WEA (Echtzeit oder andere geeignete Taktung)\n\n- Aktuelle Windgeschwindigkeit in m/s (Echtzeit oder andere geeignete Taktung)\n\n- Aktuelle Windrichtung (Echtzeit oder andere geeignete Taktung)\n\n- Aktuelle Umgebungstemperatur in Grad Celsius\n\n- Aktuelle relative Luftfeuchtigkeit in%\n\nHistorische Daten:\n\n- historische Tages-Stromproduktion in kWh oder MWh je WEA und Tag (Datum)\n\nHintergrundinformationen im Fall von Anlagenstillstand, z.B.\n\n- Windgeschwindigkeit nicht ausreichend\n\n- Abregelung durch Netzbetreiber/Direktvermarkter\n\n- Abschaltung wg. Naturschutz-Auflagen\n\n- Abschaltung wg. Vereisung\n\n- Wartung mögliche andere Ursachen, z.B. technische Störung\n\n- evtl. auch Informationen zur laufenden Nachjustierung der Gondel bzw. der Rotorblätter",
+      "length_tokens": 100,
+      "structure_path": "LV Leistungsbeschreibung > Anhang > Messwerte Windpark:"
+    },
+    {
+      "tender_id": "stwendel_energieweg_2023",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit",
+      "chapter": "Messwerte Wasserturbine:",
+      "block_id": "q-9aa4a3aa-137b-5c7a-8aad-08a1caaf08e4",
+      "text": "Messwerte Wasserturbine:\n\n- aktuelle elektrische Leistung in kW (Echtzeit oder andere geeignete Taktung)\n\n- Historische Tagesproduktionen in kWh\n\n- Durchflussgeschwindigkeit\n\nBeispiel Kartendarstellung\n\n(Quelle: https://bnnetze.de/kommunen/smart-village/landesgartenschau-2022/)\n\nBeispiel Dashboarddarstellung\n\n(Quelle: https://helion.solarlog-web.ch/27114/)",
+      "length_tokens": 28,
+      "structure_path": "LV Leistungsbeschreibung > Anhang > Messwerte Wasserturbine:"
+    },
+    {
+      "tender_id": "stwendel_energieweg_2023",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit",
+      "chapter": "Ausgangssituation und Zielstellung",
+      "block_id": "a-098bc976-8ac5-5d87-afdf-c9a63a844404",
+      "text": "Ausgangssituation und Zielstellung\n\nDer Auftraggeber (AG) plant die Realisierung eines Themenwegs \"Erneuerbare Energien\", der den Bürgerinnen und Bürgern die Themenfelder Solarpark, Windpark sowie Wasserturbine auf einem Rundweg in Primstal vorstellt. Hierfür sollen die Messwerte der unterschiedli- chen Energieanlagen visualisiert und verständlich aufbereitet werden. Dabei stehen folgende wesentliche Ziele im Vordergrund:\n\n«Integration und Anbindung der Datenquellen der unterschiedlichen Energieanlagenbetreiber über Schnittstellen\n\n+ Aufbau einer (vorübergehenden) und skalierbaren Datenbankstruktur mit Serverlandschaft inkl. Datensicherung und Sicherheit des zu entwickelnden Systems so-\n\nwie regelmäßigen Updates\n\n«Visualisierung der Energieanlagen mit Verortungin einer 2D-Karte mit 3D Elementen\n\n«Entwicklung eines Dashboards zur Visualisierung der Anwendungsfälle Solar, Wind und Wasser, das der Bevölkerung über einen Webbrowser zur Verfügung steht\n\n«Visualisierung der Messewerte, u.a. in Echtzeit, der verschiedenen Energieanlagen im zu entwickelnden Dashboard\n\n«Entwicklung der Systermkomponenten auf Open Source Basis mit Veröffentlichung auf OpenCode.de",
+      "length_tokens": 135,
+      "structure_path": "CONCEPT Konzept > Ausgangssituation und Zielstellung"
+    },
+    {
+      "tender_id": "stwendel_energieweg_2023",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit",
+      "chapter": "Leistungsangebot",
+      "block_id": "a-67d8e1eb-c7fc-5d1e-8eb0-f110e10e95b7",
+      "text": "Leistungsangebot\n\nIm Rahmen des Leistungsangebots der KI-P GmbH (Im Folgenden Auftragnehmer bzw. AN) stellen wir ein Systemin Form einer Datenplattforr, inkl, Dateneinbindung, -verarbeitung und -speicherung, sowie darauf aufbauende Dashboards mit einer Standortkarte und Visualisierungen von Messwerten bereit. Die Architektur des Systems setzt sich wie folgt zusammen:\n\nDatenauieae ner\n\nDashboard\n\nim]\n\nStandortkarte\n\nQuelle Eigene Davstei\n\nDas System zeichnet sich durch folgende Eigenschaften aus:\n\nInteroperabilität Anbindung und Zusammenführung von Datenquellen unterschiedlicher Herkunft und Ausgabe über offene Schnittstellen\n\nModularität: Das System zeichnet sich durch ein modulares Baukastensystem aus und ist jederzeit um weitere Datenquellen oder Use Cases erweiterbar (z.B. Sensordaten) Dies gilt sowohl für die Datenplattform als auch die Dashboards. Darüber hinaus bietet das System die Möglichkeit, Services wie z.B. Buchungs- und Bezahlvorgänge durchzuführen. «Skalierbarkeit und Performanz: Das Systemsetup ermöglicht die Echtzeitdarstellung der Daten sowie eine dynamische Skalierbarkeit.\n\n«Open-Source: Das System basiert auf OpenSource Komponenten\n\n«Spätere Integrierbarkeit in Datenplattform des Landkreises",
+      "length_tokens": 148,
+      "structure_path": "CONCEPT Konzept > Leistungsangebot"
+    },
+    {
+      "tender_id": "stwendel_energieweg_2023",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit",
+      "chapter": "Projektmanagement",
+      "block_id": "a-2d4014fa-70b4-5d12-a701-e4be827c82e4",
+      "text": "Projektmanagement\n\nDer verfolgte Projektmanagementansatz kombiniert die Anforderungen des \"klassischen\" Projektmanagements, der übergreifenden Projektsteuerung und der agilen Entwicklung auf Basis von Scrum. Zur Umsetzung des Themenwegs \"Erneuerbare Energien\" verfolgen wir den folgenden vorläufigen Projektplan, wobei dieser zwischen AG und AN nach einer möglichen Auttragserteilung abgestimmt wird.\n\nAbbildung 2 E\n\nNachdem der Projektplan in einem Kickoff mit dem AG abgestimmt und ein gemeinsames Verständnis zu Anforderungen und Projektzielen, beteiligte Stakeholder wie die Energieanlagenbetreiber und Rahmenbedingungen geschaffen ist, geht das Projektmanagement in die Projektsteuerung über. Im Rahmen der Projektsteuerung wird die zeitliche und inhaltliche Koordination der verschiedenen Leistungs- und Arbeitspakete und Projektbeteiligten durchge- führt. Dabei werden folgende Leistungen erbracht:\n\n+ Zweiwöchentliche Abstimmung zur Projektsteuerung mit der Projektleitung des AG\n\n«Transparenz über den Umsetzungsstand der Projektumsetzung\n\n«Kontinuierliche Überwachung und Kontrolle des Projektfortschritts. Im Falle negativer ‚Abweichungen von der Projektplanung werden frühzeitig Gegenmaßnahmen ermittelt und Änderungen vorgeschlagen\n\n+ Friihzeitige und aktive Einbindung relevanter Stakeholder\n\nUnser interdisziplinäres Projektteam setzt sich aus unterschiedlichen fachlichen und methodischen Kompetenzen, insbesondere zu den Themen Smart-City, digitalen Plattformen, agiler Softwareentwicklung und Projektmanagement, zusammen\n\n‚Auf Basis der aktuell vorliegenden Informationen sehen wir für die Projektrealisierung die nachfolgenden Rollen vor. Im Rahmen der gemeinsamen Projektinitialisierungsphase werden die einzelnen Rollen detaillierter ausgeprägt. Auf dieser Grundlage wird über die Zuordnung der Rollen zu einzelnen Teammitgliedemn final entschieden.\n\nProjektleitung Scrum Master Product Owner\n\n* Scrum / Entwicklungsteam Mitwirkungspflicht\n\nEine wesentliche Grundlage für erfolgreiche Projekte ist eine vertrauensvolle Zusammenarbeit zwischen dem AG und dem AN. Der AG ist an allen Projektschritten intensiv beteiligt, um Veränderungsprozesse zu gestalten und die Einführung zu unterstützen. Im Einzelnen ist der AG zur Erbringung folgender Mitwirkungshandlungen verpflichtet, die für die AN kostenfrei sind\n\n«Der Kunden-Projektleiter ist mitverantwortlich für die Definition des Projektumfangs und Abstimmung des Projektplans.\n\n+ Es wird ein verantwortlicher Mitarbeiter als Teilprojektleiter zur Verfügung gestellt,\n\n«Der AG informiert vor Projektstart seine Teammitglieder über alle Vereinbarungen, die für die Projektdurchführung relevant sind, Dies betrifft insbesondere vereinbarte Zielsetzungen wie z.B. Einführung standardisierter Prozesse und Abweichungen vom Stan- dard nur in begründeten Sonderfällen\n\nDer AG stellt sämtliche Informationen, Unterlagen und Daten, die für die Leistungserbringung der AN erforderlich sind, termingerecht zur Verfügung. Auf Anforderung wird passend zum Informationsbedarf relevante Dokumentation vom AG zur Verfügung gestellt und bei Bedarf das Team der AN erläutert.",
+      "length_tokens": 370,
+      "structure_path": "CONCEPT Konzept > Projektmanagement"
+    },
+    {
+      "tender_id": "stwendel_energieweg_2023",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit",
+      "chapter": "Leistungspaket 1",
+      "block_id": "a-51bf3f93-f02a-5b50-a54b-f6195d734eb1",
+      "text": "Leistungspaket 1\n\nIn Leistungspaket 1 gilt es die Grundlagen für die spätere Realisierung des Energiewegs zu schaffen. Nachdern die Kommunikation zu Anforderungen und Erwartungshaltung des AG im Kickoff und im Rahmen der Projektsteuerung erfolgt, stehen in Leistungspaket 1 die technische Spezifikation und Rahmenbedingungen der Energieanlagenbetreiber im Vorder- grund.",
+      "length_tokens": 48,
+      "structure_path": "CONCEPT Konzept > Leistungspaket 1"
+    },
+    {
+      "tender_id": "stwendel_energieweg_2023",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit",
+      "chapter": "1.1 Vorab-Besprechung",
+      "block_id": "a-e26a3164-5606-5a65-a0c4-6b371a899f08",
+      "text": "1.1 Vorab-Besprechung\n\nBasierend auf dem mit dem AG abgestimmten Vorgehen und Zielen sowie den identifizierten relevanten Stakeholder wie der Landkreis und Anlagenbetreiber erfolgen in Abstim- mungsrunden die Besprechung der technischen Spezifikationen des Datenbezugs bzw. vorhandene Schnittstellen zur Datenintegration.\n\nOrientierung in den Abstimmungsrunden bietet ein zuvor erarbeitete Fragenkatalog, der die wesentlichen zu klärenden Themengebietet enthält. Dieser wird im Sinne eines effizienten Projektdesign den Anlagenbetreiber im Vorfeld zur Verfügung gestellt und anschließendim Termin besprochen.\n\nNeben der Integration der Datenquellen wird auch die Anbindung an die Webseite des Smart Wendeler Lands im Vorfeld zu besprochen. Dies erfolgt auf Basis eines kurzen Workshops, basierend auf einem vorbereiteten Fragenkatalogs, um die Optionen der Integration der Daten in die Webseite zu bewerten. Hierbei wird ebenfalls Wert auf die verständliche Bereitstellung der Informationen für die Bevölkerung geachtet.",
+      "length_tokens": 130,
+      "structure_path": "CONCEPT Konzept > Leistungspaket 1 > 1.1 Vorab-Besprechung"
+    },
+    {
+      "tender_id": "stwendel_energieweg_2023",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit",
+      "chapter": "Leistungspaket 2",
+      "block_id": "a-dd122226-ad18-59db-95b3-56c2489aede7",
+      "text": "Leistungspaket 2\n\nIm Rahmen von Leistungspaket 2 erfolgt die Bündelung der Daten der unterschiedlichen Datenquellen - ggf. durch notwendige zu entwickelnden Schnittstellen - die Verarbeitung der Daten sowie die Datenspeicherung, All dies geschieht über unsere sogenannte Datenplattform, basierend auf Node-RED. Node-RED ist OpenSource basierendes grafisches Datenver- arbeitungswerkzeug, das sich zur Bereinigung, Verarbeitung und Verknüpfung von Daten eignet.",
+      "length_tokens": 57,
+      "structure_path": "CONCEPT Konzept > Leistungspaket 2"
+    },
+    {
+      "tender_id": "stwendel_energieweg_2023",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit",
+      "chapter": "2.1 Entwicklung und Aufbau der Datenbank",
+      "block_id": "a-26635c14-5959-5f87-97ea-c706a7fb5127",
+      "text": "2.1 Entwicklung und Aufbau der Datenbank\n\nWir haben bei der Kanzeption unserer Datenplattform neben der Sicherheit des Systems die Interoperabilität mit Drittsystemen und Offenheit des Systems als Prämissen, gemäß der DIN SPEC 91357, definiert. Die dadurch modulare Schnittstellenarchitektur ermöglicht die Integration neuer Schnittstellen. Die Schnittstellenarchitektur sieht zur Verallgemeinerung der Schnittstellen einen abstrakten Adapter vor. Dieser regelt die Vereinheitlichung der verschie denen Protokolle und Datenformate der externen Schnittstellen und definiert somit eine allgemeine Schnittstelle. Die Adapter werden in zwei große Bereiche unterteilt: anliefernde und abholende Adapter. Für die anliefernden Schnittstellen werden versionierte Schnittstellen zur Verfügung gestellt, sodass bestehende externe Systeme in dem geforderten Über- gangszeitraum mit der bekannten Version, ohne Einschränkung, weiterarbeiten können. Abholende Schnittstellen werden über einen modernen Scheduler gesteuert, sodass verschie- dene periodische Abrufe oder ereignisgesteuerte Abrufe (z.B. neue Datei vorhanden] ermöglicht werden.\n\nIst die Datenanbindungerfolgt, werden die Daten zur persistenten Verfügbarkeit in entsprechenden hochskalierbaren relationalen Datenbanken, z.B. MySQL, CockroachDB oder Mon- goDB gespeichert. Hier wird im Vorfeld die entsprechende Datenbankinfrastruktur mit verbundenem Datenmodell (z.B. Star Modell} und Datenbankstruktur aufgesetzt und über den Projektzeitraum betrieben. Hierbei werden die Prinzipien der effizienten und datensparsamen Datenhaltung ebenso berücksichtigt wie eine sorgfältige Erfassung der Metadaten der jeweiligen Daten (-quellen). Um einen Echtzeitschutz der Daten zu gewährleisten, erfolgt die Speicherung der Daten redundantin unterschiedlichen Umgebungen, mindestens auf täglicher Basis, Das Hosting mit notwendigen Sicherheitsstandards (u.a. tägliche Backups zur Da- tensicherung, mehrere Firewalls und Antivirus Programme) wird vorn AN übernommen. Dies inkludiert ebenfalls die Durchführungregelmäßiger Updates.\n\nZur Sicherung der Datenqualität bietet Node-RED die Möglichkeit der Harmonisierung und Normierung eingehender Daten, Dies kann in Abstimmung zwischen AG und AN ebenfalls erfolgen,",
+      "length_tokens": 266,
+      "structure_path": "CONCEPT Konzept > Leistungspaket 2 > 2.1 Entwicklung und Aufbau der Datenbank"
+    },
+    {
+      "tender_id": "stwendel_energieweg_2023",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit",
+      "chapter": "2.2 Hosting Datenbank und Dashboards",
+      "block_id": "a-03415dd3-0cd7-54e0-8f42-56b61d44b643",
+      "text": "2.2 Hosting Datenbank und Dashboards\n\nDie monatlichen Kosten für das Hosting der Datenbanken und Dashboards inklusive regelmäßiger Updates und Wartung ergibt sich aus dem Preisblatt.",
+      "length_tokens": 25,
+      "structure_path": "CONCEPT Konzept > Leistungspaket 2 > 2.2 Hosting Datenbank und Dashboards"
+    },
+    {
+      "tender_id": "stwendel_energieweg_2023",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit",
+      "chapter": "Leistungspaket 3",
+      "block_id": "a-2ace1536-330f-5e28-b9b1-e4a914703cf6",
+      "text": "Leistungspaket 3\n\nLeistungspaket 3 umfasst die Visualisierung der verschiedenen Energieanlagen auf einer 2D Karte, die 3D Elemente enthält. Für das angestrebte Zielbild bietet die nachfolgende Abbildung Orientierung, die neben den Standorten von verschiedenen Objekten auch Echtzeitda- ten anzeigt.\n\nVisuaiserg der Erergrzantagen Quote nics bineze deAammanendsn. u 20227",
+      "length_tokens": 47,
+      "structure_path": "CONCEPT Konzept > Leistungspaket 3"
+    },
+    {
+      "tender_id": "stwendel_energieweg_2023",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit",
+      "chapter": "3.1 Entwicklung einer interaktiven Standortkarte zur Visualisierung",
+      "block_id": "a-36ff389e-6d2b-59b0-b8f8-c6560afaf39b",
+      "text": "3.1 Entwicklung einer interaktiven Standortkarte zur Visualisierung\n\nFür die Entwicklung der interaktiven Standortkarte wird auf OpenSource basierte Karten wie 2.B. OpenStreetMap zurückgegriffen. Die Verortung der 2 PV-Anlagen, 8 Windkraftanlagen und einer Wasserturbine entlang des Energiewegs erfolgt anhand der Koordinaten (Längenund Breitengrad) sowie passenden Widgets bzw. Icons. Orientierung einer möglichen Visua- lisierung der Standortkarte bietet nachfolgende Abbildung, die eine Verortung eines optischen Sensors zur Verkehrszählung mit Widget bzw. Icon und Beschreibungstext zeigt. Ne- ben des Beschreibungstexts kann auf der Karte ebenfalls Echtzeitdaten angezeigt oder auf ein Dashboard mit Messdaten verlinkt werden.\n\nAbkigungd: Versrtung eines Sensor lortkarte mit Boschrobungsont. Quelie: Eigene Därstetung Abbildung 3 Vero: tung eines Sensors auf der Standeetkarre\n\n'chigetdaten, Quetta, Eigene Darstei\n\nDie Auswahl der Widgets mit Icons erfolgt in Abstimmung mit der AG. Es wäre denkbar je ‚Anwendungsfall (Solar, Wind und Wasser) ein eigenes Icon zu verwenden.\n\nDie Standortkarte wird der Bevölkerung über eine URL, abrufbar aus jedem Browser sowie Über die Webseite des Smart Wendeler Lands, zur Verfügung gestellt. Die Einbindung der Karte in die Webseite geschieht über die in Leistungspaket 2 beschriebenen Adapter. Zusätzlich besteht die Möglichkeit die Standortkarte über OR-Codes, die an den jeweiligen Stationen zu finden sind {z.B. über Beschilderungen), abzurufen.\n\nMit Abstimmung zwischen AG und AN wäre auch eine Visualisierung der Anlagen in 3D, gemäß folgender Abbildung, denkbar. eo @ seo ara ZIT\n\nAbkidung6: Be\n\nene Darsterung",
+      "length_tokens": 224,
+      "structure_path": "CONCEPT Konzept > Leistungspaket 3 > 3.1 Entwicklung einer interaktiven Standortkarte zur Visualisierung"
+    },
+    {
+      "tender_id": "stwendel_energieweg_2023",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit",
+      "chapter": "Leistungspaket 4",
+      "block_id": "a-60d322d8-bf5d-5512-b65c-c49585577876",
+      "text": "Leistungspaket 4\n\nIm Rahmen von Leistungspaket 4 wird ein Dashboard für die Anwendungsfälle Solar, Wind und Wasser entwickelt, das die Messewerte der unterschiedlichen Energieanlagen visualisiert.",
+      "length_tokens": 25,
+      "structure_path": "CONCEPT Konzept > Leistungspaket 4"
+    },
+    {
+      "tender_id": "stwendel_energieweg_2023",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit",
+      "chapter": "4.1 Entwicklung des Dashboards",
+      "block_id": "a-feb1282c-780d-51b6-b9ee-799c153742b4",
+      "text": "4.1 Entwicklung des Dashboards\n\nBei der Entwicklung des Dashboards wird ebenfalls auf Node-RED zurückgegriffen. In NodeRED stehen eine Reihe an Visualisierungsformen zur Echtzeit-Darstellung zur Verfügung. Seien es beispielsweise Zahlenwerte zur Anzeige der aktuellen (elektrische) Leistung in kW je Baufeld, W/gm oder Temperatur, Verlaufsgrafiken über den zeitlichen Verlauf des Tages, Monats oder Jahres auf Stunden-, Tages- oder Monatsbasis sowie ergänzenden Informationen wie z.B. nicht ausreichende Windgeschwindigkeiten\n\nUns ist es möglich alle im Anhang der Leistungsbeschreibung vorgegebene Messwerte im Dashboard zu visualisteren, wie auch in der nachfolgenden Abbildung ersichtlich wird, nen 5 am a: \" Fe ao Hy are m [Er Zr ar,» ee an Beam a. a - a- un a oe a u Pen a-\n\nıanaa\n\n105 Dasnboard Quelle, Eigene Darstellung\n\nFür die Strukturierung des Dashboards könnte nach Anwendungsfall unterschieden werden, sodass im Dashboard Solar 2Widgets zu den beiden PV Anlagen Pescheid und Handenberg (ähnlich der beiden Raumluftmanagement-Widgets in Abbildung 7} enthalten wären. Im Dashboard Wind wären 8 Widgets und im Dashboard Wasser ein Widget enthalten. Die Aufteilung und Strukturierung, erfolgt in Abstimmung mit dem AG.\n\nDie Bereitstellung des Dashboards erfolgt über eine URL, sodass über alle Webbrowser darauf zugegriffen werden kann. Zusätzlich wird auch ein Zugriff über einen QR-Code ermög- licht, sodass vor Ort ebenfalls auf die Messwerte der Anlagen zugegriffen werden kann.\n\nEs ist denkbar die Dashboards im Cl-Design bzw. in den Farben und Logos des AG zu entwickeln. Darüber hinaus können Kurbeschreibungen je Anwendungsfall erstellt werden. Die Kurzbeschreibung erläutert den Bürgem Zweck und Nutzen des Anwendungsfalls, wodurch Interesse, Verständnis und Akzeptanz bei den Bürgern zunehmen",
+      "length_tokens": 258,
+      "structure_path": "CONCEPT Konzept > Leistungspaket 4 > 4.1 Entwicklung des Dashboards"
+    },
+    {
+      "tender_id": "stwendel_energieweg_2023",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit",
+      "chapter": "Leistungspaket 5",
+      "block_id": "a-fc43bb50-e361-5a4e-8b3c-e9763940b7db",
+      "text": "Leistungspaket 5\n\nGegenstand des Leistungspakets ist die Einbindung der Anlagen in die Dashboards.",
+      "length_tokens": 13,
+      "structure_path": "CONCEPT Konzept > Leistungspaket 5"
+    },
+    {
+      "tender_id": "stwendel_energieweg_2023",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit",
+      "chapter": "5.1 Einbindung der Anlagen in die Dashboards",
+      "block_id": "a-9e5c8b26-d5c2-5156-ab8d-c6e436949c80",
+      "text": "5.1 Einbindung der Anlagen in die Dashboards\n\nDie Einbindung der Anlagen in das Dashboard erfolgt über zusätzliche Widgets (siehe Abbildung) analog zum beschriebenen Vorgehen in Leistungspaket 4. Durch die modulare Auf- bauweise des Dashboards können die nachfolgenden Anlagen jederzeit in das Dashboard integriert werden.\n\nPV Anlage Pescheid\n\nPV-Anlage Handenberg\n\nWindpark Langheck (5 Anlagen)\n\nWindpark Wadern-Wenzelstein (3 Anlagen) Wasserturbine Primstal",
+      "length_tokens": 59,
+      "structure_path": "CONCEPT Konzept > Leistungspaket 5 > 5.1 Einbindung der Anlagen in die Dashboards"
+    },
+    {
+      "tender_id": "stwendel_energieweg_2023",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit",
+      "chapter": "5.2 Optional Einbindung einer weiteren Anlage in ein Dashboard",
+      "block_id": "a-19786885-84ab-51b4-8abf-5b902e3fda5a",
+      "text": "5.2 Optional Einbindung einer weiteren Anlage in ein Dashboard\n\nDie Einbindung einer weiteren Anlage in das Dashboard erfolgt auf dem bereits beschriebenen Weg, Im Dashboard des Anwendungsfall wird lediglich ein neues Widget ergänzt, dass die Visualisierung der Messwerte abbildet",
+      "length_tokens": 39,
+      "structure_path": "CONCEPT Konzept > Leistungspaket 5 > 5.2 Optional Einbindung einer weiteren Anlage in ein Dashboard"
+    },
+    {
+      "tender_id": "stwendel_energieweg_2023",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit",
+      "chapter": "Ergänzende Informationen / Allgemeines",
+      "block_id": "a-c6dfe640-7c6e-576d-9ade-714476e0b063",
+      "text": "Ergänzende Informationen / Allgemeines\n\nBeim Setup der Software für den Energieweg wird darauf geachtet, dass ein späterer Umzug auf eine eigene Datenplattform des Landkreises möglich ist (z.B. durch die Verwendung von Docker). Bei der Entwicklung der einzelnen Module {z.B. Dashboard) wird auf OpenSource Software zurückgegriffen, deren Veröffentlichung auf OpenCode.de und den dort aufgeführten Lizenzen möglich ist.\n\nDabei werden auch die Lizenzketten berücksichtigt.",
+      "length_tokens": 62,
+      "structure_path": "CONCEPT Konzept > Ergänzende Informationen / Allgemeines"
+    },
+    {
+      "tender_id": "stwendel_energieweg_2023",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit",
+      "chapter": "Unternehmensvorstellung",
+      "block_id": "a-35203ef1-fb70-5adc-8e2e-9cd0304f4f95",
+      "text": "Unternehmensvorstellung\n\nDie KI-P GmbH als Lösungsanbieter für Datenverarbeitung und Datenanalytik sowie Prozessmanagement, gestaltet effiziente und datengetriebene Prozesse für Kommunen, Regionen, Institutionen und Untemehmen. Es werden existierende sowie neu zu erfassende Daten verknüpft, in bestehende Abläufe und Strukturen eingebunden, wodurch nachhaltig Mehrwerte für die gegenwärtigen Aufgabengebiete entstehen.\n\nDurch Einbezug der technologischen Möglichkeiten entwickeln wir für unsere Kunden passende digitale Werkzeuge, wodurch Echtzeitinformationen auf Knopfdruck eingesehen, be- darfsgerecht Maßnahmen ausgelöst sowie Handlungsempfehlungen abgeleitet werdenkönnen. Die Entwicklung von Werkzeugen oder digitalen Anwendungen, die u.a. Dashboards, Software- und Kl-Produkte oder Automatisierungs-lésungen sein können, startet mit der Ideenfindung und ist erst abgeschlossen, nachdem die Einbindung in bestehende Prozesse erfolgt ist.\n\nDie KI-P GmbH tritt seit der Gründung 2021 zusammen mit der GEO DATA GmbH und dem Zentrum für Digitale Entwicklung (ZDE) als Kompetenzpartner Digitale Zukunft auf und agiert innerhalb und unter Nutzung der spezifischen Kompetenzen der Kompetenzpartner.",
+      "length_tokens": 142,
+      "structure_path": "CONCEPT Konzept > Unternehmensvorstellung"
+    }
+  ],
+  "links": [
+    {
+      "query_block_id": "q-69d3ec6b-29de-50e5-9ac5-020e01118ea1",
+      "answer_block_id": "a-098bc976-8ac5-5d87-afdf-c9a63a844404",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-69d3ec6b-29de-50e5-9ac5-020e01118ea1",
+      "answer_block_id": "a-67d8e1eb-c7fc-5d1e-8eb0-f110e10e95b7",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-1d6baf88-883f-515f-ab69-ca8283aeff62",
+      "answer_block_id": "a-51bf3f93-f02a-5b50-a54b-f6195d734eb1",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-1d6baf88-883f-515f-ab69-ca8283aeff62",
+      "answer_block_id": "a-67d8e1eb-c7fc-5d1e-8eb0-f110e10e95b7",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-1d6baf88-883f-515f-ab69-ca8283aeff62",
+      "answer_block_id": "a-e26a3164-5606-5a65-a0c4-6b371a899f08",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-34f9ec7d-6f98-5a3f-bc8a-663d3c71965f",
+      "answer_block_id": "a-dd122226-ad18-59db-95b3-56c2489aede7",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-34f9ec7d-6f98-5a3f-bc8a-663d3c71965f",
+      "answer_block_id": "a-26635c14-5959-5f87-97ea-c706a7fb5127",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-34f9ec7d-6f98-5a3f-bc8a-663d3c71965f",
+      "answer_block_id": "a-03415dd3-0cd7-54e0-8f42-56b61d44b643",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-ca975cc9-7eee-5735-8bf5-8a939d21c74b",
+      "answer_block_id": "a-2ace1536-330f-5e28-b9b1-e4a914703cf6",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-ca975cc9-7eee-5735-8bf5-8a939d21c74b",
+      "answer_block_id": "a-36ff389e-6d2b-59b0-b8f8-c6560afaf39b",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-fc77d166-ab98-5577-8fff-c7210f11ab27",
+      "answer_block_id": "a-60d322d8-bf5d-5512-b65c-c49585577876",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-fc77d166-ab98-5577-8fff-c7210f11ab27",
+      "answer_block_id": "a-feb1282c-780d-51b6-b9ee-799c153742b4",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-f2997036-c32f-5de5-bb2f-7af0489848b3",
+      "answer_block_id": "a-fc43bb50-e361-5a4e-8b3c-e9763940b7db",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-f2997036-c32f-5de5-bb2f-7af0489848b3",
+      "answer_block_id": "a-9e5c8b26-d5c2-5156-ab8d-c6e436949c80",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-f2997036-c32f-5de5-bb2f-7af0489848b3",
+      "answer_block_id": "a-19786885-84ab-51b4-8abf-5b902e3fda5a",
+      "relevance": 1
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "blocks": [
+    {
+      "tender_id": "villingen_schwenningen_pilot_parkraumbelegung_2022",
+      "theme": "Mobilität | Dashboard | Datenplattform",
+      "chapter": "Leistungsbeschreibung – Pilot Parkraumbelegung",
+      "block_id": "q-9e43ff63-5523-53d4-8202-1e3966807293",
+      "text": "Leistungsbeschreibung – Pilot Parkraumbelegung\n\nIm Jahr 2020 hat die Stadt Villingen-Schwenningen die Digitalisierungsstrategie \"VS!digital\" erarbeitet. Im Vordergrund stand dabei ein ganzheitlicher Ansatz, der alle relevanten Kernbereiche des Oberzentrums einbezieht: Stadtgesellschaft, Wirtschaft und Verwaltung. Bald schon wurde klar, dass das eigentliche Ziel über die Digitalisierungsstrategie weit hinausgeht – die Doppelstadt möchte eine Smart City werden! Im Rahmen der Erweiterung unserer Digitalisierungsstrategie um den Bereich Smart City ist für die Stadt Villingen-Schwenningen vor allem die Mobilität einer der wichtigen Bausteine um dieses Ziel zu erreichen. Für die Parkraumbelegung und ein eventuell darauf aufbauendes Parkraummanagement ist es wichtig die Technologien und stadtinterne Prozesse im Vorfeld auf ihre Eignung zu prüfen. Die zu testenden Technologien setzen sich aus Bodensensoren und Kameraüberwachung zusammen. Die Ergebnisse des Pilotprojekts Parkraumbelegung sollen der Stadtverwaltung und den Gemeinderat eine fundierte Entscheidungsgrundlage für das weitere Vorgehen liefern. Von dem Pilotprojekt erhofft sich die Stadt Villingen-Schwenningen folgende Nutzen:\n\n• Möglichkeit Technologien zu testen, bevor sie ausgerollt werden\n\n• Grundlage/Vorprojekt zu einem möglichen Parkraummanagement-Konzept\n\n• Nutzbarmachung der gewonnenen Daten\n\n• Reduzierung von Parksuchverkehr und damit verbundenen Umweltbelastungen\n\n• Effiziente Nutzung des öffentlichen Straßenraums\n\nUm für Villingen-Schwenningen ein passendes Konzept und die richtige Technologie zu erarbeiten und dieses im Anschluss auch zügig umsetzen zu können, soll das Projekt extern unterstützt werden. Einzureichen ist ein Angebot, welches die im Folgenden dargestellten Aufgaben beinhaltet. Da voraussichtlich nicht jeder Anbieter alle Technologien bedienen kann, wird es zwei Lose geben. Anbieter können auf ein Los oder beide Lose anbieten. Der Ausführungszeitraum ist abhängig von der Dauer des Vergabeverfahrens, jedoch sollten die Leistungen bis spätestens 01.01.2023 vollständig umgesetzt sein. Für die angebotenen Leistungen ist ein Gesamtpreis anzugeben, mit dem alle Leistungen eines Loses vergütet werden (Pauschalpreisangebot). Hinweis: Die Angebotswertung erfolgt nicht allein anhand des Preises.",
+      "length_tokens": 287,
+      "structure_path": "LV Leistungsbeschreibung > Leistungsbeschreibung – Pilot Parkraumbelegung"
+    },
+    {
+      "tender_id": "villingen_schwenningen_pilot_parkraumbelegung_2022",
+      "theme": "Mobilität | Dashboard | Datenplattform",
+      "chapter": "Aufgabenbeschreibung",
+      "block_id": "q-a892a896-1de8-54cf-946d-00eb9ca248d4",
+      "text": "Aufgabenbeschreibung\n\nFolgende Rahmenbedingungen sind gegeben:\n\n Die Laufzeit des Pilotprojekts beläuft sich auf sechs Monate\n\n Alle Sensoren, die LoRaWAN Technologie verwenden, müssen in das städtische\n\nLoRaWAN via The things network eingebunden werden. Es ist nicht das Ziel ein paralleles Netzwerk aufzubauen\n\n Visualisierung der gewonnenen Daten\n\n Angebot inklusive Dienstleistung zur Installation des jeweiligen Loses",
+      "length_tokens": 56,
+      "structure_path": "LV Leistungsbeschreibung > Aufgabenbeschreibung"
+    },
+    {
+      "tender_id": "villingen_schwenningen_pilot_parkraumbelegung_2022",
+      "theme": "Mobilität | Dashboard | Datenplattform",
+      "chapter": "Los 1: Technologie-Test Bodensensoren",
+      "block_id": "q-8ee4ab8d-0b58-571c-8ecc-94285833f2b0",
+      "text": "Los 1: Technologie-Test Bodensensoren\n\n Funktionalität von Bodensensoren zur Erfassung der Parkplatzbelegung,\n\ninsbes. Verträglichkeit mit Schneeräumfahrzeugen & Verfügbarmachung der Daten\n\n Die einzusetzenden Sensoren sollen nur geklebt werden. Eine andere\n\nBefestigungsmöglichkeit ist nicht erwünscht\n\n Wo: Abschnitt im Kaiserring (s. Abb. 1), Parkplätze quer zur Straße, Anzahl\n\nSensoren 25-30; Koordinaten: 48.057505, 8.462870",
+      "length_tokens": 52,
+      "structure_path": "LV Leistungsbeschreibung > Los 1: Technologie-Test Bodensensoren"
+    },
+    {
+      "tender_id": "villingen_schwenningen_pilot_parkraumbelegung_2022",
+      "theme": "Mobilität | Dashboard | Datenplattform",
+      "chapter": "Los 2: Technologie-Test Kamera",
+      "block_id": "q-0ab131bd-2b23-5c79-a7cc-2865afdbc735",
+      "text": "Los 2: Technologie-Test Kamera\n\n Funktionalität von Kamerasystemen zur Erfassung der Parkplatzbelegung &\n\nVerfügbarmachung der Daten\n\n DSGVO konforme Videoüberwachung\n\n Unterscheidung PKW, LKW, Wohnmobil, Krafträder\n\n Dauer des Parkvorgangs\n\n Wo: Parkplatz am Hockenplatz VS-Schwenningen, 30 Parkplätze auf engem\n\nund übersichtlichem Raum. Koordinaten: 48.062603, 8.532977",
+      "length_tokens": 46,
+      "structure_path": "LV Leistungsbeschreibung > Los 2: Technologie-Test Kamera"
+    },
+    {
+      "tender_id": "villingen_schwenningen_pilot_parkraumbelegung_2022",
+      "theme": "Mobilität | Dashboard | Datenplattform",
+      "chapter": "Projektbeschreibung",
+      "block_id": "a-60f14069-80ad-5073-b783-72ae1473a43a",
+      "text": "Projektbeschreibung\n\nFür die Parkraumbelegung in Villingen-Schwenningen werden verschiedene Arten von Sensoren zur Erfassung der Auslastungsdaten zweier Parkflächen installiert. Die hierdurch erfassten Daten werden über ein Dashboard visualisiert und den verantwortlichen Stellen der Stadt während der Dauer des Projektzeitraums zur Verfügung gestellt. Die hierfür bereitgestellte Lösung zeichnet sich durch eine modulare Aufbauweise aus, die jederzeit um weitere Komponenten, z.B. einer (Daten-) Plattform sowie Sensoranwendungen oder Digitale Services wie bspw. das Bezahlen über das Handy, ergänzt werden kann. Damit wäre auch eine mögliche Erweiterung des Piloten der Parkraumbelegung auf ein flächendeckendes Parkraummanagement realisierbar.",
+      "length_tokens": 91,
+      "structure_path": "CONCEPT Konzept > Projektbeschreibung"
+    },
+    {
+      "tender_id": "villingen_schwenningen_pilot_parkraumbelegung_2022",
+      "theme": "Mobilität | Dashboard | Datenplattform",
+      "chapter": "A) Datenquellen",
+      "block_id": "a-818f016f-6285-5131-871e-c7ffa7d64c52",
+      "text": "A) Datenquellen\n\nIm Rahmen des Auftrags werden ausschließlich Daten über Hardware, in Form von Bodenparksensoren sowie einer Kamera erfasst.",
+      "length_tokens": 19,
+      "structure_path": "CONCEPT Konzept > A) Datenquellen"
+    },
+    {
+      "tender_id": "villingen_schwenningen_pilot_parkraumbelegung_2022",
+      "theme": "Mobilität | Dashboard | Datenplattform",
+      "chapter": "Los 1: Hardware - Bodenparksensoren",
+      "block_id": "a-e3ee3ce1-e078-588d-8c1f-dc945042ea1d",
+      "text": "Los 1: Hardware - Bodenparksensoren\n\nDie Bodenparksensoren in Form von Einzelstellplatzsensoren werden bei der Installation auf jeden einzelnen Stellplatz durch ein definiertes Klebe-Verfahren aufgebracht. Je nach verwendeter Art der Sensoren wird ein zugehöriges Gateway benötigt. Die Gateways werden an einer erhöhten Position, i.d.R. in einer Höhe von mindestens drei Meter, in der Nähe der Sensoren angebracht. Die Bodenparksensoren sind verträglich ggü. Schneeräumfahrzeugen mit Gummilippe und stellen die Daten zur Datenvisualisierung zur Verfügung.",
+      "length_tokens": 72,
+      "structure_path": "CONCEPT Konzept > A) Datenquellen > Los 1: Hardware - Bodenparksensoren"
+    },
+    {
+      "tender_id": "villingen_schwenningen_pilot_parkraumbelegung_2022",
+      "theme": "Mobilität | Dashboard | Datenplattform",
+      "chapter": "Los 2: Hardware - Kamera",
+      "block_id": "a-dff0fd4b-af47-5681-afe6-e94c4ed32dd8",
+      "text": "Los 2: Hardware - Kamera\n\nDie Kamera in Form des Smart City Vision Systems (SCVS) ermöglicht die Erfassung der Parkplatzbelegung DSGVO-konform. Das Kamerabild wird nicht übertragen, einzig anonymisierte Daten verlassen das Gerät. Die KI-gestützte Bildanalyse erfolgt vollständig lokal. Die Parkplatzerfassung durch das SCVS ist auf Basis der Gesamtanzahl der freien bzw. belegten Stellflächen über definierbare virtuelle Schranken sowie stellplatzgenau über virtuelle Räume möglich, wobei letztgenannte Option die Parkdauererfassung ermöglicht. Neben der Parkplatzauslastung erlaubt das SCVS darüber hinaus die Klassifizierung des Fahrzeugs in die folgenden Fahrzeugklassen: PKW LKW Fahrräder Krafträder Busse Lieferwagen Wohnmobile (in der Entwicklung, können in der aktuellen Softwareversion noch nicht voll zuverlässig erkannt werden) Der Betrieb des Systems erfolgt über eine Dauerstromversorgung (230 V), die Datenbereitstellung über eine LTE-Datenanbindung.",
+      "length_tokens": 121,
+      "structure_path": "CONCEPT Konzept > A) Datenquellen > Los 2: Hardware - Kamera"
+    },
+    {
+      "tender_id": "villingen_schwenningen_pilot_parkraumbelegung_2022",
+      "theme": "Mobilität | Dashboard | Datenplattform",
+      "chapter": "Installation",
+      "block_id": "a-61231081-94a5-5312-bec9-ef97a98e161a",
+      "text": "Installation\n\nSowohl die Bodenparksensoren (Los 1) als auch die Kamera (Los 2) werden durch den Auftragnehmer installiert. Basierend auf den vom Auftraggeber bereitgestellten Informationen (u.a. Adresse und Lageplan) wird eine digitale Parkplatzkarte durch den Auftragnehmer erstellt. Hier wird, falls benötigt, auch die Stromplanung für die Gateways und der Kamera eingetragen. Die Erstellung der digitalen Parkplatzkarte und die Stromplanung übernimmt der Auftragnehmer. Nach Prüfung der digitalen Parkplatzkarte durch den Auftraggeber auf Richtigkeit, ist der Auftraggeber für das Legen der 230V-Stromanschlüsse für die Gateways und der Kamera verantwortlich. Das Gateway wird im Innenbereich an einer Säule oder der Wand angebracht. Für die Funktionalität des Gateways ist 2G Mobilfunkempfang, für die Funktionalität der Kamera ist 4G-Mobilfunkempfang am Standort notwendig. Die Kamera ist in entsprechender Höhe und notwendiger Sichtfreiheit zu platzieren. Höhe und Sichtfreiheit haben Auswirkung auf die Erfassungsgenauigkeit sowie auf die Parkplatzerfassung auf Basis der Gesamtanzahl oder stellflächengenau. Für die Funktionalität der Kamera wird am Standort 4G-Mobilfunkempfang benötigt. Zusammengefasst wird von dem Auftraggeber für die Installationsvorbereitung Folgendes benötigt: Genaue Adresse & Lageplan des zu digitalisierenden Parkplatzes Organisation von 230V-Stromanschlüsse Organisation eines Hubsteigers Nachdem die Stromanschlüsse und der Mobilfunkempfang vom Auftraggeber bestätigt wurden, installiert der Auftragnehmer die Hardware. Die Installation kann je nach Absprache am Wochenende, in den Abendstunden oder auch tagsüber durchgeführt werden. Für den Zeitraum der Installation der Bodenparksensoren muss der Parkplatz abgesperrt sein. Bei der Installation der Hardware werden die Einzelstellplatzsensoren auf den Stellplätzen verklebt und kalibriert. Nach der Installation muss der Parkplatz für die Bodenparksensoren optimalerweise für 10 Stunden abgesperrt bleiben, sodass der Kleber der Parksensoren ausreichend aushärten kann. Die Gateways und Kamera werden an den vorher definierten Plätzen angebracht. Zusammengefasst wird von dem Auftraggeber für die Installation Folgendes benötigt: Parkplatzabsperrung vor und während der Installation der Bodenparksensoren Sperrung des Parkplatzes für optimalerweise 10 Stunden nach Installation der Bodenparksensoren Bereitstellung des 230V-Stromanschluss Gewährleistung der Zugänglichkeit des Installationsort der Kamera Bereitstellung des Hubsteigers Nachdem die Hardware installiert ist, erhält der Auftraggeber ein Abnahmeprotokoll, mit der Bitte dies an den Auftragnehmer per E-Mail zurückzusenden. Hiermit bestätigt der Auftraggeber die korrekte Installation der Hardware. Nach 14 Tage nach Senden des Abnahmeprotokolls an den Auftraggeber ohne Rückmeldung gilt die Hardware ebenfalls als abgenommen. Zusammengefasst wird von dem Auftraggeber nach der erfolgreichen Installation der Hardware folgendes benötigt: Ausgefülltes und unterschriebenes Abnahmeprotokoll",
+      "length_tokens": 376,
+      "structure_path": "CONCEPT Konzept > Installation"
+    },
+    {
+      "tender_id": "villingen_schwenningen_pilot_parkraumbelegung_2022",
+      "theme": "Mobilität | Dashboard | Datenplattform",
+      "chapter": "Ergänzende Informationen zur Installation der Hardware",
+      "block_id": "a-fefad7e1-1009-55e9-bbba-9cf0ee7eed22",
+      "text": "Ergänzende Informationen zur Installation der Hardware\n\nDie erste Anfahrt zur Installation der Sensoren ist im Angebot inkludiert. Sollten mehrere Anfahrten notwendig sein, wird ab der zweiten Anfahrt eine Pauschale von 350,00€ pro Anfahrt berechnet. Sollte im Rahmen der Projektierung oder Projektumsetzung festgestellt werden, dass die Bodenparksensoren auf dem entsprechenden Untergrund nur mit einer zusätzlichen Verschraubung installiert werden kann, entstehen pro Sensor zusätzliche Kosten in Höhe von 30,00€ netto. Für die Installation der Bodenparksensoren sind eingezeichnete und befestigte Stellflächen Voraussetzung. Die Installation der Bodenparksensoren ist bei Schneefall, starkem Regen und Temperaturen nahe dem Gefrierpunkt, aufgrund des Klebeverfahrens, nicht möglich.",
+      "length_tokens": 98,
+      "structure_path": "CONCEPT Konzept > Ergänzende Informationen zur Installation der Hardware"
+    },
+    {
+      "tender_id": "villingen_schwenningen_pilot_parkraumbelegung_2022",
+      "theme": "Mobilität | Dashboard | Datenplattform",
+      "chapter": "B) Datenvisualisierung",
+      "block_id": "a-4608c949-a44c-5954-a1e8-7b2272a3d3cd",
+      "text": "B) Datenvisualisierung\n\nDie Belegungsstände der beiden Parkflächen (Abschnitt Kaiserring sowie Parkplatz am Hockenplatz) werden über ein Dashboard, das per frei zugänglichen Uniform Ressource Locator (URL), umgangssprachlich „Link“, zur Verfügung gestellt. Die URL wird mit dem Auftraggeber abgestimmt. Die Integration der angebotenen Hardware (Los 1 und Los 2) und übertragene Daten ist bereits realisiert und kann in kürzester Zeit über das Dashboard visualisiert werden. Bei Datenquellen andere Anbieter ist die Integration mit ggf. notwendiger Schnittstellenentwicklung abzustimmen, da möglicherweise zusätzliche Entwicklungskosten anfallen.",
+      "length_tokens": 80,
+      "structure_path": "CONCEPT Konzept > B) Datenvisualisierung"
+    },
+    {
+      "tender_id": "villingen_schwenningen_pilot_parkraumbelegung_2022",
+      "theme": "Mobilität | Dashboard | Datenplattform",
+      "chapter": "Dashboard",
+      "block_id": "a-25bf7038-9fdd-5f0f-b8fa-6e28176ddbeb",
+      "text": "Dashboard\n\nDie Datenvisualisierung in Form des Dashboards stellt ein MVP dar, das es ermöglicht eine Datenvisualisierung in kürzester Zeit zu realisieren. Das Dashboard wird dabei so gestaltet, dass eine kontinuierliche und agile Weiterentwicklung in enger Absprache mit dem Auftragnehmer jederzeit möglich ist. Dadurch sind neue Widgets bzw. Kennzahlen oder Darstellungsformen zu den bestehenden Datenquellen ebenso denkbar, wie neu hinzukommende Datenquellen und umzusetzende Use Cases. Das MVP besteht aus verschiedenen Widgets mit jeweiligen Kennzahlen und Visualisierungsformen. Das Dashboard wird in den gewünschten Farben und Layout der Stadt Villingen-Schwenningen bereitgestellt. Nachfolgende Grafik dient der Orientierung hierzu. Standardmäßig können aus den folgenden Visualisierungsformen und Kennzahlen 6 Widgets ausgewählt werden: Belegungsstatus der individuellen Stellflächen oder des Parkplatzes in Summe (je nach ausgewählter Sensorik) Verortung der Stellflächen mit Belegungsstatus auf einer digitalisierten 2D Karte des Parkplatzes Unterscheidung der zu parkenden Fahrzeugarten, z.B. PKW, LKW, Fahrräder, Krafträder, Lieferwagen, Busse (je nach ausgewählter Sensorik) Dauer der Parkvorgänge (je nach ausgewählter Sensorik) Anzahl der Parkvorgänge (je nach ausgewählter Sensorik) Anzahl der Auslastung der Stellflächen oder Parkplätze im zeitlichen Verlauf (je nach ausgewählter Sensorik) Weitere Kennzahlen und Visualisierungsformen sind denkbar und können ebenso wie die Anzahl der Widgets im Gespräch hinsichtlich Realisierbarkeit erörtert werden.",
+      "length_tokens": 195,
+      "structure_path": "CONCEPT Konzept > B) Datenvisualisierung > Dashboard"
+    },
+    {
+      "tender_id": "villingen_schwenningen_pilot_parkraumbelegung_2022",
+      "theme": "Mobilität | Dashboard | Datenplattform",
+      "chapter": "Bereitstellung",
+      "block_id": "a-8e1f058c-a982-5d49-bea7-e35718f0ee51",
+      "text": "Bereitstellung\n\nDie Bereitstellung des Dashboards erfolgt spätestens 2 Wochen nach erfolgreicher Installation der Sensorik. Hierfür wird dem Auftraggeber eine URL mit Zugriff auf das Dashboard zur Verfügung gestellt, sodass das Dashboard hinsichtlich Funktionalität getestet und anschließend abgenommen werden kann.",
+      "length_tokens": 39,
+      "structure_path": "CONCEPT Konzept > B) Datenvisualisierung > Bereitstellung"
+    },
+    {
+      "tender_id": "villingen_schwenningen_pilot_parkraumbelegung_2022",
+      "theme": "Mobilität | Dashboard | Datenplattform",
+      "chapter": "C) Wartung & Betrieb",
+      "block_id": "a-f36afb8e-7ba9-5377-a47b-81ddc5e59db8",
+      "text": "C) Wartung & Betrieb\n\nDie Full-Service-Instandhaltung für das Sensorsystem beschreibt eine vollständige Instandhaltung der Hard- und Software (Dashboard) inkl. Service Level Agreements und ist im kalkulierten Angebot über die vereinbarte Laufzeit mit abgedeckt. Der Nachkauf von Ersatz-Hardware ist nicht erforderlich und ist im Leistungspunkt „Full-Service über gesamte Laufzeit inkludiert. Ausgenommen von der Full-Service-Instandhaltung sind die unten genannten Haftungsausschlüsse (siehe Kapitel „Haftung“).",
+      "length_tokens": 61,
+      "structure_path": "CONCEPT Konzept > C) Wartung & Betrieb"
+    },
+    {
+      "tender_id": "villingen_schwenningen_pilot_parkraumbelegung_2022",
+      "theme": "Mobilität | Dashboard | Datenplattform",
+      "chapter": "D) Service Level Agreements",
+      "block_id": "a-447ece6b-ece6-5e16-82da-98dd442bc748",
+      "text": "D) Service Level Agreements\n\nDer Auftragnehmer garantiert dem Auftraggeber fest definierte Service Level. Die folgenden Punkte sollen in Kurzform übersichtlich die elementaren Bestandteile der SLAs (Service Level Agreements) darstellen.",
+      "length_tokens": 29,
+      "structure_path": "CONCEPT Konzept > D) Service Level Agreements"
+    },
+    {
+      "tender_id": "villingen_schwenningen_pilot_parkraumbelegung_2022",
+      "theme": "Mobilität | Dashboard | Datenplattform",
+      "chapter": "Hardware",
+      "block_id": "a-df133258-f6e0-5067-a2b8-5b3672439700",
+      "text": "Hardware\n\nResolutionszeit Bodenparksensoren (Los 1) Kamera (Los 2) * Von Montag bis Freitag 08-17:00 Uhr; Samstag, Sonn- und Feiertage werden ausgenommen. Ebenso ausgenommen ist die betriebliche Schließung zwischen Weihnachten und Neujahr. Sonderfall Vandalismus Incidents verursacht Vandalismus fallen unter die Kategorie der gelösten Sensoren. Die Reaktionszeit entspricht den Standarddefinitionen. Die Resolutionszeit wird auf den Wert der Priorität 3 festgelegt.",
+      "length_tokens": 58,
+      "structure_path": "CONCEPT Konzept > D) Service Level Agreements > Hardware"
+    },
+    {
+      "tender_id": "villingen_schwenningen_pilot_parkraumbelegung_2022",
+      "theme": "Mobilität | Dashboard | Datenplattform",
+      "chapter": "Mitwirkungspflichten des Auftraggebers",
+      "block_id": "a-d2502e9e-4ba5-5060-b460-a62b04fb4434",
+      "text": "Mitwirkungspflichten des Auftraggebers\n\nSensorkalibrierung und Batteriespannung Durch Datenzugriffe aus der Ferne werden Kalibrierungen der Sensoren und deren Batteriezustände regelmäßig überprüft. Im Falle von niedrigen Batteriespannungen wird im Rahmen der Instandhaltung vorsorglich ein Austausch des Sensors umgesetzt.",
+      "length_tokens": 36,
+      "structure_path": "CONCEPT Konzept > D) Service Level Agreements > Mitwirkungspflichten des Auftraggebers"
+    },
+    {
+      "tender_id": "villingen_schwenningen_pilot_parkraumbelegung_2022",
+      "theme": "Mobilität | Dashboard | Datenplattform",
+      "chapter": "Software",
+      "block_id": "a-e9236572-e45e-50b6-bdfa-a648d85f081e",
+      "text": "Software\n\nDer Auftragnehmer bietet eine vollständige Instandhaltung des Dashboards an. Dies beinhaltet Diagnosen und Parameteranpassungen aus der Ferne. Werden Auffälligkeiten des Systems von Seiten des Auftraggebers festgestellt, kann eine entsprechende Nachricht über Telefon oder E-Mail an den Ansprechpartner gesendet werden. Der Auftragnehmer wird die Auffälligkeit analysieren, bewerten und gegebenenfalls, soweit möglich, Maßnahmen ergreifen.",
+      "length_tokens": 53,
+      "structure_path": "CONCEPT Konzept > D) Service Level Agreements > Software"
+    },
+    {
+      "tender_id": "villingen_schwenningen_pilot_parkraumbelegung_2022",
+      "theme": "Mobilität | Dashboard | Datenplattform",
+      "chapter": "E) Haftung",
+      "block_id": "a-01976ea8-203c-5150-a268-268b31e84582",
+      "text": "E) Haftung\n\nDer Auftragnehmer haftet in folgenden Fällen nicht: für Produktrückstände bei Entfernung der Parksensoren, die z.B. durch den Kleber verursacht werden. Zusätzlich haftet der Auftragnehmer nicht für Reinigungs- oder Instandsetzungskosten am Untergrund und/oder an weiteren Montageflächen oder Bereitstellung (z.B. Stromkabel, Kabelkanal etc.), die mit der Entfernung, Prüfung oder Instandsetzung der Parksensoren einhergehen. Etwaige Reinigung- oder Instandsetzungskosten sind vom Auftraggeber zu tragen. für aus Systemausfällen resultierende Folgeschäden, insbesondere eventuell entstehende Umsatzausfälle des Endkunden. für Störungen und/oder Ausfälle des Systems. Zudem besteht kein Rückerstattungsanspruch bei unmittelbar angrenzenden Bahnstrecken (< 10m), bei überführenden Hochspannungsleitungen, bei unmittelbarer Angrenzung von elektrischen Anlagen (z.B. Umspannwerk, Trafo). Es besteht weiterhin keine Haftung seitens des Auftragnehmers durch höhere Gewalt und Vandalismus, bei Beschädigung und/oder Demontage der Sensoren durch Fahrzeuge oder bewegliche Gegenstände (z.B. Laderampen), bei Ablösung durch Schneeschieber mit Metallschild oder ungefedertem Schild, bei Ausfall des Funknetzes, bei Abschaltung des Stroms für das Gateway oder der Kamera, für Schäden und Folgeschäden resultierend durch Leistungen des Elektrikers.",
+      "length_tokens": 159,
+      "structure_path": "CONCEPT Konzept > E) Haftung"
+    },
+    {
+      "tender_id": "villingen_schwenningen_pilot_parkraumbelegung_2022",
+      "theme": "Mobilität | Dashboard | Datenplattform",
+      "chapter": "Bei höherer Gewalt",
+      "block_id": "a-aa88b2a5-209d-519c-aef3-f05809a12792",
+      "text": "Bei höherer Gewalt\n\nIn Fällen höherer Gewalt ist die hiervon betroffene Vertragspartei für die Dauer und den Umfang der Auswirkungen von der Verpflichtung zur Lieferung oder Abnahme befreit. Höhere Gewalt ist jedes außerhalb des Einflussbereichs der jeweiligen Vertragspartei liegende Ereignis, durch das sie ganz oder teilweise an der Erfüllung seiner Verpflichtungen gehindert wird, einschließlich Feuerschäden, Überschwemmungen und Streiks. Die betroffene Vertragspartei wird der anderen Vertragspartei unverzüglich den Eintritt sowie den Wegfall der höheren Gewalt anzeigen (spätestens 3 Wochen nach Kenntnis) und sich nach besten Kräften bemühen, die höhere Gewalt zu beheben und in ihren Auswirkungen so weit wie möglich zu beschränken. Die Vertragsparteien werden sich bei Eintritt höherer Gewalt über das weitere Vorgehen abstimmen und festlegen, ob nach ihrer Beendigung, die während dieser Zeit nicht gelieferten Produkte nachgeliefert werden sollen. Ungeachtet dessen ist jede Vertragspartei berechtigt, von den hiervon betroffenen Bestellungen zurückzutreten, wenn die höhere Gewalt mehr als 3 Monate seit dem vereinbarten Lieferdatum andauert.",
+      "length_tokens": 155,
+      "structure_path": "CONCEPT Konzept > E) Haftung > Bei höherer Gewalt"
+    },
+    {
+      "tender_id": "villingen_schwenningen_pilot_parkraumbelegung_2022",
+      "theme": "Mobilität | Dashboard | Datenplattform",
+      "chapter": "Änderungen im Leistungsumfang oder Verlängerung über den Projektzeitraum hinaus",
+      "block_id": "a-899b7f68-4ace-5146-938d-4980b46f03bf",
+      "text": "Änderungen im Leistungsumfang oder Verlängerung über den Projektzeitraum hinaus\n\nEventuelle Änderungen im Leistungsumfang stimmen wir gemeinsam ab und erstellen bei Bedarf ein ergänzendes Angebot. Bei Wunsch können die angebotenen Leistungen auch über den Testzeitraum von 6 Monaten hinaus betrieben werden. Für eine reibungslose Fortführung ist eine Verlängerung der Dienstleistung mit Sensorik sowie Datenvisualisierung bis spätestens einen Monat vor Ende des Testzeitraums mitzuteilen. Die Laufzeit der Bodenparksensoren kann nach Ende der 6-monatigen Testphase um 1 Jahr verlängert werden. Die Kosten betragen hierfür im Anschluss 3,00 EUR (Netto) monatlich pro Sensor. Sind die Bodenparksensoren nicht mehr erwünscht, so fallen einmalige Demontage-Gebühren von 30,00 EUR (Netto) je Sensor an. Die Laufzeit des SCVS kann nach Ende der 6-monatigen Testphase verlängert werden. Kosten fallen für die ersten 6 Monate nach der Testphase keine an, da lediglich Lizenzen über ein Jahr erworben werden können. Nach 12 Monaten fallen jährliche Kosten von ca. 712,00 EUR (Netto) an. Sollte das SCVS demontiert werden, ist dies für eine einmalige Demontage-Gebühr von 850,00 EUR (Netto) möglich. Die Datenvisualisierung in Form des Dashboards kann ebenfalls über die 6-monatige Testphase hinaus verlängert werden. Die Kosten hängen vom gewählten Setup (z.B. Datenplattform, Hosting und Betrieb) und zu verarbeitenden Datenmengen ab und können im Vorfeld nicht verlässlich angegeben werden. Hierzu ist ein Informationsgespräch jederzeit möglich.",
+      "length_tokens": 212,
+      "structure_path": "CONCEPT Konzept > Änderungen im Leistungsumfang oder Verlängerung über den Projektzeitraum hinaus"
+    }
+  ],
+  "links": [
+    {
+      "query_block_id": "q-9e43ff63-5523-53d4-8202-1e3966807293",
+      "answer_block_id": "a-60f14069-80ad-5073-b783-72ae1473a43a",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-a892a896-1de8-54cf-946d-00eb9ca248d4",
+      "answer_block_id": "a-60f14069-80ad-5073-b783-72ae1473a43a",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-8ee4ab8d-0b58-571c-8ecc-94285833f2b0",
+      "answer_block_id": "a-818f016f-6285-5131-871e-c7ffa7d64c52",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-8ee4ab8d-0b58-571c-8ecc-94285833f2b0",
+      "answer_block_id": "a-e3ee3ce1-e078-588d-8c1f-dc945042ea1d",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-8ee4ab8d-0b58-571c-8ecc-94285833f2b0",
+      "answer_block_id": "a-61231081-94a5-5312-bec9-ef97a98e161a",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-0ab131bd-2b23-5c79-a7cc-2865afdbc735",
+      "answer_block_id": "a-818f016f-6285-5131-871e-c7ffa7d64c52",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-0ab131bd-2b23-5c79-a7cc-2865afdbc735",
+      "answer_block_id": "a-dff0fd4b-af47-5681-afe6-e94c4ed32dd8",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-0ab131bd-2b23-5c79-a7cc-2865afdbc735",
+      "answer_block_id": "a-61231081-94a5-5312-bec9-ef97a98e161a",
+      "relevance": 1
+    }
+  ]
+}

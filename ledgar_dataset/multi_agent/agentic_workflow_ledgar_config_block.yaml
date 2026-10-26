@@ -1,0 +1,80 @@
+
+agentic_workflow:
+  enabled: true
+  experiment_name: agentic_ledgar_answers
+
+  embedding_device: cpu
+
+  retrieval:
+    initial_child_top_k: 20
+
+    # Unique parents produced by the top-20 children are reranked by:
+    # exact chapter-title match, semantic chapter-title similarity,
+    # and original dense score as final tie-breaker.
+    outline_parent_top_n: 5
+
+    # Fixed fine-grained retrieval for every atomic requirement.
+    requirement_child_top_k: 3
+
+  # These role definitions are independent from generation.generators.
+  models:
+    outline_generation:
+      name: qwen2.5-32b-instruct-agentic-outline
+      provider: vllm
+      model: Qwen/Qwen2.5-32B-Instruct
+      tensor_parallel_size: 2
+      dtype: auto
+      gpu_memory_utilization: 0.90
+      max_model_len: 32768
+      trust_remote_code: false
+      seed: 42
+      temperature: 0.0
+      max_output_tokens: 1800
+
+    requirement_splitting:
+      name: qwen2.5-7b-instruct-agentic-requirements
+      provider: vllm
+      model: Qwen/Qwen2.5-7B-Instruct
+      tensor_parallel_size: 1
+      dtype: auto
+      gpu_memory_utilization: 0.90
+      max_model_len: 16384
+      trust_remote_code: false
+      seed: 42
+      temperature: 0.0
+      max_output_tokens: 1800
+      max_atomic_requirements: 7
+
+    # This role uses the same loaded Qwen 7B runtime as requirement_splitting.
+    # Runtime model settings must therefore remain identical.
+    requirement_answer_synthesis:
+      name: qwen2.5-7b-instruct-agentic-requirement-answers
+      provider: vllm
+      model: Qwen/Qwen2.5-7B-Instruct
+      tensor_parallel_size: 1
+      dtype: auto
+      gpu_memory_utilization: 0.90
+      max_model_len: 16384
+      trust_remote_code: false
+      seed: 42
+      temperature: 0.0
+      max_output_tokens: 4000
+
+    final_generation:
+      name: qwen2.5-32b-instruct-agentic-final
+      provider: vllm
+      model: Qwen/Qwen2.5-32B-Instruct
+      tensor_parallel_size: 2
+      dtype: auto
+      gpu_memory_utilization: 0.90
+      max_model_len: 32768
+      trust_remote_code: false
+      seed: 42
+      temperature: 0.0
+
+
+  prompts:
+    outline_system_prompt: ./ledgar_dataset/multi_agent/multi_agent_system_prompts/ledgar_outline_agent_system_prompt.txt
+    requirement_split_system_prompt: ./ledgar_dataset/multi_agent/multi_agent_system_prompts/ledgar_requirement_split_agent_system_prompt.txt
+    requirement_answer_system_prompt: ./ledgar_dataset/multi_agent/multi_agent_system_prompts/ledgar_requirement_answer_agent_system_prompt.txt
+    final_system_prompt: ./ledgar_dataset/multi_agent/multi_agent_system_prompts/ledgar_agentic_final_system_prompt.txt

@@ -1,0 +1,19 @@
+﻿outcome,comparison,wilcoxon_w,raw_p,holm_p,rank_biserial_r,omnibus_significant,holm_significant
+Coverage (Broad),DPC vs DP,1.0,1.0,1.0,0.3333333333333333,True,False
+Coverage (Broad),DPC vs GT,3.0,0.01953125,0.05859375,0.8666666666666667,True,False
+Coverage (Broad),DP vs GT,8.0,0.09765625,0.1953125,0.6444444444444445,True,False
+Coherence (Logical),DPC vs DP,0.0,0.25,0.25,1.0,True,False
+Coherence (Logical),DPC vs GT,0.0,0.00390625,0.01171875,1.0,True,True
+Coherence (Logical),DP vs GT,2.0,0.005859375,0.01171875,0.9272727272727272,True,True
+User Intent Alignment,DPC vs DP,0.0,1.0,1.0,1.0,True,False
+User Intent Alignment,DPC vs GT,2.5,0.0390625,0.1171875,0.8611111111111112,True,False
+User Intent Alignment,DP vs GT,7.0,0.140625,0.28125,0.6111111111111112,True,False
+Cyclicality,DPC vs DP,12.5,0.5,0.5,0.3055555555555556,True,False
+Cyclicality,DPC vs GT,0.0,0.0078125,0.0234375,1.0,True,True
+Cyclicality,DP vs GT,1.5,0.01171875,0.0234375,0.9333333333333333,True,True
+Helpfulness,DPC vs DP,2.5,0.5,0.5,0.5,True,False
+Helpfulness,DPC vs GT,4.0,0.02734375,0.08203125,0.8222222222222222,True,False
+Helpfulness,DP vs GT,11.0,0.08984375,0.1796875,0.6,True,False
+Ranking,DPC vs DP,13.0,0.15234375,0.19921875,-0.5272727272727272,True,False
+Ranking,DPC vs GT,2.0,0.015625,0.046875,-0.9111111111111111,True,True
+Ranking,DP vs GT,11.0,0.099609375,0.19921875,-0.6,True,False

@@ -1,0 +1,559 @@
+{
+  "blocks": [
+    {
+      "tender_id": "smartboard_andernach_2024",
+      "theme": "Dashboard & Datenplattfom",
+      "chapter": "Präambel",
+      "block_id": "q-85cafd8d-86c4-5c87-a13a-d5d0f87bf42a",
+      "text": "Leistungsbeschreibung Smartboard Digitale Bahnhofstraße Autor: Marc Ortiz Stand: 15.03.24 Präambel Die Stadt Andernach ist Teil der Smarten Region MYK10 im Landkreis Mayen-Koblenz, eines der geförderten „Modellprojekte Smart Cities“ (MPSC). Mit diesem Modellprojekt fördert das Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen (BMWSB) gemeinsam mit der Kreditanstalt für Wiederaufbau (KfW) einen strategischen Umgang mit den neuen Möglichkeiten und Herausforderungen de r Digita lisierung für die Stadt - bzw. Regionalentwicklung. So sollen insbesondere partizipative und integrierte Ansätze erprobt und auf den regionalen Kontext übertragen werden. Im Jahr 2023 erhielt die Stadt Andernach finanzielle Unterstützung aus den MPSC-Mitteln, um Sensorik in der Bahnhofstraße verbauen zu können , insbesondere zur Erfassung von Parkplätzen, Luftqualität , Bodenfeuchte, Verkehrsfrequenzmessung. Bis auf das digitale Schild sind die Baumaßnahmen abgeschlossen Die Stadt Andernach möchte mit dem Smartboard folgende Zwecke erfüllen:  die Sichtbarkeit der Sensordaten ermöglichen  Förderung der Transparenz für Bürger und Bürgerinnen des Landkreises  Einfachen Zugang zu Informationen bereitstellen  Digitale Angebote der Stadt weiterentwickeln  Erste Visualisierung als bedarfsgerechte Lösung etablieren, die die Nutzenden an das Thema Sensorik heranführt  Evtl. Möglichkeit, die Lösung auch als App, sowie auf der Internetseite der Stadt zu veröffentlichen Mit dem Smartboard soll eine transparente Visualisierung der Sensordaten geschaffen werden. Die Entwicklung soll dabei von einem externen Dienstleister mit der erforderlichen Fachkompetenz umgesetzt werden. Der externe Dienstleister soll anhand dieser Leistungsbeschreibung ermittelt werden und beinhaltet die für den Bieter angebotsrelevanten Informationen.",
+      "length_tokens": 232,
+      "structure_path": "LV Leistungsbeschreibung > Präambel Präambel"
+    },
+    {
+      "tender_id": "smartboard_andernach_2024",
+      "theme": "Dashboard & Datenplattfom",
+      "chapter": "1 Zielsetzung zum Smartboard",
+      "block_id": "q-f2359c74-6e83-514a-b93b-b1b19ea4000b",
+      "text": "1. Zielsetzung zum Smartboard\n\nWie bereits beschrieben verfolgt die Stadt Andernach das Ziel Sensordaten sichtbar und für Bürgerinnen und Bürger zugänglich zu machen. Dazu soll eine Web-Applikation in Form eines Dashboards mit zugehörigem Backend zur Datenverarbeitung- und Speicherung entwickelt werden. Das gesamte Smartboard soll auf einem handelsüblichen Bildschirm laufen und insbesondere Passanten auf der Straße ansprechen.",
+      "length_tokens": 56,
+      "structure_path": "LV Leistungsbeschreibung > 1 Zielsetzung zum Smartboard"
+    },
+    {
+      "tender_id": "smartboard_andernach_2024",
+      "theme": "Dashboard & Datenplattfom",
+      "chapter": "1.1 Abnahme",
+      "block_id": "q-8bd3daea-fe71-5d60-9f04-d51b9c522d6c",
+      "text": "1.1 Abnahme Die Leistungsausführung soll nach Auftragserteilung (spätestens am) 15.04.2024 beginnen und muss bis zum 31.05.2024 abgeschlossen sein. Eine öffentlichkeitsfähige Version ist bis zum 31.07.2024 in Betrieb zu nehmen. Wartung und Support der Leistung ist bis zum 31.12.2025 sicherzustellen. Nach Fertigstellung des Smartboards soll diese zunächst dem Auftraggeber präsentiert und erklärt werden.",
+      "length_tokens": 52,
+      "structure_path": "LV Leistungsbeschreibung > 1 Zielsetzung zum Smartboard > 1.1 Abnahme"
+    },
+    {
+      "tender_id": "smartboard_andernach_2024",
+      "theme": "Dashboard & Datenplattfom",
+      "chapter": "2 Stakeholder",
+      "block_id": "q-8a8cc6f4-17f1-510b-b1ee-b65bf6259efd",
+      "text": "2. Stakeholder\n\nDie Stakeholder bilden eine Quelle für Anforderungen, weshalb Ihre Rolle in Bezug auf das Smartboard verstanden werden muss. Nachfolgend werden die Stakeholder hinsichtlich ihrer Aktivitäten und Interaktion mit dem Smartboard beleuchtet.\n\nSmartboard-Administrator Ein Smartboard -Administrator ist ein Mitarbeiter des Auftraggebers oder eine von dieser beauftragten Person. Diese Person kümmert sich um das Smartboard. Dies beinhaltet das Einstellen von Informationen, die Einpflege von weiteren Sensoren oder einer neuen Grafik. Interessierte Bürgerschaft / Passanten Bereitstellung Niedrigschwelligen Verkehrs,- und Umweltdaten. Diese sollen so dargestellt werden, dass Bürgerinnen und Bürger darauf aufmerksam werden und mit diesen für einen kurzen Zeitraum beschäftigen. Schulen Wir möchten Schulen die Möglichkeiten geben mit den Daten und dem Smartboard im Unterricht arbeiten zu können. Die sollen einfach und verständlich sein. Abteilungen der Stadt Das Ordnungs und Verkehrsamt sowie das Umweltamt der Stadt Andernach sollen die Möglichkeit besitzen, auf die benötigten Daten zugreifen zu können. Perspektivisch sollen die Daten auch für die Stadtplanung und - entwicklung genutzt werden.",
+      "length_tokens": 160,
+      "structure_path": "LV Leistungsbeschreibung > 2 Stakeholder"
+    },
+    {
+      "tender_id": "smartboard_andernach_2024",
+      "theme": "Dashboard & Datenplattfom",
+      "chapter": "4 Anforderungsbeschreibung an das Smartboard",
+      "block_id": "q-59e4a4af-e61b-5ad4-a81e-6c6eda7584ba",
+      "text": "4. Anforderungsbeschreibung an das Smartboard\n\nDie Anforderungen unterteilen sich in funktionale und Qualitätsanforderungen. Funktionale Anforderungen beschreiben die erwartete Funktionalität, während die Qualitätsanforderungen angeben, in welcher Qualität die Funktionalität zu erbringen ist . Davor werden Rahmenbedingungen aufgeführt, die die Realisierung des Smartboards beeinflussen. 4.1 Rahmenbedingungen",
+      "length_tokens": 44,
+      "structure_path": "LV Leistungsbeschreibung > 4 Anforderungsbeschreibung an das Smartboard"
+    },
+    {
+      "tender_id": "smartboard_andernach_2024",
+      "theme": "Dashboard & Datenplattfom",
+      "chapter": "RB-1",
+      "block_id": "q-4dfe42b2-6cce-5ad0-8223-b695c0314d63",
+      "text": "RB-1: Verwendung marktgängiger Technologien Das Bedeutet gängige Programmiersprache und den aktuellen Stand der Praxis. Marktgängige Technologien für regelmäßige Wartungen und der Weiterentwicklung.",
+      "length_tokens": 22,
+      "structure_path": "LV Leistungsbeschreibung > 4 Anforderungsbeschreibung an das Smartboard > RB-1 RB-1: Verwendung marktgängiger Technologien"
+    },
+    {
+      "tender_id": "smartboard_andernach_2024",
+      "theme": "Dashboard & Datenplattfom",
+      "chapter": "RB-2",
+      "block_id": "q-c19ae8f2-0212-583c-92e2-ab5a8628d2ec",
+      "text": "RB-2: Dokumentation Von z.B. verwendete Schnittstellen und Software-Architektur.",
+      "length_tokens": 8,
+      "structure_path": "LV Leistungsbeschreibung > 4 Anforderungsbeschreibung an das Smartboard > RB-2 RB-2: Dokumentation"
+    },
+    {
+      "tender_id": "smartboard_andernach_2024",
+      "theme": "Dashboard & Datenplattfom",
+      "chapter": "RB-3",
+      "block_id": "q-e1fb4c5f-5a1c-5720-848e-b956ae1cc4c4",
+      "text": "RB-3: Kommunikation Direkten Kanal vom Auftraggeber zum Entwickler um eventuelle Tickets oder offene Fragen stellen zu können.",
+      "length_tokens": 17,
+      "structure_path": "LV Leistungsbeschreibung > 4 Anforderungsbeschreibung an das Smartboard > RB-3 RB-3: Kommunikation"
+    },
+    {
+      "tender_id": "smartboard_andernach_2024",
+      "theme": "Dashboard & Datenplattfom",
+      "chapter": "RB-4",
+      "block_id": "q-6ea16177-afbe-56bd-8b66-06b801711dd3",
+      "text": "RB-4: Verwendung von Open Source Nutzung eines öffentlichen Quellcode.",
+      "length_tokens": 9,
+      "structure_path": "LV Leistungsbeschreibung > 4 Anforderungsbeschreibung an das Smartboard > RB-4 RB-4: Verwendung von Open Source"
+    },
+    {
+      "tender_id": "smartboard_andernach_2024",
+      "theme": "Dashboard & Datenplattfom",
+      "chapter": "RB-5",
+      "block_id": "q-000bfd41-7f3b-5780-b80e-40b63dfd04e7",
+      "text": "RB-5: Einhaltung der EU-Datenschutz-Grundverordnung",
+      "length_tokens": 4,
+      "structure_path": "LV Leistungsbeschreibung > 4 Anforderungsbeschreibung an das Smartboard > RB-5 RB-5: Einhaltung der EU-Datenschutz-Grundverordnung"
+    },
+    {
+      "tender_id": "smartboard_andernach_2024",
+      "theme": "Dashboard & Datenplattfom",
+      "chapter": "RB-6",
+      "block_id": "q-8c7c931d-cdfe-5d8e-ad33-0a9b1d257548",
+      "text": "RB-6: Betrieb durch Auftragnehmer Der Auftragsnehmer soll die Infrastruktur verwalten und betreiben und stellt dem Auftragsgeber die Nutzung als Leistung zur Verfügung.",
+      "length_tokens": 22,
+      "structure_path": "LV Leistungsbeschreibung > 4 Anforderungsbeschreibung an das Smartboard > RB-6 RB-6: Betrieb durch Auftragnehmer"
+    },
+    {
+      "tender_id": "smartboard_andernach_2024",
+      "theme": "Dashboard & Datenplattfom",
+      "chapter": "RB-7",
+      "block_id": "q-127cebcf-b6eb-5f8b-a87a-ee240d538ea1",
+      "text": "Um Mitarbeiter des AG dazu zu befähigen weitere Sensoren, Grafiken oder das System allgemein bedie-nen und betreuen zu können, bieten wir unser etabliertes Schulungskonzept an, das u.a. auch im Rahmen des IHK-zertifizierten Smart City Experts in der Akademie des Zentrum für Digitalen Entwicklung GmbH (ZDE) mit angeboten wird. Das Schulungskonzept besteht aus einem Dreiklang von Schulungsdurchfüh-rung, -unterlagen und FAQs.\nBei den zu schulenden Modulen handelt es sich grundsätzlich um Folgende, wobei diese in Abstimmung mit dem AG ersetzt bzw. erweitert werden können:\n• Einbindung von Datenquellen, u.a. Anlage von Datenquellen, Integration und Konfiguration von Sensoren in eine IoT Plattform\n• Nutzung des Backends, u.a. Definition und Verschneidung von Datenquellen, Hinterlegung und Anpassung von Regeln wie bspw. Schwellenwerte für Benachrichtigungen oder sonstige zu initiie-rende Aktionen sowie die Einbindung von Sensoren und Datenquellen\n• Nutzung und Bedienbarkeit des Smartboards\n• Sensibilisierung für Daten und Digitale Lösungen sowie Prozessmanagement\nDie Durchführung der Schulung wird terminlich vorab mit dem AG abgestimmt. Die Schulung wird insge-samt einmal durchgeführt. Die Schulungsräume für die benötigte Teilnehmerzahl werden vom AG zur Ver-fügung gestellt.",
+      "length_tokens": 31,
+      "structure_path": "LV Leistungsbeschreibung > 4 Anforderungsbeschreibung an das Smartboard > RB-7 RB-7: Schulung für Projektmitarbeiter: innen"
+    },
+    {
+      "tender_id": "smartboard_andernach_2024",
+      "theme": "Dashboard & Datenplattfom",
+      "chapter": "4.2 Funktionale Anforderungen Rahmenbedingungen",
+      "block_id": "q-6ff63f8e-3492-5301-b7b8-8a66d4db9483",
+      "text": "4.2 Funktionale Anforderungen Rahmenbedingungen",
+      "length_tokens": 4,
+      "structure_path": "LV Leistungsbeschreibung > 4 Anforderungsbeschreibung an das Smartboard > 4.2 Funktionale Anforderungen Rahmenbedingungen"
+    },
+    {
+      "tender_id": "smartboard_andernach_2024",
+      "theme": "Dashboard & Datenplattfom",
+      "chapter": "FA-1",
+      "block_id": "q-6d9da651-5d29-52fb-a178-4075d85427fb",
+      "text": "FA-1: Schnittstelle Die Bereitstellung erfolgt per REST-API.",
+      "length_tokens": 7,
+      "structure_path": "LV Leistungsbeschreibung > 4 Anforderungsbeschreibung an das Smartboard > 4.2 Funktionale Anforderungen Rahmenbedingungen > FA-1 FA-1: Schnittstelle"
+    },
+    {
+      "tender_id": "smartboard_andernach_2024",
+      "theme": "Dashboard & Datenplattfom",
+      "chapter": "FA-2",
+      "block_id": "q-4d13916e-5e3a-5cce-9c04-4ec2408e29a2",
+      "text": "FA-2: Grafischer Rahmen Als grafischer Rahmen soll eine bereits entwickelte Grafik genutzt werden.",
+      "length_tokens": 13,
+      "structure_path": "LV Leistungsbeschreibung > 4 Anforderungsbeschreibung an das Smartboard > 4.2 Funktionale Anforderungen Rahmenbedingungen > FA-2 FA-2: Grafischer Rahmen"
+    },
+    {
+      "tender_id": "smartboard_andernach_2024",
+      "theme": "Dashboard & Datenplattfom",
+      "chapter": "FA-3",
+      "block_id": "q-2b425323-4e2c-529b-809b-908182316a97",
+      "text": "FA-3: Informationen anlegen/bearbeiten/löschen",
+      "length_tokens": 3,
+      "structure_path": "LV Leistungsbeschreibung > 4 Anforderungsbeschreibung an das Smartboard > 4.2 Funktionale Anforderungen Rahmenbedingungen > FA-3 FA-3: Informationen anlegen/bearbeiten/löschen"
+    },
+    {
+      "tender_id": "smartboard_andernach_2024",
+      "theme": "Dashboard & Datenplattfom",
+      "chapter": "FA-4",
+      "block_id": "q-59021d7c-0e04-59f1-92ee-58293e782e74",
+      "text": "FA-4: Anbindung der Datenquellen",
+      "length_tokens": 4,
+      "structure_path": "LV Leistungsbeschreibung > 4 Anforderungsbeschreibung an das Smartboard > 4.2 Funktionale Anforderungen Rahmenbedingungen > FA-4 FA-4: Anbindung der Datenquellen"
+    },
+    {
+      "tender_id": "smartboard_andernach_2024",
+      "theme": "Dashboard & Datenplattfom",
+      "chapter": "FA-5",
+      "block_id": "q-ee6b3193-1820-59f5-95b7-91b878c86b6e",
+      "text": "FA-5: Datenmodellierung und Datenspeicherung",
+      "length_tokens": 4,
+      "structure_path": "LV Leistungsbeschreibung > 4 Anforderungsbeschreibung an das Smartboard > 4.2 Funktionale Anforderungen Rahmenbedingungen > FA-5 FA-5: Datenmodellierung und Datenspeicherung"
+    },
+    {
+      "tender_id": "smartboard_andernach_2024",
+      "theme": "Dashboard & Datenplattfom",
+      "chapter": "FA-6",
+      "block_id": "q-cd69aff3-c7ec-5d17-a483-c876f18bdd56",
+      "text": "FA-6: Öffnung von Widgets",
+      "length_tokens": 4,
+      "structure_path": "LV Leistungsbeschreibung > 4 Anforderungsbeschreibung an das Smartboard > 4.2 Funktionale Anforderungen Rahmenbedingungen > FA-6 FA-6: Öffnung von Widgets"
+    },
+    {
+      "tender_id": "smartboard_andernach_2024",
+      "theme": "Dashboard & Datenplattfom",
+      "chapter": "4.3 Qualitätsanforderungen",
+      "block_id": "q-ec68c6b3-b07c-5b2a-815f-f8c3b9d76890",
+      "text": "4.3 Qualitätsanforderungen",
+      "length_tokens": 2,
+      "structure_path": "LV Leistungsbeschreibung > 4 Anforderungsbeschreibung an das Smartboard > 4.3 Qualitätsanforderungen"
+    },
+    {
+      "tender_id": "smartboard_andernach_2024",
+      "theme": "Dashboard & Datenplattfom",
+      "chapter": "QA-1",
+      "block_id": "q-a230173d-8767-566d-b6a5-e7c90d5408f5",
+      "text": "QA-1: Corporate Identity",
+      "length_tokens": 3,
+      "structure_path": "LV Leistungsbeschreibung > 4 Anforderungsbeschreibung an das Smartboard > 4.3 Qualitätsanforderungen > QA-1 QA-1: Corporate Identity"
+    },
+    {
+      "tender_id": "smartboard_andernach_2024",
+      "theme": "Dashboard & Datenplattfom",
+      "chapter": "QA-2",
+      "block_id": "q-d4afddec-0755-5a32-9556-269086c71f69",
+      "text": "QA-2: User Experience",
+      "length_tokens": 3,
+      "structure_path": "LV Leistungsbeschreibung > 4 Anforderungsbeschreibung an das Smartboard > 4.3 Qualitätsanforderungen > QA-2 QA-2: User Experience"
+    },
+    {
+      "tender_id": "smartboard_andernach_2024",
+      "theme": "Dashboard & Datenplattfom",
+      "chapter": "QA-3",
+      "block_id": "q-c2599776-95ce-5bda-b017-f3de85f2d396",
+      "text": "QA-3: Barrierefreiheit",
+      "length_tokens": 2,
+      "structure_path": "LV Leistungsbeschreibung > 4 Anforderungsbeschreibung an das Smartboard > 4.3 Qualitätsanforderungen > QA-3 QA-3: Barrierefreiheit"
+    },
+    {
+      "tender_id": "smartboard_andernach_2024",
+      "theme": "Dashboard & Datenplattfom",
+      "chapter": "QA-4",
+      "block_id": "q-91364a4d-94fc-53f1-b966-0a3cbf43870e",
+      "text": "QA-4: Datenmigration z.B. in CSV, XML",
+      "length_tokens": 6,
+      "structure_path": "LV Leistungsbeschreibung > 4 Anforderungsbeschreibung an das Smartboard > 4.3 Qualitätsanforderungen > QA-4 QA-4: Datenmigration"
+    },
+    {
+      "tender_id": "smartboard_andernach_2024",
+      "theme": "Dashboard & Datenplattfom",
+      "chapter": "QA-5",
+      "block_id": "q-0b41da63-b1b6-5d8f-97ee-8c6d0f501bd9",
+      "text": "QA-5: Standards der IT-Sicherheit Umsetzung gemäß BSI Grundschutz\n\nLeistungen des Auftragnehmers: Folgende Leistungen benötigen wir:\n\n- Basis-Einrichtung Backend\n\n- Anbindung der Datenquellen\n\n- Datenmodellierung und Datenspeicherung\n\n- Bereitstellung Open Data Möglichkeit\n\n- Bereitstellung eines Dashboards\n\n- Entwicklung eines Dashboards\n\n- - Aufsetzen des individuellen Dashboards (nach eigenem CI)\n\n- - Entwicklung der Widgets, z.B. zu\n\n- Verkehrsaufkommen\n\n- Bodenfeuchte\n\n- Luftqualität\n\n- Parksensoren",
+      "length_tokens": 63,
+      "structure_path": "LV Leistungsbeschreibung > 4 Anforderungsbeschreibung an das Smartboard > 4.3 Qualitätsanforderungen > QA-5 QA-5: Standards der IT-Sicherheit"
+    },
+    {
+      "tender_id": "smartboard_andernach_2024",
+      "theme": "Dashboard & Datenplattfom",
+      "chapter": "0 Verständnis der Aufgabenstellung",
+      "block_id": "a-ed5a55bd-9130-5cd8-b13f-b284c419da63",
+      "text": "0. Verständnis der Aufgabenstellung\n\nDie Stadt Andernach ist Teil der Smarten Region MYK10 im Landkreis Mayen-Koblenz, eines der geförderten „Modellprojekte Smart Cities“ (MPSC) , wodurch Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen (BMWSB) gemeinsam mit der Kreditanstalt für Wiederaufbau (KfW) einen strategischen Umgang mit den neuen Möglichkeiten und Herausforderungen der Digitalisierung für die Stadt - bzw. Regio- nalentwicklung fördert. Ziel ist die Erprobung partizipativer und integrierter Ansätze, die anschließend auf den regionalen Kontext übertragen werden. Im Jahr 2023 wurde in der Bahnhofstraße Sensorik zur Erfassung von Parkplätzen, Luftqualität, Bodenfeuchte, Verkehrsfrequenzmessung verbaut. Diese sollen nun in einem Smartboard visualisiert werden. Die Stadt Andernach möchte mit dem Smartboard folgende Zwecke erfüllen:\n\n• die Sichtbarkeit der Sensordaten ermöglichen\n\n• Förderung der Transparenz für Bürger und Bürgerinnen des Landkreises\n\n• Einfachen Zugang zu Informationen bereitstellen\n\n• Digitale Angebote der Stadt weiterentwickeln\n\n• Erste Visualisierung als bedarfsgerechte Lösung etablieren, die die Nutzenden an das Thema Sensorik heranführt\n\n• Evtl. Möglichkeit, die Lösung auch als App, sowie auf der Internetseite der Stadt zu veröffentlichen\n\nMit dem Smartboard soll eine transparente Visualisierung der Sensordaten geschaffen werden. Die Entwicklung soll dabei von einem externen Dienstleister mit der erforderlichen Fachkompetenz umgesetzt werden.",
+      "length_tokens": 192,
+      "structure_path": "CONCEPT Konzept > 0 Verständnis der Aufgabenstellung"
+    },
+    {
+      "tender_id": "smartboard_andernach_2024",
+      "theme": "Dashboard & Datenplattfom",
+      "chapter": "1 Leistungsangebot",
+      "block_id": "a-435aa137-2662-5346-9908-65956c68b29d",
+      "text": "1. Leistungsangebot\n\nEgal, ob es um digitale Behörden, digitale Anwendungen wie digitale Hochwassermelder oder smarte Services geht: immer mehr Regionen machen sich mit Smart -City-Projekten auf den Weg in eine digital vernetzte Zukunft. In intelligent vernetzten Städten und Regionen – Smart Cities und Smart Region en – tragen digitale Technologien zu Problemlösungen bei, erhöhen Teilhabe und Lebensqualität für Bürgerinnen und Bürger, führen zu mehr Nachhaltigkeit und steigern die Zukunfts - und Wettbewerbsfähigkeit der Städte und Regionen. Das Angebotsportfolio des Auftragnehmers (im Folgenden AG) ermöglicht neben der Umsetzung des Smartboards gleichzeitig eine ganzheitliche Betrachtung der geplanten Maßnahmen der Stadt Andernach oder auch die den Landkreis Mayen -Koblenz. Auf diesem Weg können bereits bei der Entwicklung und Bereitstellung des Smartboards auf didaktische Aspekte berücksichtigt werden, die den Bürgern Digitalisierung Näher bringen. Bei der Entwicklung werden auf die Aspekte der Interoperabilität, Modularisierung und Flexibilität berücksichtigt, sodass das Smartboard jederzeit erweitert und angepasst werden kann, um eine nachhaltige Lösung anzubieten. Über diesen Weg ist es auch möglich, das Smartboard später in die verwendete Datenplattform im Südwest-Cluster zu integrieren. Im Rahmen des Leistungsangebot s des AN stellen wir die folgenden Kernkomponenten zur Verfügung , welche die geforderten Leistungen des AG vollständig beinhalten:\n\n1) Projektmanagement und -organisation: Leitung und Management des Projektes\n\n• Regelmäßige Abstimmungen (Online oder Präsenz)\n\n• Agile Entwicklung nach SCRUM\n\n2) Konzeption sowie Produktmanagement der Basis-Einrichtung des Backends sowie des angedachten Dashboards / Smartboards\n\n• Definition der umzusetzenden Anforderungen gemeinsam mit dem AG\n\n• Fachliche und technische Konzeption\n\n• UX/ UI der Anwendungen, optimiert für unterschiedlichen Bildschirmgrößen\n\n• Leitung der Entwicklung\n\n3) Entwicklung und Bereitstellung der Basis-Einrichtung des Backends sowie des angedachten Dashboards / Smartboards\n\n• Aufsetzen der Basis-Einrichtung des Backends\n\n• Möglichkeit die Datenausgabe über offene Schnittstellen (Open Data) bereitzustellen.\n\n• Aufsetzen des individuellen Dashboards im CI des Auftraggebers & Entwicklung der Widgets\n\n(z.B. Verkehrsaufkommen, Bodenfeuchte, Luftqualität, Parksensoren), wobei das Dashboard sowohl über den Bildschirm den Bürgern als auch über eine Web-Applikation der Verwaltung zur Verfügung steht\n\n• Bereitstellung des Dashboards / Smartboards\n\n• Interoperabilität: Anbindung und Zusammenführung bestehender Datenquellen unterschiedlicher Herkunft.\n\n• Modularität: Das System zeichnet sich durch ein modulares Baukastensystem aus und ist jederzeit um weitere Datenquellen oder Use Cases erweiterbar.\n\n• Skalierbarkeit und Performanz: Das Systemsetup ermöglicht die Echtzeitdarstellung der Daten\n\nsowie eine dynamische Skalierbarkeit.\n\n• Standard und Zertifizierung hinsichtlich Datenschutzes und Sicherheit: Der Standort der Server\n\nfür das beschriebene System ist innerhalb der EU und ISO27001 zertifiziert.\n\n• Open-Source: Das System basiert auf Open Source Komponenten.\n\n4) IT-Betrieb, Support, Wartung und Pflege im produktiven Betrieb (bis 31.12.2025)\n\nDie generische Architektur des Systems setzt sich wie folgt zusammen:\n\nHierbei unterscheiden wir zwischen Datenquellen, Backend / Datenplattform und der Datenausgabe. Zu den Datenquellen gehören u.a. die in der Ausschreibung erwähnten Sensoren in der Bahnhofstraße aber\n\nauch mögliche Drittsysteme. Weitere Datenquellen können jederzeit ergänzt werden. Das Backend bildet die zentrale Komponente, auf dem die verschiedenen Daten zusammenlaufen, verarbeitet und gespeichert werden. Auch die Konfiguration und Anpassungen der Datenausgabe wird hier vorgenommen. Die Datenausgabe stellt die Daten den unterschiedlichen Nutzergruppen zur Verfügung. Hier gibt es unterschiedli- che Optionen, wobei im Rahmen der Ausschreibung die Bereitstellung über eine Web-Applikation „Smartboard“ gefordert wird. Diese kann über eine URL aufgerufen werden, wodurch das Smartboard über den handelsüblichen Bildschirm für interessierte Passanten und Bürgerschaft, über einen Webbr owser den Schülern und Verwaltungsmitarbeitern zur Verfügung steht. Nach Rücksprache zwischen AG und AN ist auch denkbar die Web-Applikation über mobile Geräte (z.B. Smartphones) aufzurufen oder in der Website der Stadt Andernach zu integrieren. Im Folgenden des Kapitels geht der AN auf die Erfüllung der Anforderungen ein, wobei zu Beginn das Konzept des Smartboards beschrieben wird. 1.1. Das Smartboard für die Stadt Andernach Das Smartboard, im CI der Stadt Andernach, stellt eine interaktive Web-Applikation dar, die einen übersichtlichen und verständlichen Einblick in die Sensordaten der jeweiligen Standorte bietet. Hierbei werden u.a. Daten zum Verkehrsaufkommen, Bodenfeuchte, Luftqualität und Parken und weitere erfasste Daten visualisiert. Basis der Web-Applikation (Smartboard) bildet die durch den AG bereitgestellte Grafik der Bahnhofstraße. In der Grafik werden die installierten Sensoren mit Hilfe von Icons verortet. Bei Klick auf die Icons oder in regelmäßigen zeitlichen Intervallen werden Informationen zu den Anwendungsfällen und erfassten Daten über ein geöffnetes „Popup-Widget“ dargestellt. Nachfolgende Grafik zeigt eine mögliche exemplarische Darstellung. Hierbei bietet es sich an neben dynamischen Elementen, um die Aufmerksamkeit der Bürger zu erlangen, auch didaktischer Erklärungstexte zu den umgesetzten Use Cases zu integrieren. Über die Erklärungstexte können auf das Modellprojekt aufmerksam gemacht , Zweck und Ziele hinter den Use Cases erklärt, über die eingesetzte Technologie informiert oder auch Interpretationshilfen für die gezeigten Datenvisualisierungen angeboten werden.\n\nDas Smartboard wird seitens des AG so gestaltet, dass dies über eine URL auch den Verwaltungsmitarbeitern, Schulen oder Dritten zur Verfügung gestellt werden können. Bei der Umsetzung und Visualisierung der Use Cases beziehen wir die Erfahrungen aus anderen Reallaboren, u.a. auch für weitere Modellprojekte Smart City, als auch vom firmeneigenen Smart City Campus mit ein. Dadurch können wir aus einer breiten Palette and Visualisierungsformen für unterschiedliche Use Cases (u.a. zu Parken, Verkehrsaufkommen, Bodenfeuchte und Luftqualität zurückgreifen. Eine Auswahl bietet folgende Abbildung.\n\nAuf expliziten Wunsch des AG bringen wir auch selbst Ideen zur Gestaltung des Smartboards mit ein, ohne den Terminplan des Projektes zu gefährden. Mögliche Gestaltungsvarianten sind nachfolgend aufgeführt und auch exemplarisch abgebildet:\n\nHierbei bildet nach wie vor die Grafik der Bahnhofstraße mit den verorteten Sensoren die Basis. In dem Gestaltungsvorschlag besteht die Möglichkeit die Daten auf der rechten Seite als „Sidebar“ anzuzeigen. Zusätzlich dazu kann ein Begrüßungstext, Erläuterungen zum Projekt mit Verlinkungen über QR-Codes auf weitere Informationsseiten (z.B. zu Unterseiten mit Analysemöglichkeiten der Daten) aufgeführt werden. Durch die modulare Gestaltung des Gesamtsystems sind jederzeit zusätzliche Erweiterungen (z.B. Darstellung der Bahnhofstraße in einer 3D Karte, unterschiedliche Erklärungstexte in Abhängigkeit der Zielgruppe wie Schüler, Bürger oder Verwaltungsmitarbeiter) oder Use Cases umsetzbar.\n\n1.2.",
+      "length_tokens": 957,
+      "structure_path": "CONCEPT Konzept > 1 Leistungsangebot"
+    },
+    {
+      "tender_id": "smartboard_andernach_2024",
+      "theme": "Dashboard & Datenplattfom",
+      "chapter": "RB-1: Verwendung marktgängiger Technologien",
+      "block_id": "a-649278ee-ce1d-549a-bed9-090a01b64a37",
+      "text": "RB-1: Verwendung marktgängiger Technologien Das System beruht auf etablierte Programmiersprachen, Softwarekomponenten und Technologien wie z.B. React, Typescript, React.js, Next.js, Node.js, Python, PosgreSQL Datenbanken (Ti mescaleDB / PostGIS ), Node-RED, Docker oder Kubernetes. Diese Komponenten werden auch intensiv in anderen MPSC Projekten eingesetzt wodurch eine langfristige und nachhaltige Nutzung des Systems – durch Veröffentli- chung des Codes – auch über andere Dienstleister , ermöglicht wird. Zudem wird beim Setup darauf geachtet, dass ein späterer Umzug des Systems auf eine andere Datenplattform möglich ist (u.a. durch Ver- wendung von Docker). Darüber hinaus orientieren wir uns an Standards, z.B. DIN SPEC 91357 (Referenzarchitektur für Offene Urbane Datenplattformen), Smart Data Models als etablierte Datenstandards und sind dort auch in Gremien vertreten (z.B. Smart City Standards Forum der DIN). Im Vertragszeitraum werden Updates und Upgrades an der Software regelmäßig vorgenommen. Die zu liefernden Updates korrigieren wiederkehrende Programmmängel und werden im Sinne einer „Continuous Delivery Pipeline“ ausgeliefert. Upgrades beinhalten neue Softwareversion, die Funktionalitätserweiterungen berücksichtigen, die Verbesserungen mit Hinblick auf die allgemeine Anwendungserfahrung, Kunden- nutzungsfreundlichkeit und gemäß dem anerkannten Stand der Technik ergeben. 1.3.",
+      "length_tokens": 177,
+      "structure_path": "CONCEPT Konzept > 1 Leistungsangebot > RB-1 RB-1: Verwendung marktgängiger Technologien"
+    },
+    {
+      "tender_id": "smartboard_andernach_2024",
+      "theme": "Dashboard & Datenplattfom",
+      "chapter": "RB-2: Dokumentation",
+      "block_id": "a-d24f6c14-bed2-5fd6-9c58-c22054e9cf39",
+      "text": "RB-2: Dokumentation In der dynamischen Welt der Softwareentwicklung bildet eine umfassende, klare und zugängliche Dokumentation das Rückgrat erfolgreicher Projekte. Insbesondere die präzise Dokumentation von Schnittstellen und die transparente Darstellung der Software-Architektur sind entscheidend für die Effizienz der Entwicklung, die Qualitätssicherung und die nachhaltige Wartbarkeit von Softwareprodukten. Unser Entwicklungs- ansatz befolgt dabei folgende Grundsätze:\n\n• Verständliche Schnittstellendokumentation: Die Interaktion zwischen den verschiedenen Komponenten einer Software, sei es intern oder mit externen Systemen, erfolgt über Schnittstellen.\n\nEine klare und umfassende Dokumentation dieser Schnittstellen ist essenziell, um Missverständnisse zu vermeiden und die Integration zu erleichtern. Hierbei berücksichtigen wir standardisierte Dokumentationsformate mit Beispielen und den Einsatz branchenweit anerkannter Standards wie u.a. OpenAPI oder REST.\n\n• Klare Darstellung der Software -Architektur: Eine gut verstandene und dokumentierte SoftwareArchitektur ist der Schlüssel zur Förderung von Best Practices und zur Gewährleistung der Skalier-\n\nbarkeit und Wartbarkeit von Systemen. Hierzu gehören (versionierte) Architekturdiagramme.\n\n• Umsetzung und Evaluierung: Die bestehende Dokumentation wird in regelmäßigen Zyklen evaluiert und bei Bedarf angepasst, um eine aktuelle und akkurate Dokumentation zu gewährleisten.\n\nZudem finden im Rahmen von durchgeführten Schulungen Rückkopplungen auf Verständlichkeit und Anwendbarkeit der Dokumentation statt.\n\n1.4.",
+      "length_tokens": 184,
+      "structure_path": "CONCEPT Konzept > 1 Leistungsangebot > RB-2 RB-2: Dokumentation"
+    },
+    {
+      "tender_id": "smartboard_andernach_2024",
+      "theme": "Dashboard & Datenplattfom",
+      "chapter": "RB-3: Kommunikation und RB-6: Betrieb durch den Auftragnehmer",
+      "block_id": "a-d8c34a58-b490-50a4-9751-2b6035904815",
+      "text": "RB-6: Betrieb durch den Auftragnehmer Im Rahmen der Projektausführung stellt der AN dem AG das Gesamtsystem zur Nutzung zur Verfügung. Dies beinhaltet, u.a. die Verwaltung der Infrastruktur und den Betrieb des Systems. Hierbei finden folgenden Standard-Service Level Agreements Verwendung. Betriebszeiten Wochentag Betreute Betriebszeit Unbetreute Betriebszeit Mo – Fr 08:30 - 17:00 17:00 - 08:30 Sa/So/Feiertag - 00:00 - 24:00\n\nWochentag Betreute Betriebszeit Unbetreute Betriebszeit Systemverfügbarkeit (p.m.) 99,90%\n\nErreichbarkeit des Service Desks Wochentag Uhrzeit Mo – Fr 08:30 - 17:00 Sa/So/Feiertag -\n\nLaufzeiten – Monitoring – Wartung Systemlaufzeit 7 Tage x 24 Stunden Monitoring 7 Tage x 24 Stunden Wartungsarbeiten nach Vereinbarung zwischen AG und AN\n\nEinstufung in Prioritäten der eingehenden Anfragen Etwaige Störungen oder Probleme im IT-Betrieb werden nach 3 Prioritäten eingestuft. Priorität Beschreibung der Priorität HOCH Eine Störung, die einen Ausfall de s Systems oder ihrer wesentlichen Teile verursacht, so dass eine Nutzung ganz oder nahezu vollständig unmöglich ist. Der Betriebsablauf ist derart beeinträchtigt, dass eine sofortige Abhilfe unumgänglich ist. NORMAL Eine Störung, die einzelne Funktionen des Systems in ihrer Nutzung beeinträchtigt oder zu Fehlfunktionen / Fehlermeldungen bei der Nutzung des Systems führt. Das gleichzeitige Auftreten mehrerer wesentlicher Leistungsmängel kann zu einem kritischen Leistungsmangel führen. NIEDRIG Eine sonstige Störung, die die Nutzung de s Systems nicht oder nur unwesentlich beeinträchtigt. Das gleichzeitige Auftreten mehrerer solcher Mängel kann zu einem wesentlichen bzw. kritischen Leistungsmangel führen.\n\nReaktions - und Wiederherstellungszeiten Es werden für alle Störungen und Probleme folgende Reaktionszeiten vereinbart: Priorität Wochentag Reaktionszeit innerhalb der betreuten Betriebszeit Reaktionszeit innerhalb der unbetreuten Betriebszeit Wiederherstellung HOCH Mo - Fr 2h 8h 5h Sa/So/ Feiertag - - 18h\n\nPriorität Wochentag Reaktionszeit innerhalb der betreuten Betriebszeit Reaktionszeit innerhalb der unbetreuten Betriebszeit Wiederherstellung NORMAL Mo - Fr 4h 12h 24h Sa/So/ Feiertag - - Next Business Day NIEDRIG Mo - Fr 10h Next Business Day 2 Tage Sa/So/ Feiertag - - 4 Tage\n\nStandardmäßig erfolgt die Kommunikation durch einen Service Desk, der die vom AG gemeldeten Störungen und Anfragen sowie deren Erfassung in einem System erfasst. Der AG, verantwortlich für die fachliche Betriebsführung, nimmt eine Klassifizierung, Qualifizierung und Kategorisierung der eingehenden Tickets mit dem Ziel vor, eine Strukturierung und Klärung der entsprechenden Anforderungen in kürzester Zeit durchzuführen. Gerne kann im Rahmen des Projektes auch eine direkte Kommunikation mit dem Entwicklungs- oder Projektteam mit klarer Ansprechperson etabliert werden.",
+      "length_tokens": 385,
+      "structure_path": "CONCEPT Konzept > 1 Leistungsangebot > RB-3: Kommunikation und RB-6: Betrieb durch den Auftragnehmer"
+    },
+        {
+      "tender_id": "smartboard_andernach_2024",
+      "theme": "Dashboard & Datenplattfom",
+      "chapter": "RB-4: Verwendung von Open Source",
+      "block_id": "a-1d5399cb-0aef-51db-975d-4581e1d5712e",
+      "text": "RB-4: Verwendung von Open Source Bei der Entwicklung des Smartboards wird auf OpenSource Software zurückgegriffen, deren Veröffentlichung auf OpenCode.de und unter den dort aufgeführten Lizenzen möglich ist. Dabei werden auch die Lizenzketten berücksichtigt. Im Zuge dessen wird eine Veröffentlichung auf des Quellcodes vorgenommen. Sofern der AG hierzu ein Projekt und Repository auf OpenCoDE.de anlegt und dem AN einen Zugang zur Verfügung stellt, wird das komplette beauftragte Software -Projekt so aufbereitet, dass das angelegte Repository „committed“ werden kann. 1.6.",
+      "length_tokens": 78,
+      "structure_path": "CONCEPT Konzept > 1 Leistungsangebot > RB-4 RB-4: Verwendung von Open Source"
+    },
+    {
+      "tender_id": "smartboard_andernach_2024",
+      "theme": "Dashboard & Datenplattfom",
+      "chapter": "RB-5: Einhaltung der EU-Datenschutz-Grundverordnung",
+      "block_id": "a-53a260d6-547c-512c-b5de-28749ba62ffb",
+      "text": "RB-5: Einhaltung der EU-Datenschutz-Grundverordnung Ein besonderes Augenmerk wird auf die Gewährleistung und Einhaltung der Datenschutz -Grundverordnung (DSGVO) und der Datensicherheitsanforderungen gelegt. Im Rahmen des Projekts werden alle erfor- derlichen Maßnahmen ergriffen, um sicherzustellen, dass Daten gemäß den Bestimmungen der DSGVO verarbeitet und geschützt werden. Es werden geeignete technische und organisatorische Maßnahmen implementiert, um die Vertraulichkeit, Integrität und Verfügbarkeit der Daten zu gewährleisten und unbefug- ten Zugriff, unbefugte Offenlegung, Änderung oder Zerstörung zu verhindern. Darüber hinaus werden die Datensicherheitsanforderungen berücksichtigt, um potenzielle Risiken und Gefahren im Zusammenhang mit sensiblen Daten zu minimieren. Regulatorische Vorgaben und bewährte Praktiken im Bereich des Datenschutzes und der Datensicherheit werden sorgfältig befolgt. 1.7.",
+      "length_tokens": 107,
+      "structure_path": "CONCEPT Konzept > 1 Leistungsangebot > RB-5 RB-5: Einhaltung der EU-Datenschutz-Grundverordnung"
+    },
+    {
+      "tender_id": "smartboard_andernach_2024",
+      "theme": "Dashboard & Datenplattfom",
+      "chapter": "RB-6: Betrieb durch Auftragnehmer",
+      "block_id": "a-cc58d65e-ec28-5013-b52c-2474a6b5d9ce",
+      "text": "RB-6: Betrieb durch Auftragnehmer Der AN übernimmt die Verwaltung und den Betrieb der gesamten Infrastruktur und stellt dem AG die Nutzung als Leistung zur Verfügung. Spezifikationen bzgl. Betriebszeiten und Leistungsumfang sind im Kapitel 1.3 RB-3: Kommunikation beschrieben. 1.8.",
+      "length_tokens": 38,
+      "structure_path": "CONCEPT Konzept > 1 Leistungsangebot > RB-6 RB-6: Betrieb durch Auftragnehmer"
+    },
+    {
+      "tender_id": "smartboard_andernach_2024",
+      "theme": "Dashboard & Datenplattfom",
+      "chapter": "RB-7 Schulung für Projektmitarbeiter",
+      "block_id": "a-fcca9022-f1eb-5cd7-ae6b-b81422734410",
+      "text": "RB-7: Schulung für Projektmitarbeiter Um Mitarbeiter des AG dazu zu befähigen weitere Sensoren, Grafiken oder das System allgemein bedienen und betreuen zu können, bieten wir unser etabliertes Schulungskonzept an, das u.a. auch im Rahmen\n\ndes IHK-zertifizierten Smart City Experts in der Akademie des Zentrum für Digitalen Entwicklung GmbH (ZDE) mit angeboten wird. Das Schulungskonzept besteht aus einem Dreiklang von Schulungsdurchführung, -unterlagen und FAQs.\n\nBei den zu schulenden Modulen handelt es sich grundsätzlich um Folgende, wobei diese in Abstimmung mit dem AG ersetzt bzw. erweitert werden können:\n\n• Einbindung von Datenquellen, u.a. Anlage von Datenquellen, Integration und Konfiguration von\n\nSensoren in eine IoT Plattform\n\n• Nutzung des Backends, u.a. Definition und Verschneidung von Datenquellen, Hinterlegung und\n\nAnpassung von Regeln wie bspw. Schwellenwerte für Benachrichtigungen oder sonstige zu initiierende Aktionen sowie die Einbindung von Sensoren und Datenquellen\n\n• Nutzung und Bedienbarkeit des Smartboards\n\n• Sensibilisierung für Daten und Digitale Lösungen sowie Prozessmanagement\n\nDie Durchführung der Schulung wird terminlich vorab mit dem AG abgestimmt. Die Schulung wird insgesamt einmal durchgeführt. Die Schulungsräume für die benötigte Teilnehmerzahl werden vom AG zur Ver- fügung gestellt. 1.9.",
+      "length_tokens": 181,
+      "structure_path": "CONCEPT Konzept > 1 Leistungsangebot > RB-7 RB-7: Schulung für Projektmitarbeiter"
+    },
+    {
+      "tender_id": "smartboard_andernach_2024",
+      "theme": "Dashboard & Datenplattfom",
+      "chapter": "FA-1: Schnittstelle und FA-4: Anbindung von Datenquellen",
+      "block_id": "a-99077ff1-9fdd-5a4c-a72d-76dd8c567e4b",
+      "text": "FA-1: Schnittstelle und FA-4: Anbindung von Datenquellen Das System verfügt über ein umfassendes API- und Schnittstellenmanagement, wodurch neben den installierten Sensoren auch weitere Systeme oder Datenquellen integriert werden können. Das API - Management ermöglicht die Integration von Drittanbietersystemen und erweiterten IT-Ökosystemen über Schnittstellen wie APIs, SDKs und Gateways. Es spielt eine wichtige Rolle an den Schnittstellen zu Datenquellen und Zielsystemen. Das API-Management stellt Funktionen und Eigenschaften für die Bereitstellung und Verwaltung von APIs bereit, einschließlich interner und externer APIs sowie Authentifizierungs - und Autorisierungs-APIs. Bei der Konzeption des Systems haben wir Wert auf Interoperabilität mit Drittsystemen und Offenheit gelegt, gemäß den Standards der DIN SPEC 91357. Wir haben eine modulare Schnittstellenarchitektur ge- wählt, um zukünftige, derzeit möglicherweise unbekannte Schnittstellen einfach integrieren zu können. Die Architektur beinhaltet einen abstrakten Adapter, der die verschiedenen Protokolle und Datenformate der externen Schnittstellen vereinheitlicht und eine allgemeine Schnittstelle zum API -Management definiert. Die Adapter übernehmen folgende Aufgaben:\n\n• Authentifizierung und Autorisierung gegenüber den Drittsystemen\n\n• Einhaltung von Berechtigungen und Datenschutzbestimmungen\n\n• Übersetzung von Anfragen und Antworten zwischen den Drittsystemen und der Plattform\n\n• Übersetzung oder Verknüpfung von unterschiedlichen Benutzer-IDs zwischen den Systemen\n\n• Orchestrierung von Anfragen an Drittsysteme innerhalb der Plattform\n\n• Weiterleitung relevanter Informationen an die Drittsysteme\n\n• Kommunikation mit den Drittsystemen über verschiedene Protokolle und Formate, einschließlich\n\nSOAP, REST-API, SAP Web Services, MQ/MQTT, Kafka, GraphQL, gRPC, RPC, Java RMI, SFTP sowie proprietäre und binäre Protokolle (sofern lizenzrechtliche Voraussetzungen erfüllt sind)\n\n• Unterstützung verschiedener Datenformate wie JSON, XML, CSV, IDoc, EDIFACT usw.\n\n• Unterstützung spezifischer Kommunikationsarten wie synchrone und asynchrone Kommunikation\n\noder Subscriptions Es gibt keine künstlichen Beschränkungen hinsichtlich Art und Inhalt der Kommunikation mit den Systemen. Für den besonderen Fall der Sensoranbindung besteht zudem auch die Möglichkeit die Sensoren in d as vom AN zur Verfügung stehende LoRaWAN Netzwerk Server (LNS) zu integrieren, falls dies seitens des AG gefordert wird. Darüber wäre die Verwaltung der Sensoren jederzeit möglich. 1.10.",
+      "length_tokens": 316,
+      "structure_path": "CONCEPT Konzept > 1 Leistungsangebot > FA-1: Schnittstelle und FA-4: Anbindung von Datenquellen"
+    },
+    {
+      "tender_id": "smartboard_andernach_2024",
+      "theme": "Dashboard & Datenplattfom",
+      "chapter": "FA-2: Grafischer Rahmen und FA-6: Öffnung von Widgets",
+      "block_id": "a-87364eca-9e12-5a55-afc4-977dd3498905",
+      "text": "FA-2: Grafischer Rahmen und FA-6: Öffnung von Widgets Für die Gestaltung des Smartboards wird auf die vom AG zur Verfügung stehende Grafik der Bahnhofstraße aufgesetzt. Die auf der Grafik verorteten Sensoren können über zusätzliche Widgets mit Daten visu- alisiert werden. 1.11.",
+      "length_tokens": 41,
+      "structure_path": "CONCEPT Konzept > 1 Leistungsangebot > FA-2: Grafischer Rahmen und FA-6: Öffnung von Widgets"
+    },
+    {
+      "tender_id": "smartboard_andernach_2024",
+      "theme": "Dashboard & Datenplattfom",
+      "chapter": "FA-3: Informationen anlegen/bearbeiten/löschen",
+      "block_id": "a-74b3ddf7-5a71-58a4-aa01-86da17229200",
+      "text": "FA-3: Informationen anlegen/bearbeiten/löschen Grundsätzlich besteht die Möglichkeit individualisierte Informationen über das Dashboard publik zu machen. Die genauen Anforderungen seitens des AG sind aufzunehmen. Der AG bekommt im Rahmen der Schulung (siehe RB-7: Schulung für Projektmitarbeiter) eine Einführung, wie Informationen angelegt, bearbeitet und gelöscht werden können.",
+      "length_tokens": 46,
+      "structure_path": "CONCEPT Konzept > 1 Leistungsangebot > FA-3 FA-3: Informationen anlegen/bearbeiten/löschen"
+    },
+    {
+      "tender_id": "smartboard_andernach_2024",
+      "theme": "Dashboard & Datenplattfom",
+      "chapter": "FA-4: Anbindung der Datenquellen",
+      "block_id": "a-9ced30ae-dceb-55fd-b247-a58edadcabfb",
+      "text": "FA-4: Anbindung der Datenquellen Die Anbindung von Datenquellen wurde bereits in Kapitel FA-1: Schnittstelle und FA-4: Anbindung von Datenquellen beschrieben. 1.13",
+      "length_tokens": 21,
+      "structure_path": "CONCEPT Konzept > 1 Leistungsangebot > FA-4 FA-4: Anbindung der Datenquellen"
+    },
+        {
+      "tender_id": "smartboard_andernach_2024",
+      "theme": "Dashboard & Datenplattfom",
+      "chapter": "FA-5: Datenmodellierung und Datenspeicherung",
+      "block_id": "a-0884e858-a71e-543a-92a0-b712caa36d8d",
+      "text": "FA-5: Datenmodellierung und Datenspeicherung Für die Verarbeitung der bereitgestellten Sensorwerte setzen wie auf Open Source basierende Softwarekomponenten wie Node- RED, Node.js sowie Next.js ein. Dabei werden Informationen und Zusammen- hänge zwischen den Datenquellen sowie die Metadaten der Quellsys teme, z.B. Sensor ID, Bezeichnung, Sensortyp oder Standort berücksichtigt. Die Software eignet sich zur Bereinigung, Verarbeitung und Verknüpfung von Daten, sodass beispielsweise Ausreißer normiert, die Berechnung mathematischer Funktio- nen (z.B. Mittelwert, Maximalwert oder Trends), logische Verknüpfungen zur Erlangung von Einblicken und Erkenntnisse aus den Daten sowie Konvertierung von Daten umgesetzt werden können. Auf dieser Weise werden eingehende Datenpakete analysiert, auf fehlende, fehlerhafte oder „unsinnige“ Informationen untersucht und dadurch als potenzielle Anomalien identifiziert. Zur Glättung oder Harmonisierung der Daten werden die empfangenen Datenpunkte dahingehen überprüft, ob einzelne Datenpunkte große Abweichungen zu den vorherigen überm ittelten Werten aufzeigen. Durch Berücksichtigung mehrere Daten- punkte (abhängig von der Sendefrequenz des Sensors) werden auf diesem Wege unerklärliche Extremwerte identifiziert, eliminiert, ggfs. geglättet und für die Visualisierung im Smartboard nicht berücksichtigt. Die Integration weiterer Datenanalysemöglichkeiten oder - verfahren, z.B. der Einsatz von Methoden des Maschinellen Lernens (ML) oder Künstliche Intelligenz (KI) ist hierbei ebenfalls integrierbar. In Abstimmung mit dem AG wird hierbei bewertet werden, welche Art der Datenanalyse die beste Wahl darstellt.\n\nDie bereitgestellten Daten werden schließlich zur persistenten Verfügbarkeit in Datenbanken gespeichert. Die Verwendung von Kafka als Streaming Layer ermöglicht den Echtzeitschutz der Daten. Denkbar ist zudem die Sicherung der Daten auf redundante Art und Weise sowie über Backups, deren Frequenz durch den AG bestimmt werden kann. Die Datenspeicherung in den Datenbanken erfolgt nach einer durchgängigen Modellierung (semantisch, logisch, physisch), um einerseits Nachvollziehbarkeit und Verständnis zu gewährleisten, anderseits zur Datenqualität beizutragen. Dabei werden Informationen und Zusammenhänge zwischen den Datenquellen sowie die Metadaten der Quellsysteme, z.B. Sensor ID, Bezeichnung, Sensortyp oder Hersteller berücksichtigt. Bei der Datenmodellierung wird standardmäßig auf die Smart Data Models von FIWARE zurückgegriffen, wobei dies in Abstimmung mit dem AG auch angepasst werden kann. Für die Datenspeicherung und unter Beachtung von Aspekten der Datensparsamkeit kann zwischen dem AG und AN in einer sogenannte Retention Policy die Dauer der Datenspeicherung – unter Beachtung der gesetzlichen Vorgaben - festgelegt werden. Zusätzlich dazu auch die Aggregation der Daten, um eine langfristige Speicherung effizient zu gestalten. Umgesetzt wird dies über die verwendete Datenbank (TimescaleDB). 1.14.",
+      "length_tokens": 376,
+      "structure_path": "CONCEPT Konzept > 1 Leistungsangebot > FA-5 FA-5: Datenmodellierung und Datenspeicherung"
+    },
+    {
+      "tender_id": "smartboard_andernach_2024",
+      "theme": "Dashboard & Datenplattfom",
+      "chapter": "FA-6 Öffnung von Widgets",
+      "block_id": "a-b3cca9c3-6877-5de7-9a38-746056468c61",
+      "text": "FA-6: Öffnung von Widgets Die Berücksichtigung und Umsetzung wird in Kapitel 1.9 FA-2 beschrieben. 1.15.",
+      "length_tokens": 15,
+      "structure_path": "CONCEPT Konzept > 1 Leistungsangebot > FA-6 FA-6: Öffnung von Widgets"
+    },
+    {
+      "tender_id": "smartboard_andernach_2024",
+      "theme": "Dashboard & Datenplattfom",
+      "chapter": "QA-1 Corporate Identity",
+      "block_id": "a-59fb2017-a8a1-54fd-8698-a0af111e4f30",
+      "text": "QA-1: Corporate Identity Im Rahmen der Entwicklung des Smartboards wird das seitens des AG gewünschte Design verwendet. Dabei werden die Vorgaben der Corporate Identity (CI) des AG, z.B. Logos, Farben und Schrift berücksichtigt. 1.16.",
+      "length_tokens": 34,
+      "structure_path": "CONCEPT Konzept > 1 Leistungsangebot > QA-1 QA-1: Corporate Identity"
+    },
+    {
+      "tender_id": "smartboard_andernach_2024",
+      "theme": "Dashboard & Datenplattfom",
+      "chapter": "QA-2: User Experience",
+      "block_id": "a-4edc9d5d-e604-50a9-af5f-fafde4972a2c",
+      "text": "QA-2: User Experience Um ein optimales Nutzererlebnis für die unterschiedlichen Stakeholder des AG zu gewährleisten, bedient sich der AN dem Rahmenwerk des menschzentrierte Designprozesses. Dieser beschreibt ein prozesshaftes Vorgehen, mit dem nach ISO 9241- 210 eine möglichst gute User Experience erzielt werden kann. Im Grunde wird der menschenzentrierte Designprozess durch 5 wesentliche Schritte definiert, die sich auf 2 Termine aufteilen.\n\n1. Planung des menschzentrierten Gestaltungsprozesses\n\n2. Den Nutzungskontext verstehen und beschreiben (bspw. durch die Verwendung von Fragebögen,\n\nInterviews oder Nutzung des Double-Diamond-Prozesses)\n\n3. Nutzungsanforderungen spezifizieren\n\n4. Gestaltungslösungen entwickeln, welche die Nutzungsanforderungen erfüllen (bspw. durch Entwicklung von Storyboards, Wireframes und Mockups etc.)\n\n5. Gestaltungslösungen aus der Benutzerperspektive\n\n1.17.",
+      "length_tokens": 107,
+      "structure_path": "CONCEPT Konzept > 1 Leistungsangebot > QA-2 QA-2: User Experience"
+    },
+    {
+      "tender_id": "smartboard_andernach_2024",
+      "theme": "Dashboard & Datenplattfom",
+      "chapter": "QA-3 Barrierefreiheit",
+      "block_id": "a-3458b32d-81c3-5f1d-8343-c0f495b2e4b8",
+      "text": "QA-3: Barrierefreiheit Bei der Gestaltung des barrierefreien Smartboards legen wir besonderen Wert darauf, dass alle Nutzer, unabhängig von ihren physischen oder kognitiven Fähigkeiten, Zugang zu digitalen Ressourcen und Diensten haben. Hierfür achten wir auf einfache Sprache, Verständlichkeit und Bedienbarkeit, Anpassbarkeit und Flexibilität und auf ein didaktisches Konzept zur Erläuterung der zu interpretierenden Daten. Orientierung bietet uns hierbei der Standard Web Content Accessibility Guidelines (WCAG). 1.18.",
+      "length_tokens": 65,
+      "structure_path": "CONCEPT Konzept > 1 Leistungsangebot > QA-3 QA-3: Barrierefreiheit"
+    },
+    {
+      "tender_id": "smartboard_andernach_2024",
+      "theme": "Dashboard & Datenplattfom",
+      "chapter": "QA-4: Datenmigration",
+      "block_id": "a-7654ad8d-8dcf-5518-8a40-ab00e34b6aea",
+      "text": "QA-4: Datenmigration Neben der Anbindung von technischen oder systembasierten Datenquellen wie Sensoren oder Drittsysteme unterstützt das angebotene System die Migration in verschiedenen Datenformate wie JSON, XML, CSV und ist hierbei an keine künstlichen Beschränkungen geknüpft. Neben der Migration der Daten ist auch die Überführung in weitere Zielsysteme über zur Verfügung stehende Schnittstellen möglich (z.B. REST-API, MQTT).\n\n1.19.",
+      "length_tokens": 57,
+      "structure_path": "CONCEPT Konzept > 1 Leistungsangebot > QA-4 QA-4: Datenmigration"
+    },
+    {
+      "tender_id": "smartboard_andernach_2024",
+      "theme": "Dashboard & Datenplattfom",
+      "chapter": "QA-5: Standards der IT-Sicherheit",
+      "block_id": "a-a143239f-6eca-5bf7-8318-b3a4d2e694f3",
+      "text": "QA-5: Standards der IT-Sicherheit Die geforderten Sicherheitsstandards werden eingehalten und es ist in unserem eigenen Interesse, hohe Sicherheitsstandards zu erfüllen. Des Weiteren werden Techniken eingesetzt, die bereits bei der Entwicklung überprüfen, ob Schwachstellen existieren. Wir orientieren uns dabei an den einschlägigen Empfeh- lung-gen von BSI, OWASP und NIST. Aus diesem Grund werden auf Seiten des AN u.a. folgende Maßnahmen durchgeführt:\n\n• Risikomanagement: Jährliche Durchführung eines Risikomanagement zur Identifizierung und Bewertung möglicher Risiken als au ch die Auswahl und Durchführung geeigneter Maßnahmen zur\n\nRisikominderung.\n\n• Implementierung von technischen und organisatorischen Sicherheitsmaßnahmen: Es sind organisatorische und technische Maßnahmen zur Sensibilisierung, Schulung und Umgang etabliert. Dies\n\numfassen regelmäßige Schulungen, Phishing Simulationen oder auch die regelmäßige Überprüfung von Rollen- und Verantwortlichkeiten in Systemen. Zudem verfügt der Infrastrukturdienstleister über ein ISO/IEC 27001:2013 Zertifizierung, die auf Verlangen des AG gerne nachgewiesen werden kann.",
+      "length_tokens": 137,
+      "structure_path": "CONCEPT Konzept > 1 Leistungsangebot > QA-5 QA-5: Standards der IT-Sicherheit"
+    },
+    {
+      "tender_id": "smartboard_andernach_2024",
+      "theme": "Dashboard & Datenplattfom",
+      "chapter": "2 Projektmanagement und Projektteam",
+      "block_id": "a-62c04937-9a18-5e6b-9fd5-5797111ab894",
+      "text": "2. Projektmanagement und Projektteam",
+      "length_tokens": 4,
+      "structure_path": "CONCEPT Konzept > 2 Projektmanagement und Projektteam"
+    },
+    {
+      "tender_id": "smartboard_andernach_2024",
+      "theme": "Dashboard & Datenplattfom",
+      "chapter": "2.1 Methodisches Vorgehen und Projektmanagement",
+      "block_id": "a-8cec2c5c-daa6-564c-9888-b363bb66d09c",
+      "text": "2.1. Methodisches Vorgehen und Projektmanagement Im Folgenden wir auf die vorgesehene Methodik zur erfolgreichen Umsetzung des Projektes ein. Das exakte Vorgehen wird zwischen AG und AN nach einer möglichen Auftragserteilung abgestimmt. Nachdem der Projektplan in einem Kickoff mit dem AG abgestimmt und ein gemeinsames Verständnis zu Anforderungen und Projektzielen, beteiligte Stakeholder und Rahmenbedingungen geschaffen ist, geht das Projektmanagement in die Projektsteuerung über. Im Rahmen der Projektsteuerung wird die zeitliche und inhaltliche Koordination der verschiedenen Arbeitspakete und Projektbeteiligten durchgeführt. Dabei werden folgende Leistungen erbracht:\n\n• Zweiwöchentliche Abstimmung zur Projektsteuerung mit der Projektleitung des AG\n\n• Transparenz über den Umsetzungsstand der Projektumsetzung\n\n• Kontinuierliche Überwachung und Kontrolle des Projektfortschritts. Im Falle negativer Abweichungen von der Projektplanung werden frühzeitig Gegenmaßnahmen ermittelt und Änderungen vor-\n\ngeschlagen\n\n• Frühzeitige und aktive Einbindung relevanter Stakeholder",
+      "length_tokens": 129,
+      "structure_path": "CONCEPT Konzept > 2 Projektmanagement und Projektteam > 2.1 Methodisches Vorgehen und Projektmanagement"
+    }
+  ],
+  "links": [
+    {
+      "query_block_id": "q-85cafd8d-86c4-5c87-a13a-d5d0f87bf42a",
+      "answer_block_id": "a-ed5a55bd-9130-5cd8-b13f-b284c419da63",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-4dfe42b2-6cce-5ad0-8223-b695c0314d63",
+      "answer_block_id": "a-649278ee-ce1d-549a-bed9-090a01b64a37",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-c19ae8f2-0212-583c-92e2-ab5a8628d2ec",
+      "answer_block_id": "a-d24f6c14-bed2-5fd6-9c58-c22054e9cf39",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-e1fb4c5f-5a1c-5720-848e-b956ae1cc4c4",
+      "answer_block_id": "a-d8c34a58-b490-50a4-9751-2b6035904815",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-e1fb4c5f-5a1c-5720-848e-b956ae1cc4c4",
+      "answer_block_id": "a-ce0482ab-6839-5324-84c4-1e934988b02f",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-6ea16177-afbe-56bd-8b66-06b801711dd3",
+      "answer_block_id": "a-1d5399cb-0aef-51db-975d-4581e1d5712e",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-000bfd41-7f3b-5780-b80e-40b63dfd04e7",
+      "answer_block_id": "a-53a260d6-547c-512c-b5de-28749ba62ffb",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-8c7c931d-cdfe-5d8e-ad33-0a9b1d257548",
+      "answer_block_id": "a-27ef6b49-7b1a-59b7-b301-0c32510f9e0f",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-8c7c931d-cdfe-5d8e-ad33-0a9b1d257548",
+      "answer_block_id": "a-cc58d65e-ec28-5013-b52c-2474a6b5d9ce",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-127cebcf-b6eb-5f8b-a87a-ee240d538ea1",
+      "answer_block_id": "a-fcca9022-f1eb-5cd7-ae6b-b81422734410",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-127cebcf-b6eb-5f8b-a87a-ee240d538ea1",
+      "answer_block_id": "a-6ae34905-0c37-512e-a83b-84b752d35320",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-6d9da651-5d29-52fb-a178-4075d85427fb",
+      "answer_block_id": "a-99077ff1-9fdd-5a4c-a72d-76dd8c567e4b",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-6d9da651-5d29-52fb-a178-4075d85427fb",
+      "answer_block_id": "a-8c1b9159-31d7-53eb-94b8-d0647f604270",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-4d13916e-5e3a-5cce-9c04-4ec2408e29a2",
+      "answer_block_id": "a-87364eca-9e12-5a55-afc4-977dd3498905",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-2b425323-4e2c-529b-809b-908182316a97",
+      "answer_block_id": "a-74b3ddf7-5a71-58a4-aa01-86da17229200",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-59021d7c-0e04-59f1-92ee-58293e782e74",
+      "answer_block_id": "a-ab22da23-8228-55c3-b632-6e1e6c6572c3",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-59021d7c-0e04-59f1-92ee-58293e782e74",
+      "answer_block_id": "a-9ced30ae-dceb-55fd-b247-a58edadcabfb",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-59021d7c-0e04-59f1-92ee-58293e782e74",
+      "answer_block_id": "a-9ced30ae-dceb-55fd-b247-a58edadcabfb",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-ee6b3193-1820-59f5-95b7-91b878c86b6e",
+      "answer_block_id": "a-0884e858-a71e-543a-92a0-b712caa36d8d",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-cd69aff3-c7ec-5d17-a483-c876f18bdd56",
+      "answer_block_id": "a-2b470b77-4cb0-5f44-b219-3351c49ed631",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-cd69aff3-c7ec-5d17-a483-c876f18bdd56",
+      "answer_block_id": "a-b3cca9c3-6877-5de7-9a38-746056468c61",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-a230173d-8767-566d-b6a5-e7c90d5408f5",
+      "answer_block_id": "a-59fb2017-a8a1-54fd-8698-a0af111e4f30",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-d4afddec-0755-5a32-9556-269086c71f69",
+      "answer_block_id": "a-4edc9d5d-e604-50a9-af5f-fafde4972a2c",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-c2599776-95ce-5bda-b017-f3de85f2d396",
+      "answer_block_id": "a-3458b32d-81c3-5f1d-8343-c0f495b2e4b8",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-91364a4d-94fc-53f1-b966-0a3cbf43870e",
+      "answer_block_id": "a-7654ad8d-8dcf-5518-8a40-ab00e34b6aea",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-0b41da63-b1b6-5d8f-97ee-8c6d0f501bd9",
+      "answer_block_id": "a-a143239f-6eca-5bf7-8318-b3a4d2e694f3",
+      "relevance": 1
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+dataset: hupd
+
+# Relative paths in this config are resolved from the repository root.
+base_dir: .
+
+paths:
+  parents: ./hupd_dataset/rag_artifacts/hupd_parents.jsonl
+  children: ./hupd_dataset/rag_artifacts/hupd_children.jsonl
+  parent_embeddings: ./hupd_dataset/rag_artifacts/hupd_parent_embeddings.npy
+  child_embeddings: ./hupd_dataset/rag_artifacts/hupd_child_embeddings.npy
+  results_dir: ./hupd_dataset/results
+  system_prompt: ./hupd_dataset/hupd_system_prompt.txt
+  test_cases: ./hupd_dataset/hupd_test_cases.csv
+
+query_cleaning:
+  patterns:
+    - name: remove_word_limit_chapter_instruction
+      regex: '\s*Write\s+a\s+concise\s+but\s+comprehensive\s+chapter\s+of\s+no\s+more\s+than\s+\d+\s+words\.?'
+
+retrieval:
+  top_k: [5, 10, 15, 20]
+  methods:
+    - dense_parent_child
+    - dense_parent
+    - sparse_parent_child
+    - sparse_parent
+    - sparse_parent_L
+    - hybrid_parent_child
+    
+
+generation:
+  max_output_tokens: 5000
+  temperature: 0.0
+
+  providers:
+    vllm:
+      dtype: auto
+      max_model_len: 8192
+
+  generators:
+    - name: Qwen/Qwen3-235B-A22B-Instruct-2507
+      provider: vllm
+      model: Qwen/Qwen3-235B-A22B-Instruct-2507
+
+    - name: Qwen/Qwen2.5-72B-Instruct
+      provider: vllm
+      model: Qwen/Qwen2.5-72B-Instruct
+
+    - name: Qwen/Qwen2.5-32B-Instruct
+      provider: vllm
+      model: Qwen/Qwen2.5-32B-Instruct
+
+    - name: Qwen/Qwen2.5-7B-Instruct
+      provider: vllm
+      model: Qwen/Qwen2.5-7B-Instruct

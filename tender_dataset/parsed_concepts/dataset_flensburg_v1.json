@@ -1,0 +1,1004 @@
+{
+  "blocks": [
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "Kurzbeschreibung",
+      "block_id": "q-50eb0369-3640-54e2-853e-9be097458c9f",
+      "text": "Kurzbeschreibung\n\nArbeitspaket 2 „Datenplattform“ mit dem Los 4 Die Smarte Grenzregion zwischen den Meeren, vertreten durch die Kreise Nordfriesland, SchleswigFlensburg und der Stadt Flensburg planen die Umsetzung von mehreren Smart City-Testanwendun- gen Mitte 2023 in Kombination mit einer durch den Auftragnehmer aufzubauenden IoT-Datenplattform, die die Anwendungen auf einer Ausgabeebene darstellt. Das Smart City Modellprojekt „Smarte Grenzregion zwischen den Meeren“ verfolgt das Ziel, eine regionale Datenplattform als Grundlage für alle smarten regionalen Anwendungen aufzubauen, die es ermöglicht, Daten besser zu integrieren, damit regionale und kommunale Daten besser auszutauschen, in den Arbeitsalltag der Verwaltungen und kommunalen Beteiligungen zu integrieren, Daten aus Fachanwendungen zur Verfügung zu stellen (auch der Öffentlichkeit) und für neue Anwendungsfälle wiederverwenden zu können. Das Projekt ist eine der Sofort- bzw. Basismaßnahmen der ge- meinsamen regionalen Smart City Maßnahmen, welche mit Bundesfördermitteln des Projektes „Smart Cities Made in Germany“ gefördert werden. Das Projektteam hat in der Initialphase eine Reihe von Anwendungsfällen (Use Cases) durch verschiedene Beteiligungsformate ermittelt und daraus Anforderungen erarbeitet. Dabei wurden drei An- wendungsfälle zur prototypischen Implementierung ausgewählt:\n\n- Erfassung von Besucherströmen und Ableitung einer Besucherlenkung via Integration der Daten\n\nin der Datenplattform\n\n- Optimierung von Monitoring und Management Prozessen im Bereich Grünflächen und Naturschutz\n\n- Parkraumüberwachung an touristischen Hotspots\n\nDie Anwendung soll barrierearm und einfach zu bedienen sein. Ziel ist es, ein Baukastensystem zu entwickeln, das perspektivisch auch weiteren Kommunen und Kreisen eine Nutzung erlaubt (vgl. Basisanforderungen \"Standards\"). Das Projekt wird deshalb als gemeinsamer innovativer Entwicklungsprozess der SGR mit dem Auftragnehmer verstanden. Das Arbeitsteam der SGR wird diesen Prozess deshalb zunächst in einer be- schränkten Vergabe durchführen. Das Ziel ist die Entwicklung von neuen Use Cases, Produkten und Dienstleistungen in einer ersten Testphase durch die Einbindung unterschiedlicher Sensoren, die in die durch den Auftragnehmer zu entwickelnde Datenplattform einfließen sollen und in einer Ausgabeebene im ersten Schritt aufbereitet wiedergegeben werden. Die Risiken und Vorteile werden zwischen Beschaffern und Lieferanten / Dienstleistern unter Marktbedingungen geteilt. Das jetzige Ausschreibungsverfahren erfolgt in Anlehnung einer beschränkten Ausschreibung in Form eines Verhandlungsverfahren ohne Teilnahmewettbewerb. Die Basisanforderungen für die urbane Datenplattform sind dem Leistungsverzeichnis zu entnehmen und in einem Umsetzungskonzept in Form einer Präsentation zu beschreiben. Bitte skizzieren Sie zudem in Ihrem Angebot kurz in Ihren Worten, welches aus Ihrer Sicht die Kernpunkte und die zentralen Herausforderungen in diesem Vorhaben sind und mit welchem Ansatz Sie an die Aufgabe herangehen. Dem Angebot muss darüber hinaus eine Liste mit Referenzprojekten der letzten drei Jahre beigefügt werden, die die Expertise des Leistungserbringers in der vorgenannten Weise belegt.",
+      "length_tokens": 411,
+      "structure_path": "LV Leistungsbeschreibung > Kurzbeschreibung"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "1.1 Grundlagen für weiteres Vorgehen",
+      "block_id": "q-d5d2fa4b-61f1-5cb3-8e36-e73b5131eec9",
+      "text": "1.1 Grundlagen für weiteres Vorgehen\n\nDie Erkenntnisse aus den Testanwendungen zur Sensor-Einbindung, Leistungsfähigkeit der Datenplattform, Visualisierung und Zurverfügungstellung der gewonnenen Daten im Sinne von Open Data sollen in die weitere Planung und Auswahl von Partnern im Gesamtprojekt einfließen.",
+      "length_tokens": 38,
+      "structure_path": "LV Leistungsbeschreibung > 1.1 Grundlagen für weiteres Vorgehen"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "Projektbeschreibung",
+      "block_id": "q-c87cb3be-1a2b-5b3a-8c76-aac3403886e9",
+      "text": "Projektbeschreibung",
+      "length_tokens": 1,
+      "structure_path": "LV Leistungsbeschreibung > Projektbeschreibung"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "2.1 Zielsetzung der Ausschreibung",
+      "block_id": "q-d4e351eb-f2af-57fa-bc3e-74ede532088e",
+      "text": "2.1 Zielsetzung der Ausschreibung\n\nDie Stadt Flensburg und die Kreise Nordfriesland und Schleswig-Flensburg wurden gemeinsam als Modellvorhaben des Bundesförderprogramms Modellprojekte Smart Cities ausgewählt. Unter dem Titel „Smarte Grenzregion zwischen den Meeren“ (SGR) stehen den drei Partnern ein Projektvolumen von über 17 Mio. Euro zur Verfügung. Der Förderzeitraum beträgt insgesamt fünf Jahre – ein Jahr für die Strategieentwicklung und vier Jahre für Umsetzungen. Ziel des Modellvorhabens SGR ist es, durch breite Beteiligung von Bürger*innen, Unternehmen, Institutionen, Verbänden und Verwaltung eine Strategie für eine nachhaltige und lebenswerte Zukunft für die gesamte Region zu entwickeln und diese auch umzusetzen. Dabei sollen insbesondere auch neue gesellschaftliche, politische, technologische und kulturelle Entwicklungen berücksichtigt werden. Zur Evaluierung der vorgesehenen technischen Lösungen und Verankerung des Themas in der Öffentlichkeit sollen zur Mitte des Jahres 2023 drei Testfelder realisiert werden. In diesem Zuge sollen vom Auftragnehmer (AN) die ausgewählten Sensoren und Systeme für die Testfelder in eine zentrale urbane Datenplattform eingebunden und die Daten erfasst und gespeichert werden. Die Anforderung umfasst sowohl die Einbindung neuer Sensoren per LoRaWAN oder API-Schnittstelle als auch die Integration von Bestandssystemen in die Datenplattform. Die urbane Datenplattform soll neben der Bündelung aller erfassten Daten von Sensoren und weiteren Quellen der Bereitstellung dieser zur Weiterverarbeitung über standardisierte Schnittstellen die- nen. Auf Basis dieser Daten sollen vom AN unter andere ansprechende Visualisierungen auf einer geräteübergreifenden und responsiven Weboberfläche sowie für die Anwendungsfälle sinnvolle Automati- sierungen erstellt werden. Die Visualisierungen in Form von Dashboards sollen durch eine transparente und informative Gestaltung für Verständnis und Interesse für die Digitalisierungsmaßnahmen bei den Bürgerinnen und Bürgern sorgen. Perspektivisch sollen Daten aus der regionalen Datenplattform auf einem Open Data Portal für private und wissenschaftliche Zwecke bereitgestellt werden. Die dafür benötigten Voraussetzungen sol- len bereits in der Testphase mitberücksichtigt sein.",
+      "length_tokens": 289,
+      "structure_path": "LV Leistungsbeschreibung > 1.1 Grundlagen für weiteres Vorgehen > 2.1 Zielsetzung der Ausschreibung"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "2.2 Beschreibung der Beschaffung",
+      "block_id": "q-08c45241-0cb5-5144-9997-56dcaeadbfd0",
+      "text": "2.2 Beschreibung der Beschaffung\n\nIm Rahmen des Projekts „Smarte Grenzregion“ werden im Dezember 2022 Testanwendungen an 15 Standorten im Kreis Nordfriesland, Kreis Schleswig-Flensburg und der Stadt Flensburg umgesetzt. Für diese Testanwendungen soll parallel im Rahmen dieses Auftrags eine Datenplattform entwickelt werden, die im ersten Schritt auf einem SGR-Dashboard die Datenvisualisierung realisiert. Hierbei soll auch ein Ausflugsticker zur Erfassung der zu erwarteten Auslastung auf Grundlage aktueller Besuchszahlenentwicklung mit den Daten aus der Erfassung der drei Use Cases angearbeitet werden. Damit der Ticker im Abgleich mit den erfassten Daten funktioniert, muss aber eine Besucherzahlenentwicklung als Grundlage vorliegen. In anderen Worten bedarf es dann eines Zeitreihenvergleiches. Dafür wird vom Auftragnehmer zunächst eine geeignete IoT-Datenplattform zur Verfügung gestellt und entsprechend den Anforderungen konfiguriert. In diese Plattform werden, die von der Smarten Grenzregion bereitgestellten, LoRaWAN Gateways und Mobilfunkdaten in Absprache mit dem Auftraggeber integriert und die Sensoranbindung ermöglicht. Die Einbindung weiterer LoRaWAN-konformer Gateways muss in der Zukunft jederzeit möglich sein. Im nächsten Schritt werden die LoRaWAN-Sensoren über die Plattform eingebunden und konfiguriert, bei Bedarf ist je Sensor ein passender Decoder bereitzustellen oder zu erstellen. Weiterhin wer- den externe Datenquellen (mindestens die Standards MQTT und Lesen von FTP-Daten) an die Plattform angebunden. Die erfassten Daten der Sensoren und externen Schnittstellen werden durch die Plattform in ein einheitliches offenes Datenformat (bevorzugt JSON) decodiert und für die Dauer von mindestens 12 Monaten sicher und redundant gespeichert. Die Einbindung neuer Sensortypen/Decoder muss auch durch technisches Personal der Auftraggeberin möglich sein. Dem Angebot ist eine Preisindikation pro Sensor für die Einbindung weiterer Sensor- typen durch den Auftragnehmer beizufügen. Des Weiteren sollen in der Datenplattform logische Verknüpfungen und Verschneidungen der Daten möglich, für die Testszenarien umgesetzt und langfristig auch von geschulten, nicht-technischen Mitarbeitern erstellbar sein. Alle so erfassten und generierten Daten werden über offene, gesicherte Schnittstellen (bevorzugt MQTT, alternativ REST API oder ähnliche in Absprache mit der Auftraggeberin) für die weitere Nutzung bereitgestellt. Diese bereitgestellten Daten werden vom Visualisierungsmodul (Dashboard) eingelesen und in QuasiEchtzeit dargestellt. Alle im Testszenario erfassten bzw. relevanten Daten sollen zum Start der Szena- rien ansprechend und im CI der Smarten Grenzregion visualisiert werden. Zur Bedienung der Plattform und selbständiger Einbindung neuer Sensoren bereits angelegter Typen sowie allen weiteren Administrationsaufgaben erfolgt eine Schulung der technischen und Smart-City Mitarbeitern der Smarten Grenzregion, sowie die Übergabe einer Dokumentation. Der Betrieb der Plattform durch den Auftragnehmer für das erste Jahr ist im Angebotspreis mit einzukalkulieren. Eine Indikation für die jährlichen Kosten für den Weiterbetrieb im Anschluss durch den Auftragnehmer ist beizufügen. Es werden konkret nachfolgende Leistungsbausteine vom Auftragnehmer erwartet: Leistungsbaustein Beschreibung Anmerkungen/ Anforderungen an den AN Leistungsbaustein 1 Aufsetzen und Zurverfügungstellen einer geeigneten IoT Plattform und Einbindung der Gateways Abstimmung mit AG Leistungsbaustein 2 Integration und Verwaltung der LoRaWAN-Sensorik/sowie weitere marktgängiger Lösungen (NB-IoT etc.) Für Testszenario: Integration von mindestens 10 unterschiedlichen Sensortypen Leistungsbaustein 3 Anbindung externer Datenquellen (Schnittstellen) mindestens: FTP (Eingang), MQTT (Einund Ausgang) Leistungsbaustein 4 Verarbeitung und Speicherung der Sensordaten Decodierung der Sensor- und Quellendaten in ein gängiges Format (bevorzugt JSON); Speicherung für mindestens 12 Monate Leistungsbaustein 5 Visualisierung der Testszenarien und Automatisierungen Abstimmung mit AG Leistungsbaustein 6 Betrieb der Plattform Betrieb der Plattform für das erste Jahr; inkl. Indikation Betrieb für Folgejahre Leistungsbaustein 7 Schulung und Support sowie Dokumentation Schulungskonzept Folgende drei Use Cases wurden zur prototypischen Implementierung ausgewählt: Use Case 1. Erfassung der Besucherströme und Besucherlenkung via Datenplattform Gegenstand ist der exemplarische Aufbau und der Einstieg in ein digitales Besucherlenkungssystems für die Smarte Grenzregion zwischen den Meeren. Dafür sollen im ersten Schritt „Show Cases“ als Anwendungsfälle mit dem künftigen Fokus auf einen regionsweiten „Ausflugsticker“ erprobt werden, die gleichzeitig in Teilen wiederum in sich auch lokale, eher an klassische Parkleitsysteme angelehnte, Funktionalitäten aufweisen sollen. Der Tourismus gehört, wie eingangs kurz beschrieben, in der SGR zu den wichtigsten Wirtschaftsfaktoren und ist eine echte Querschnittsbranche mit breiten Wertschöpfungseffekten. Die Bandbreite der Destination zwischen Nord- und Ostsee reicht dabei vom prominenten Beispiel der Insel Sylt an der Westküste bis hin zum kleinteiligen Tourismus an der Schlei und der Ostseeküste. Dabei sind je nach lokalen Gegebenheiten in Teilen die Grenzen des Wachstums erreicht. Vor allen in den touristisch aktiven Gemeinden kommt es immer wieder zu temporären Überbelastungen durch PKW sowie Menschen und in der Konsequenz zu überfüllten Stränden, Straßen und Parkplätzen. Gleichzeitig nimmt die Akzeptanz der Einheimischen gegenüber dem Tourismus merklich ab. Dies bestätigt auch eine jüngste Einwohnerbefragung, die in der Urlaubsregion rund um den Ostseefjord Schlei durch die lokale Tourismus-Organisation Ostseefjord Schlei GmbH durchgeführt wurde. 72% der knapp 100 Befragten gaben an, dass es gerade in der Saison zu viele Touristen sind. Diesem Umstand soll durch den Ansatz „Digitale Besucherlenkung“ begegnet werden. In einem ersten Schritt werden durch unterschiedliche, Sensorik gestützte Erfassungsansätze Daten zu Parkplatzverfügbarkeiten an Hotspots bis hin zu Besucherzahlen im Außenbereich des UNSECO Welterbes Danewerk / Haithabu erhoben, bewertet und nutzergerecht kommuniziert. In der Ausbaustufe ist das Ziel, mit den erhobenen Daten die Basis für einen Ausflugticker zu gestalten, um so die Hotspots zu entlasten und die Coldspots attraktiver zu machen. Konkret sollen durch den Aufbau einer digitalen Besucherlenkung, die Besucherströme an touristischen Hotspots durch Echtzeit-Daten messbar gemacht, Auslastungen gegenüber dem Gast kommuniziert und alternative Angebote in den Orten selbst oder in der Region zur Entlastung der Hotspots aufgezeigt werden. Die hier zu etablierenden erste technische Sensorik-Infrastruktur wird in der weiteren Ausbaustufe die Grundlage für ein zu etablierendes regionales Besucherlenkungssystem liefern. In dieser Hinsicht ist die Zusammenarbeit zwischen Dienstleister und Arbeitsteam der SGR besonders wichtig, um einen gemeinsamen Prozess zu etablieren. Zentral ist bei der Umsetzung, dass die von den Sensoren erhobene Daten schnittstellenoffen zur Verfügung gestellt oder zumindest über standardisierte, marktübliche Schnittstellen, wie beispielsweise MQTT, REST API oder websockets bereitgestellt werden. Die genaueren Anforderungen werden unter Punkt 2 im Detail erläutert. Durch die Schaffung der ersten Datengrundlagen aus den Show Cases werden folgende übergeordneten Ziele angestrebt: • Professionalisierung des Tourismusmarketings im Interesse wachsender Kundenorientierung, • Vermeidung von „Überlastungserscheinungen“ vor dem Hintergrund natürlicher Kapazitätsgrenzen, • gezielte Instandhaltung und Aufbau der Infrastrukturmaßnahmen durch Auswertung von Besucherströmen mittels Echtzeitdaten, • Unterstützung der Tourismusstrategie in der Region durch Nutzung der Daten und des Informationssystems während und nach der Pandemie, • Förderung und Unterstützung der ansässigen KMU, • Förderung nachhaltiger Mobilität durch Vermeidung unnötiger Suchverkehre. Eine gleichmäßige Auslastung der touristischen Infrastruktur trägt insgesamt zu einer Steigerung der Wertschöpfung in der gesamten SGR bei. Die Zielgruppe des Projekts liegt neben den Übernachtungsgästen, vor allem auf (spontan) anreisenden Tagesgästen. Use Case 2 - Optimierung von Monitoring und Management-Prozessen im Bereich Grünflächen und Naturschutz Im Pflanzen- und Grünflächenmanagement des urbanen Raumes der SGR geht es um die effiziente Vitalerhaltung von Straßenbäumen und städtischem Grün mit gärtnerisch-baumpflegerischen Mitteln unterstützt durch technisch-analytische Betreuung (durch bspw. Boden- und Blattfeuchtesensorik). Speziell ist die Bewässerungssteuerung und -kontrolle bei Jung- und Altbäumen, sowie bei sonstigen Grünanlagen über Messungen zu beeinflussen. Hierdurch wird eine Effizienzsteigerung und Optimierung des Grünflächenmanagements erwartet. Im Zuge von Maßnahmen der strategischen Umweltplanung in den ländlichen Bereichen der SGR ergeben sich regelmäßig Monitoring Notwendigkeiten beispielsweise von Pegelständen oder Bodenpa- rametern. Durch den Einsatz von Sensorik soll der Aufwand für vor-Ort-Kontrollen verringert und gleichzeitig die Aussagekraft des Monitorings durch konstante Erfassung und kontinuierliche Messreihen verbessert werden. Use Case 3 – Parkraumüberwachung An unterschiedlichen Standorten soll das Thema Parken an touristischen Hotspots überwacht werden. Ziel ist hierbei über ein Ampelsystem oder eine Prozentanzeige die Auslastung der Parkstand- orte zu verifizieren, um somit die Informationen zu haben, die Parkplatzauslastung zu kommunizieren und für Dritte, wie Touristen, aufzubereiten, damit diese den Standort nicht anfahren und an ei- nem anderen, nicht ausgelasteten Standort parken oder künftig ein anderes Angebot in der SGR wahrnehmen. Hier werden unterschiedliche Sensoriklösungen abhängig vom Umfeld eingesetzt. Diese fließen auch in ein LoRaWAN-Netz ein und die Daten werden ebenfalls auf der regionalen Datenform dargestellt.",
+      "length_tokens": 1273,
+      "structure_path": "LV Leistungsbeschreibung > 1.1 Grundlagen für weiteres Vorgehen > 2.2 Beschreibung der Beschaffung"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "2.3 Zeitschiene",
+      "block_id": "q-f9e34647-662f-5541-a9f6-9db734aca2db",
+      "text": "2.3 Zeitschiene\n\nSeptember 2023 Oktober 2023 KW 26 Kick-off, Abstimmungen Bereitstellung und Konfiguration der Datenplattform Erste Visualisierung Implementierung der Sensoren und Anbindung externer Schnittstellen Start der Showcases der Stadt mit Visualisierung der erfass- ten Daten über das Dashboard Fehlerbehebung und Entwicklung Plattform Schulung Arbeitsteam und techn. Mitarbeiter Übergabe und Support, sowie Doku- mentation",
+      "length_tokens": 53,
+      "structure_path": "LV Leistungsbeschreibung > 1.1 Grundlagen für weiteres Vorgehen > 2.3 Zeitschiene"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "2.4 Begriffsabgrenzung für den Auftrag",
+      "block_id": "q-48c21951-4ac0-53ff-96a4-ebcde4424415",
+      "text": "2.4 Begriffsabgrenzung für den Auftrag\n\nDie regionale Datenplattform stellt die grundlegende Infrastruktur zur Integration aller LoRaWANkonformen Sensoren bereit und implementiert die Logik zur Verschneidung der Daten. Neben der Integration und Bereinigung der Datensätze sind Funktionen vorgesehen, welche die Daten miteinander verknüpfen, und sinnvolle Einblicke und Erkenntnisse liefern. Desweitern stellt die IoT-Plattform einen langfristigen Datenspeicher bereit und stellt die Daten über eine standardisierte Open-Data Schnittstelle u.a. für die Dashboards zur Verfügung. Hierbei ist die Echtzeitfähigkeit zu beachten. Der Aufbau der Plattformen muss so geplant werden, dass Schnittstellen für zukünftige Vorhaben einkalkuliert und zu einem späteren Zeitpunkt integrierbar sind. Die Smarte Grenzregion plant fest mit weiteren Digitalisierungsmaßnahmen, welche in die Infrastruktur integriert werden sollen. Die Datenerfassung der Bestandsdaten ist nicht Bestandteil der Ausschreibung. Die Smarte Grenzregion stellt Schnittstellen bereit, über welche auf die Daten und Informationen zugegriffen werden kann. Die Datensätze stammen vornehmlich direkt von den Kreisen und Kommunen, aber auch aus öffentlichen Datenquellen, von regionalen Betreibern, von Forschungseinrichtungen und der Zivilgesellschaft. Diese Daten müssen vom Auftragnehmer über die bereitgestellten Schnittstellen in die Da- tenplattform integriert werden. Künftig sollen auch komplexere Anwendungen, wie die regionsübergreifende Besucherlenkung durch Verschneidung von Verkehrs-, Park- und Auslastungsdaten an Stränden über die Plattform gesteuert werden. Das SGR-Dashboard dient zur Visualisierung der Sensordaten und der kreisweiten und kommunalen Informationen auf einer geräteübergreifenden Weboberfläche. Hierbei sind mindestens vier Berechtigungsstufen bzw. Ansichten vorgesehen, welche sich in einer Bürger- Kreis- und Kommunalebene, sowie in einer Ebene für das Arbeitsteam der SGR (Darstellung Sensorgesundheit etc.) unterscheiden.",
+      "length_tokens": 244,
+      "structure_path": "LV Leistungsbeschreibung > 1.1 Grundlagen für weiteres Vorgehen > 2.4 Begriffsabgrenzung für den Auftrag"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "2.5 Interregionale/-kommunale Schnittstellen",
+      "block_id": "q-c5a3f486-7f0f-5748-a5f4-09e273294515",
+      "text": "2.5 Interregionale/-kommunale Schnittstellen\n\nIm Rahmen des Modellprojektes „Smart Cities Made in Germany“, welches vom Bundesministerium für Wohnen Stadtentwicklung und Bauwesen ausgeschrieben wurde, überzeugten die Kreise Nordfriesland und Schleswig-Flensburg und die Stadt Flensburg mit ihrem interregionalen/-kommunalen Vorhaben. Um einen interregionalen/-kommunalen Austausch zu gewährleisten, ist die Plattform von Beginn an mandantenfähig anzulegen und die Rechteverwaltung sowohl für Daten als auch für Nutzer entsprechend vorzusehen.",
+      "length_tokens": 62,
+      "structure_path": "LV Leistungsbeschreibung > 1.1 Grundlagen für weiteres Vorgehen > 2.5 Interregionale/-kommunale Schnittstellen"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "2.6 Abstimmungsinhalte",
+      "block_id": "q-ea7b8191-1ba9-5a9a-8425-2a663963f021",
+      "text": "2.6 Abstimmungsinhalte\n\nDie Umsetzung des Projektes soll in enger Abstimmung mit den Ansprechpartnern der Smarten Grenzregion erfolgen. Vorgegeben ist neben den Schnittstellen zum Datenaustausch auch die Corporate Identity, welche in der grafischen Umsetzung der regionalen Datenplattform aufgegriffen wer- den soll. Ansprechpartner für die Inhalte, bzw. für die CI sind Frau Inga Marken und Dr. Marcus Ott, Kontaktdaten: Frau Inga Marken Smarte Grenzregion zwischen den Meeren Stadtverwaltung Flensburg Fachbereich Stadtentwicklung und Klimaschutz Telefon: 0461 852085 E-Mail: marken.inga@flensburg.de Dr. Marcus Ott Chief Digital Officer Stadt Flensburg - Der Oberbürgermeister 103 Stabstelle E-Government c/o Digitalagentur Smarte Grenzregion zwischen den Meeren GmbH E-Mail: ott.marcus@flensburg.de",
+      "length_tokens": 100,
+      "structure_path": "LV Leistungsbeschreibung > 1.1 Grundlagen für weiteres Vorgehen > 2.6 Abstimmungsinhalte"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "2.7 Übergabe",
+      "block_id": "q-ce9af4d9-6651-5c5f-aa69-0308db41cd04",
+      "text": "2.7 Übergabe\n\nDie entwickelten Softwareanwendungen sind nach Abnahme durch den Auftraggeber und durch den Auftragnehmer unter einer abzustimmenden „Open Source Lizenz“ auf einer gängigen Versionierungsplattform (bspw. GitHub oder GitLab) bereitzustellen. Ebenso muss dem Arbeitsteam der SGR ein Zugang mit dauerhaften Administrationsrechten der höchsten Ebene zur Verfügung gestellt werden, sowie die betroffenen Personen, welche mit der Betreuung der Plattform vertraut sind, entsprechend im Umgang eingeführt/geschult werden.",
+      "length_tokens": 65,
+      "structure_path": "LV Leistungsbeschreibung > 1.1 Grundlagen für weiteres Vorgehen > 2.7 Übergabe"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "2.8 Anforderungen regionale Datenplattform",
+      "block_id": "q-5e8a887e-d2d3-5f06-b966-18b8c707ac3d",
+      "text": "2.8 Anforderungen regionale Datenplattform\n\nDieser Abschnitt spezifiziert die Anforderungen an die regionale Datenplattform für die Smarte Grenzregion. Die einzelnen Anforderungen sind in „Muss-“ und „Kann-Kriterien“ eingeordnet, welche die Erfüllungsvorgaben widerspiegeln. Muss-Kriterien sind zwingende Elemente der Ausarbeitung. Kann-Kriterien sind optional, oder lassen einen gewissen Spielraum für eigene Umsetzungsentscheidungen.",
+      "length_tokens": 47,
+      "structure_path": "LV Leistungsbeschreibung > 1.1 Grundlagen für weiteres Vorgehen > 2.8 Anforderungen regionale Datenplattform"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "2.9 Anforderungen an die zu entwickelnde regionale Datenplattform der Smarten Grenzregion (SGR)",
+      "block_id": "q-8ad9b8c8-8969-5beb-8c5d-ae3cba4d70d1",
+      "text": "2.9 Anforderungen an die zu entwickelnde regionale Datenplattform der Smarten Grenzregion (SGR)\n\nBasisanforderung Beschreibung Priorität Testanwendungen perspektivisch Umsetzungsphase muss muss Offene Standards und offene Schnittstellen Durchgängige Nutzung von Standard APIs und Datenformaten (z.B. REST, MQTT, JSON,...) muss muss Anbindung von Sensoren Über die urbane Datenplattform sollen LoRaWAN basierte Sensoren nativ eingebunden, konfiguriert und überwacht werden können. muss muss Open Source Alle in dieser Förderung entwickelten Lösungen müssen als Open Source zur Verfügung gestellt werden (Beim Zukauf einzelner Komponenten kann in Absprache mit dem AG auch eine nicht-Open-Source-Lösung eingesetzt werden) kann muss Nachhaltige Datenverwendung Die regionale Datenplattform muss in der Lage sein, Bestandsdaten einzubinden und neu erfasste Daten zur langfristigen, nachhaltigen Datenverwendung vorzuhalten und verfügbar zu machen. Bestehende System sollen über zu schaffende Schnittstellen eingebunden und gut verfügbar gemacht werden. Priorisiert werden soll ein Direktzu- griff auf die Daten, eine Sekundärdatenhaltung ist nur dann eine Alternative, wenn Direktzugriff nicht möglich ist. kann muss Skalierbarkeit und Erweiterung, Zukunftsfähigkeit Die regionale Datenplattform muss skalierungsfähig und in allen Richtungen erweiterbar sein. Eine systembedingte Begrenzung der Anzahl der Dienste, Teilnehmer IoT Geräte und Schnittstellen darf nicht bestehen. Die Plattform sollte von Beginn an mit Blick auf kontinuierliche Weiterent- wicklung und Erweiterungsfähigkeit entwickelt werden. Sie muss zukunftsorientiert gestaltet werden. Schnittstellen, Standards und Services sind so zu wählen, dass der Betrieb des Portals in einem angemessenen Zeitraum ohne größere Kosten für Anpassungen, Umzüge und Umstiege auf andere Technologien auskommt. muss muss Modulare Systemarchitektur Die regionale Datenplattform sollte modular aufgebaut sein. Sie ist aus einzelnen Modulen aufge- baut, die sich einzeln ersetzen lassen. Dies muss durch offene Standards und standard-konforme Schnittstellen zwischen den Modulen gewährleistet werden. (containerbasierte Softwareverteilung, Schnittstellen nach Industriestandard) kann muss Verfügbarkeit Die regionale Datenplattform sollte entsprechend anderer kritischer Infrastrukturen durchgängig verfügbar (99,9%) sein. muss muss Datenschutz DSGVO Konformität Erfüllung von IT-Schutzzielen: Vertraulichkeit, Integrität, Verfügbarkeit Die über die urbane Datenplattform bereitgestellten Daten sind in dem Sinne sicher, dass sie nicht beschädigt, gefälscht oder gestohlen werden dürfen. Daher spielt die Datenintegrität eine entscheidende Rolle. kann muss Qualität der Daten und Semantik In der regionale Datenplattform sollte die Qualität der Daten gesichert und erkennbar sein. Kriterien können beispielsweise sein: Von den Datenerstellenden definierter Qualitätsstatus, Genauigkeit, Aktualität. Die Speicherung von Semantikinformationen soll vorgesehen und im Datenmodell be- rücksichtigt werden. Metadaten aus Quellsystemen werden zu einem einheitlichen Metadaten- modell zusammengeführt. muss muss Darstellung und Darstellungsebenen Die in der Plattform erfassten Daten sollen auf der Ausgabeebene ansprechend und leicht verständlich dargestellt werden. Die Darstellung kann vom Arbeitsteam der SGR konfigurierbar flexibel sowohl als Zahlenwert als auch grafisch und als histo- rische Verlaufsdaten sowie in weiteren Darstellungsformen erfolgen. Des Weiteren soll es eine weitere Darstellung zur Sensorgesundheit geben, die den Zustand der verbauten Sensorik erfasst und somit Wartungsfenster aufzeigt. muss muss Datensicherheit Sowohl die Speicherung der Daten als auch die Kommunikation über die regionale Datenplattform müssen verschlüsselt erfolgen. Sicherheitsupdates für alle Module müssen vom AN regelmäßig bereitgestellt und eingespielt werden. muss muss Authentifizierung, Autorisierung, Rechte und Rollen Die regionale Datenplattform muss sicherstellen, dass Benutzer identifiziert und überprüft werden können. Sie darf den Zugang zu digitalen Daten und Diensten nur denjenigen Organisationen und Personen gestatten, die autorisiert wurden. Ein rollenbasiertes Rechtemanagement regelt die Zugriffsebenen und -bereiche. soll muss Mandantenfähigkeit Die regionale Datenplattform kann im Rahmen des interregionalen/-kommunalen Projektes mindestens drei (Kreis Nordfriesland, Kreis Schleswig- Flensburg, Stadt Flensburg), perspektivisch aber auch mehrere Mandanten (aus weiteren Gemeinden/Organisationen) verwalten, so dass die gegen- seitigen Einblickmöglichkeiten auf die Daten der anderen Mandanten nur bei expliziter Freigabe für einzelne andere Mandanten sichtbar sind. Dies umfasst die Anpassung an das jeweiligen Mandanten-CI, individuelle Konfiguration und mandanten- getrennte Datenhaltung. Installation, Wartung und Systempflege sollen zentral erfolgen. Mandantenübergreifende Daten sollen nur einmal gehalten werden. muss muss Echtzeitfähigkeit Die regionale Datenplattform muss für einzelne Use Cases nahezu-Echtzeitdaten (Verzögerung im Sekundenbereich) zur Verfügung stellen. Die Anwendung sollte sich im Sekundentakt aktualisie- ren. Die Plattform muss perspektivisch performant genug sein, um Echtzeitdaten zu unterstützen. soll muss Barrierearmut und Mehrsprachigkeit Die Konfigurations- und Darstellungsebenen sollten responsiv funktionieren und auf einer Vielzahl von Geräten darstellbar sein. Einfachen Anforderungen der Barrierefreiheit sind zu berücksichti- gen, Unter anderem aktivierbarer hoher Kontrast/Erkennbarkeit ohne Farben, Skalierbarer Text, Screenreader-Fähigkeit, Hinterlegung von Texten für Bilder, Steuerung über die Tastatur. Perspektivisch: einfache Sprache und Mehrsprachigkeit (Eng, DK) wegen der Grenzlage ist zu ge- währleisten. muss muss CI Smarte Grenzregion Die urbane Datenplattform muss bei allen nach außen sichtbaren Modulen in Absprache mit dem Auftraggeber die Gestaltungsrichtlinien der Smarten Grenzregion erfüllen. Perspektivisch: auch das Backend ist im CI der Smarten Grenzregion umzusetzen. muss muss Dokumentation Progammcode, Funktionen und Datenmodelle müssen ausreichend und verständlich beschrieben werden und auf einer Versionierungsplattform (GitHub od. GitLab) zur Verfügung gestellt werden. soll muss Schulung Es werden Schulungsmaterialien und Workshops für die Nutzer*innen bereitgestellt, um die Verwaltung und Nutzung der Plattform für alle Betroffe- nen zu ermöglichen. kann muss Beteiligung/Citizen Science Potenzielle Nutzende sollen möglichst in die Entwicklung und Bereitstellung von Daten mit einbe- zogen werden. Entsprechende Schnittstellen sind vorzusehen. soll Zertifizierung Eine Zertifizierung der urbanen Datenplattform auf Basis von ISO-Richtlinien wird angestrebt.",
+      "length_tokens": 823,
+      "structure_path": "LV Leistungsbeschreibung > 1.1 Grundlagen für weiteres Vorgehen > 2.9 Anforderungen an die zu entwickelnde regionale Datenplattform der Smarten Grenzregion (SGR)"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "2.10 Wertungskriterien",
+      "block_id": "q-d4ecbcc4-578b-5f78-8758-9200a2fcbc2d",
+      "text": "2.10 Wertungskriterien\n\nDer Zuschlag wird auf das wirtschaftlichste Angebot erteilt. Das Angebot mit der höchsten Bewertung stellt für den Auftraggeber das wirtschaftlichste Angebot dar. Folgende Muss-Kriterien sind entweder zu bestätigen oder mittels Nachweise zu belegen: Der Bieter hat eine aussagekräftige und hinreichende Unternehmensdarstellung von max. 1 Seite DIN A4 (je Unternehmen) einzureichen Eigenerklärung „Ausschluss von Bewerbern wg. schwerer Verfehlungen“ (§§ 123, 124 GWB) bei juristischen Personen Nachweis über den Eintrag in das Berufs- oder Handelsregister des Unternehmens bzw. Wohnsitzes Nachweis einer Betriebshaftpflichtversicherung Die fachlichen Zuschlagskriterien werden auf Basis eines Punkteschemas mit 0 bis 5 Punkten bewertet Konzept für die Vorgehensweise Der Bieter stellt dar, wie (welche Verfahrensschritte, welche Methoden …) er konkret das Ziel erreichen will, den Auftraggeber bei der Entwicklung der Datenplattform zu unterstützen, die in Q42022/Q12023 Final im politischen Raum vorgestellt werden kann. Fachkunde der zur Leistungserbringung eingesetzten Personen (Mitarbeiter*innen-Profile) Der Bieter hat die vom zukünftigen Auftragnehmer geforderte Leistungsfähigkeit durch entsprechend qualifizierte Mitarbeiter*innen in Form von drei Mitarbeiter*innen-Profilen nach- zuweisen, die über mit dem Leistungsgegenstand vergleichbare inhaltliche und sektorale Erfahrung verfügen. Der Bieter stellt anhand von zwei Projektreferenzen dar, wie Kommunen im Bereich der Erstellung von Datenplattformen unterstützt wurden. Ersatzweise kann die Beratung vergleich- barer Organisationen/Unternehmen dargestellt werden. Vernetzung des Aufragnehmers Der Bieter stellt seine Vernetzung zu anderen relevanten Parteien aus den Bereichen Technologie, Wissenschaft und öffentlichen Stellen dar.",
+      "length_tokens": 221,
+      "structure_path": "LV Leistungsbeschreibung > 1.1 Grundlagen für weiteres Vorgehen > 2.10 Wertungskriterien"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "2.11 Wertungsmatrix",
+      "block_id": "q-f8410103-6774-5363-bd03-21be96e1b6c5",
+      "text": "2.11 Wertungsmatrix\n\nerzielte Punkte Bewertung (1 bis 4 Pkt.) (Gewichtung x Pkt.) Preis Verständnis der Aufgabenstellung: Berücksichtigung und Eingehen auf die Beschreibung und formulierten Anforderun- gen entsprechend der Übersicht Leistungsbausteine Bewertung der Geeignetheit der vorgestellten Herangehensweise an die einzel- nen Aufgabenschritte Inhaltlich-fachliche Kompetenz, festgemacht an den Referenzen* der Organisation, idealerweise bezogen auf nach- weisbare Erfolge bei dem jeweiligen Kunden, und der Kompetenz und Praxiserfah- rung der Mitarbeiter; Nachweis Personalkapazitäten für Bearbeitung Summe: * Referenzprojekte aus den vergangenen 3 Jahren. Aktuelle Referenzprojekte sind mit den notwendigen Angaben (Thema, Auftraggeber, Laufzeit und zentrales Ergebnis u. ä.) darzustellen. Eine Einbindung weiterer Projektpartner ist möglich. Die erbetene Darstellung der Profile und der Referenzprojekte gilt dann entsprechend. Erläuterungen zur Wertung der Angebote: Bewertung des Preises: Das Angebot mit dem niedrigsten Angebotspreis erhält 4 Punkte. Für die preislich nachfolgenden Angebote wird die Punktzahl wie folgt bestimmt: Punktzahl Bieter XY = (Niedrigstpreis multipliziert mit 4) / Preis Bieter XY. Es wird kaufmännisch auf zwei Nachkommastellen gerundet. Für die Qualitätskriterien gelten die folgenden Bewertungsstufen: • 1 Punkt: Das Leistungsangebot des Bieters entspricht nur mit vielen Einschränkungen den Anforderungen des Auftraggebers • 2 Punkte: Das Leistungsangebot des Bieters entspricht mit wenigen Einschränkungen den Anforderungen des Auftraggebers • 3 Punkte: Das Leistungsangebot des Bieters entspricht den Anforderungen des Auftraggebers • 4 Punkte: Das Leistungsangebot des Bieters ist der Zielerreichung in besonderer Weise dienlich",
+      "length_tokens": 223,
+      "structure_path": "LV Leistungsbeschreibung > 1.1 Grundlagen für weiteres Vorgehen > 2.11 Wertungsmatrix"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "2.12 Bewerbergemeinschaften",
+      "block_id": "q-84b2dd33-cab1-5b07-856c-f2151ed4d315",
+      "text": "2.12 Bewerbergemeinschaften\n\nBewerbergemeinschaften sowie die Vergabe von Unteraufträgen für einzelne Teilbereiche des Auftrages sind möglich. Aus dem Angebot muss jedoch die genaue Aufgabenteilung ersichtlich sein und eine Gesamtprojektleitung als zentrale Ansprechstelle für den Auftraggeber benannt werden.",
+      "length_tokens": 36,
+      "structure_path": "LV Leistungsbeschreibung > 1.1 Grundlagen für weiteres Vorgehen > 2.12 Bewerbergemeinschaften"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "2.13 Zusätzliche Bewerbungsbedingungen",
+      "block_id": "q-cb9b80fc-bc09-55eb-b068-c6a4f2fb2634",
+      "text": "2.13 Zusätzliche Bewerbungsbedingungen\n\n1. Zahlungen\n\nDem Angebot ist ein Zahlungsplan mit der Bezifferung von Abschlagszahlungen beizufügen.\n\n2. Honorarvertrag\n\nDem Angebot ist der Entwurf eines Dienstleistungsvertrags beizufügen. Diese Ausschreibungsunterlagen werden Bestandteil des Vertrages.\n\n3. Herausgabeanspruch des Auftraggebers\n\nDie vom Auftragnehmer im Zusammenhang mit dem Auftrag erarbeiteten Daten und Unterlagen sind dem Auftraggeber auf Verlangen, spätestens jedoch mit der Schlussrechnung auszuhändigen. Der Auftragnehmer hat diese Daten und Unterlagen auch bei einer Kündigung des Vertrages oder bei Rechtsstreitigkeiten auf Verlangen des Auftraggebers unverzüglich herauszugeben. Die vom Auftragnehmer erarbeiteten Daten und Unterlagen werden Eigentum des Auftraggebers. Zurückbehaltungs- rechte des Auftragnehmers sind ausgeschlossen. Dieser Ausschluss gilt nicht, soweit die Gegenforderung des Auftragnehmers unbestritten oder rechtskräftig festgestellt worden ist.\n\n4. Urheberrecht\n\nDer Auftraggeber darf die Leistungen des Auftragnehmers auch vor ihrer Veröffentlichung ohne dessen Mitwirkung und ohne zusätzliche Kosten auf alle Arten nutzen, nutzen lassen und ändern; das- selbe gilt auch für das ausgeführte Werk. Der Auftraggeber wird den Auftragnehmer vor wesentlichen Änderungen eines nach dem Urheberrecht geschützten Werkes – soweit zumutbar – anhören. Der Auftraggeber hat das Recht zur vollständigen oder auszugsweisen Erstveröffentlichung unter Hinweis auf den Auftragnehmer. Hat der Auftraggeber die Leistungen des Auftragnehmers geändert, so bedarf die Nennung des Auftragnehmers dessen vorherigen Zustimmung. Der Auftragnehmer stimmt der Veröffentlichung mit Vertragsabschluss zu.",
+      "length_tokens": 208,
+      "structure_path": "LV Leistungsbeschreibung > 1.1 Grundlagen für weiteres Vorgehen > 2.13 Zusätzliche Bewerbungsbedingungen"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "Leistungsverzeichnis: Datenplattform",
+      "block_id": "q-6ad40235-ea3a-5a6f-9881-901943ea04d2",
+      "text": "Leistungsverzeichnis: Datenplattform",
+      "length_tokens": 2,
+      "structure_path": "LV Leistungsbeschreibung > Leistungsverzeichnis: Datenplattform"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "3.1 Funktionale Anforderungen",
+      "block_id": "q-dc8d5e75-d196-57ab-925b-c50c37ef419e",
+      "text": "3.1 Funktionale Anforderungen\n\nDas vorliegende Leistungsverzeichnis dient der Beschaffung und Implementierung aller mit der Datenplattform verbundenen Leistungen des AN und seiner im Bedarfsfall notwendigen Unterauftrag- nehmer. Alle hierfür notwendigen Leistungen sind Bestandteil dieses Loses und sind vom AN vollständig zu erbringen. Dies gilt insbesondere für alle hierfür notwendigen Konfigurations- und Versorgungsleistungen. Ferner hat der Bieter im Zuge der Angebotsstellung im Rahmen eines ersten zeitlichen und technischen Realisierungs- und Inbetriebnahme-Konzepts darzulegen, welche Softwarekomponenten im Detail eingesetzt werden. Der AG beabsichtigt die Implementierung einer Datenplattform, welche eine zentrale Funktion des beabsichtigten intelligenten Besucherlenkungssystems (BLS) für die Region darstellt.",
+      "length_tokens": 96,
+      "structure_path": "LV Leistungsbeschreibung > 1.1 Grundlagen für weiteres Vorgehen > 3.1 Funktionale Anforderungen"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "3.2 Allgemeine Anforderungen",
+      "block_id": "q-9af834a8-c368-5ff0-a8bf-f71963cd5628",
+      "text": "3.2 Allgemeine Anforderungen\n\nSämtliche im Rahmen des Projektes erhobenen Daten sowie von weiteren Quellen angebundene Daten müssen aggregiert und in der vom AN zu implementierenden Datenplattform abgebildet und über Schnittstellen an Drittsysteme weitergeleitet werden. Auf der Datenplattform ist die Errechnung von Echtzeitdaten, Prognosen und Alternativvorschlägen für BesucherInnen (z.B. zu Ausflugszielen und Parkplätzen) wichtiger funktionaler Bestandteil. Dabei müssen insbesondere die Bereiche Verkehr und Parkraum in Echtzeit ausgegeben und prognostiziert werden. Diese Prognosen müssen durch den Einsatz von künstlicher Intelligenz im Laufe der Zeit verbessert werden können. Die Datenplattform muss folgende grundlegende Anforderungen erfüllen: • Sammlung, Aufbereitung und Verschneidung aller im Projekt erhobenen sowie von weiteren Quellen angebundenen Daten • Implementierung eines KI-Prognosemoduls (z.B. Lernen aus historischen Daten, Abgleich mit Urlaubszeiten und Informationen aus Sensorik) • Erstellung von Vergangenheits- und Echtzeit-Analysen zur\n\no Auslastung von Parkplätzen in der Region\n\no Auslastung des Verkehrsraums in der Region\n\n• Erstellung von Prognosen mit KI-Modul zur\n\no Parkplatzauslastung in der Region (v.a. relevant, da auch Parkplätze bestehen, die\n\nnicht in die Erhebung integrierbar sind.)\n\no Auslastung des Verkehrsraums in der Region\n\n• Auswertung von Alternativvorschlägen (im Hinblick auf Parkplätze und Ausflugsziele) • Aufbereitung der errechneten Echtzeitdaten, Prognosen sowie Alternativvorschläge zur Endkunden-Kommunikation in analogen und virtuellen Ausgabekanälen • Datenaustausch (Input und Output) mit Drittsystemen • Darstellung von Informationen, Analysen, Ergebnissen und Prognosen auf einer Benutzeroberfläche • Aufbereitung der Informationen, Empfehlungen und Prognosen zur Weitergabe und Ausspielung an Drittsysteme • Darstellung von Zustandsinformationen (Betriebszustand, Gerätestatus, Störungsmeldungen) der angebundenen Sensorik sowie zukünftige Ausspielungskanäle. Der AN hat im Zuge der Angebotserstellung im Rahmen der Konzepterstellung auf diese Anforderungen einzugehen und weitere Funktionsvorschläge und Beschreibungen zu Fähigkeiten der Datenplatt- form zu liefern und darzulegen. Die Datenplattform hat die Analyse- und Prognoseergebnisse an zukünftige Drittsysteme und weitere bestehende Ausgabekanäle wie z.B. Infotafeln, Webseiten, Ausflugsticker usw. über entsprechende Schnittstellen weiterzuleiten. Der AN hat sicherzustellen, dass eine weitere Schnittstelle zur Mobilithek des Bundesministeriums für Digitales und Transport (BMDV) implementiert werden kann. Die vom AN zu liefernden und vollständig zu konfigurierenden Analyse- und Auswertungsfunktionen sollen aktuelle und historische Verkehrs- und Parkdaten verarbeiten. Neben der Funktionalität automatisierter Auswertungen mit inkludierter Meldungsgenerierung bei Überschreitung von definierten Schwellwerten soll das Datenplattform-System dem AG auch die Möglichkeit der manuellen Auswertung von Daten bieten. Ergänzend zu den vorgenannten Punkten sind nachfolgende Anforderungen zwingend zu berücksichtigen: • Zentrale Datenhaltung der erfassten Betriebs- und Zustandsdaten • Übergeordnete Verwaltung, Bedienung und Steuerung des Gesamtsystems • Schnittstellen zu den relevanten Drittsystemen (z.B. Datenquellen, Ausgabekanäle und weitere externe Datenbanken) (weitere Informationen unter dem Abschnitt „Systemschnittstel- len“) • Die Datenplattform muss über einen vorhandenen Arbeitsplatz des AG über einen WebBrowser zur vollständigen Konfiguration, Bedienung und Versorgung des BLS genutzt werden können • Nutzung einer beim AN verorteten kontinuierlichen Datensicherung und zur verlustfreien Systemwiederherstellung im Falle eines vollständigen und dauerhaften Systemausfalls",
+      "length_tokens": 455,
+      "structure_path": "LV Leistungsbeschreibung > 1.1 Grundlagen für weiteres Vorgehen > 3.2 Allgemeine Anforderungen"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "3.3 Datensicherung",
+      "block_id": "q-bd4f950c-eb1b-5726-bd64-59ce0667e083",
+      "text": "3.3 Datensicherung\n\nDas System muss mit einer kontinuierlichen (tagesaktuellen) Datensicherung ausgestattet sein. Hierbei erfolgt auf ein vom AN zur Verfügung gestelltes Netzlaufwerk eine zyklische Datensicherung zur verlustfreien Systemwiederherstellung im Falle eines vollständigen und dauerhaften Systemausfalls. Hierbei ist sicherzustellen, dass im Fall von Elementarschäden o.ä. am beim AN gehosteten Plattform-System die Datensicherung weiterhin zur Verfügung steht und nicht verloren gehen kann.",
+      "length_tokens": 60,
+      "structure_path": "LV Leistungsbeschreibung > 1.1 Grundlagen für weiteres Vorgehen > 3.3 Datensicherung"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "3.4 Systemschnittstellen",
+      "block_id": "q-0481ed76-45f5-5765-809f-8eac8dbf48a8",
+      "text": "3.4 Systemschnittstellen\n\nWie bereits beschrieben, sind Systemschnittstellen zu Drittsystemen (Sensorik und zukünftigen Anzeigesystemen) zu realisieren. Dies beinhaltet sowohl die eigentliche Realisierung als auch die Ab- stimmung mit den Herstellern der Drittsysteme. Hierzu ist anzumerken, dass die Schnittstellenspezifikationen und Interpretationen des jeweiligen Drittsystems vom Datenplattform-System zu adaptie- ren sind. Die Abstimmung der relevanten Dateninhalte erfolgt im Zuge des Pflichtenheftes. Grundsätzlich muss die Plattform dazu in der Lage sein, offene und standardisierte Schnittstellenformate als Eingangsschnittstellen zu unterstützen sowie als Ausgangsschnittstellen zur Verfügung zu stellen. Im Folgenden sind die Eingangs- sowie Ausgangsschnittstellen aufgelistet und als verpflichtend bzw. optional kategorisiert. Der AN hat im Zuge der Angebotsstellung im Rahmen der Konzepterstellung auf die Schnittstellen einzugehen und darzulegen, welche Systeme unterstützt werden. Eingangssystemschnittstellen bzw. -anbindungen: • Verpflichtend:\n\no MQTT\n\no REST API\n\no Digitale Parkraumbewirtschaftung in Absprache mit dem AG\n\no Mobilithek (standardisierte Schnittstelle auf dem nationalen Zugangspunkt des Bundes)\n\no schon bestehende Dataplattformen in der SGR zur Integration touristischer Daten\n\nvon Veranstaltungen, Ausflugszielen, etc.) • Optional:\n\no Anbindung von weiteren Sensorik-Anbietern, die nicht Teil von AP1 sind\n\no Anbindung weiterer digitaler Parkraumbewirtschaftungs-Systeme\n\no Wetterdaten\n\no Echtzeitinformationen des ÖPNV\n\no Auslastungsdaten von anderen Anbietern in der Smarten Grenzregion\n\nAusgangssystemschnittstellen bzw. -anbindungen: • Verpflichtend:\n\no MQTT\n\no REST API\n\no Mobilithek (standardisierte Schnittstelle auf dem nationalen Zugangspunkt des Bundes)\n\no Infoscreens und Parkraummanagement-Systeme der Partner im Verkehrsraum\n\no Web-Applikationen",
+      "length_tokens": 223,
+      "structure_path": "LV Leistungsbeschreibung > 1.1 Grundlagen für weiteres Vorgehen > 3.4 Systemschnittstellen"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "3.5 Latenzzeiten",
+      "block_id": "q-406c1c37-5f72-504e-aaba-5b6a93892b6c",
+      "text": "3.5 Latenzzeiten\n\nSeitens des Datenplattform-Systems sind maximale Latenzzeiten von 10 Sekunden zulässig. Im konkreten Projektkontext wird unter Latenzzeit der Zeitraum zwischen dem Zeitpunkt des Datenein- gangs aus dem Sensorik-System (AP 1) oder anderen Datenquellen (Drittsysteme) bis hin zur Datenübertragung der Analyse- und Prognoseergebnisse sowie weitere Informationen an Drittsysteme (AP\n\n3) verstanden.\n\nEine Latenzzeit unter 2 Sekunden wird angestrebt.",
+      "length_tokens": 58,
+      "structure_path": "LV Leistungsbeschreibung > 1.1 Grundlagen für weiteres Vorgehen > 3.5 Latenzzeiten"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "3.6 Bedienclients",
+      "block_id": "q-55c6b787-7e7f-5e4c-97df-4a99fb7c393f",
+      "text": "3.6 Bedienclients\n\nDie Clients sind als „Web-Clients“ auszuführen und unterliegen der in diesem Leistungsverzeichnis umrissenen Zugriffs- und Benutzerorganisation. Bedienaktionen des Benutzers dürfen keine unangemessenen Wartezeiten aufweisen (z.B. Reaktion der Bedienstationen auf Benutzereingaben).",
+      "length_tokens": 32,
+      "structure_path": "LV Leistungsbeschreibung > 1.1 Grundlagen für weiteres Vorgehen > 3.6 Bedienclients"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "3.7 Nichtfunktionale Anforderungen",
+      "block_id": "q-48d9cc70-e00f-55f6-9b62-c58f19f83c1c",
+      "text": "3.7 Nichtfunktionale Anforderungen",
+      "length_tokens": 3,
+      "structure_path": "LV Leistungsbeschreibung > 1.1 Grundlagen für weiteres Vorgehen > 3.7 Nichtfunktionale Anforderungen"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "3.7.1 Zeitliches Migrationskonzept und Anforderungen",
+      "block_id": "q-c354a529-5dec-5473-8637-9cb374757966",
+      "text": "3.7.1 Zeitliches Migrationskonzept und Anforderungen\n\nAufgrund der umfangreichen Systemtechnik ist vom Bieter im Zuge der Angebotserstellung im Vergabeverfahren ein erstes (technisches und zeitliches) Konzept zum Aufbau und sukzessiven Anschluss aller Subsysteme vorzulegen und im Auftragsfall im Rahmen des Pflichtenheftes detailliert zu konkretisieren. Ausdrückliches Ziel ist die Einhaltung der im Weiteren aufgeführten zeitlichen und technischen Rahmenbedingungen und Vorgaben. Jedwede Abweichung ist unzulässig.",
+      "length_tokens": 61,
+      "structure_path": "LV Leistungsbeschreibung > 1.1 Grundlagen für weiteres Vorgehen > 3.7 Nichtfunktionale Anforderungen > 3.7.1 Zeitliches Migrationskonzept und Anforderungen"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "3.7.2 Lizenzen",
+      "block_id": "q-d58782f9-6a26-5b8c-a4e2-071044e7a082",
+      "text": "3.7.2 Lizenzen\n\nLeistungsgegenstand der vorliegenden Ausschreibung sind alle für das vollständige DatenplattformSystem benötigten Lizenzen. Diese sind als unternehmensweite Floating-Lizenz ohne Begrenzung von Systemkomponenten und User sowie für eine evtl. spätere Systemerweiterung zu verstehen. Ferner müssen diese Lizenzen auch ggf. notwendige Testsysteme inkludieren und alle zeitlichen Vorgaben der Ausschreibung berücksichtigten. Der AN stellt dem AG die technische Möglichkeit und Berechtigung zur Verfügung, während der Laufzeit des SaaS-Vertrags auf die Software zuzugreifen und die Funktionalitäten der Software zu nutzen. Rechte, insbesondere an der Software, den zugehörigen IT-Services oder den ggf. bereitgestellten Infrastrukturleistungen im jeweiligen Rechenzentrum erhält der AG, wenn es sich um eine projektspezifische Programmierung einer Funktion handelt.",
+      "length_tokens": 106,
+      "structure_path": "LV Leistungsbeschreibung > 1.1 Grundlagen für weiteres Vorgehen > 3.7 Nichtfunktionale Anforderungen > 3.7.2 Lizenzen"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "3.7.3 Skalierbarkeit",
+      "block_id": "q-b7d2578c-2f8d-557c-a551-3166a5741dc3",
+      "text": "3.7.3 Skalierbarkeit\n\nDas angebotene System ist hinsichtlich der Skalierbarkeit ohne weitere Ergänzungen des Systems für mindestens nachfolgenden Ausbaustand auszulegen: • Das System muss langfristig auf eine landesweite Nutzung ausgelegt sein. Dementsprechend müssen Bedienclients gleichzeitig auf / mit dem System ohne nennenswerte Reaktionszeiten (< 1 Sekunde) arbeiten können. • Die Skalierbarkeit soll applikationsintern alle notwendigen Software-Komponenten und Lizenzen umfassen.",
+      "length_tokens": 58,
+      "structure_path": "LV Leistungsbeschreibung > 1.1 Grundlagen für weiteres Vorgehen > 3.7 Nichtfunktionale Anforderungen > 3.7.3 Skalierbarkeit"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "3.7.4 Systemverfügbarkeit",
+      "block_id": "q-ad75bf2e-9c3e-521e-b633-fca523f6a8a8",
+      "text": "3.7.4 Systemverfügbarkeit\n\nDas Gesamtsystem ist für eine Systemverfügbarkeit von mindestens 99% auszulegen.",
+      "length_tokens": 12,
+      "structure_path": "LV Leistungsbeschreibung > 1.1 Grundlagen für weiteres Vorgehen > 3.7 Nichtfunktionale Anforderungen > 3.7.4 Systemverfügbarkeit"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "3.7.5 Bedienoberflächen",
+      "block_id": "q-28d1c731-6531-506b-bc63-a36f478712eb",
+      "text": "3.7.5 Bedienoberflächen\n\nDie gesamte Bedienoberfläche der Plattform ist in deutscher Sprache auszuführen und hat auf aktuellen Webtechnologien aufzubauen. Insbesondere sind hierbei nachfolgende Anforderungen zu erfüllen: • Die Aktualisierung der dynamischen Darstellungen erfolgt fortlaufend und im Idealfall in Echtzeit (maximal ≤ 5 Sekunden nach Dateneingang). • Die Plattform muss dem AG die Möglichkeit geben, die angeschlossenen Systemkomponenten auf der Feldebene (Sensoren, etc.) und deren Betriebsstatus (sowohl statische als auch dynamische Inhalte) auf einer graphischen Oberfläche übersichtlich und zusammenfassend darzustellen. • Die graphische Oberfläche (geografische Karte der Region) der Datenplattform muss eine Layer-Technik nutzen, die es erlaubt, individuelle Filter zur Nutzung der einzelnen Layer zu konfigurieren. Ferner müssen diese von den Benutzern individuell ein- und ausschaltbar sein. • Das System muss mit einer mehrstufigen, anpassbaren Nutzerrechte- und Rollenverwaltung umgesetzt werden.",
+      "length_tokens": 128,
+      "structure_path": "LV Leistungsbeschreibung > 1.1 Grundlagen für weiteres Vorgehen > 3.7 Nichtfunktionale Anforderungen > 3.7.5 Bedienoberflächen"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "3.7.6 Systemstandort",
+      "block_id": "q-9d5dd671-7bd5-54aa-b070-e5595ba7db0d",
+      "text": "3.7.6 Systemstandort\n\nDer AN hat die Vorgaben der Ausschreibungsunterlagen einzuhalten und sicherzustellen, dass das System den deutschen Datenschutzgesetzen sowie der DSGVO-Konformität unterliegt und sich das Rechenzentrum in Europa befindet.",
+      "length_tokens": 29,
+      "structure_path": "LV Leistungsbeschreibung > 1.1 Grundlagen für weiteres Vorgehen > 3.7 Nichtfunktionale Anforderungen > 3.7.6 Systemstandort"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "3.7.7 Datenrechte",
+      "block_id": "q-e7d8432b-cd33-595b-80e0-46a5bc7f77e2",
+      "text": "3.7.7 Datenrechte\n\nDas Urheberrecht der erzeugten und verarbeiteten Daten liegt ausschließlich und zeitlich unbefristet bei dem AG, der ATS. • Das Urheberrecht umfasst dabei das uneingeschränkte und zeitlich unbefristete Nutzungsrecht des AG an den erzeugten und verarbeiteten Daten. Das Nutzungsrecht umfasst dabei auch die Übertragung der Nutzungsrechte an Dritte (z.B. eine Gemeinde oder einen Landkreis der Region), das Recht zu einer Open Data-Veröffentlichung unter einer vom AG frei wählbaren Datenlizenz sowie jedwedes Recht zu einer beliebigen Weiterverarbeitung. • Eine Datennutzung der erzeugten und verarbeiteten Daten durch den AN ist gesondert schriftlich zu vereinbaren. Ein Zugriff bzw. alternative Bereitstellung der Rohdaten durch den AN ist grundsätzlich technisch möglich und ist im Angebotspreis enthalten.",
+      "length_tokens": 112,
+      "structure_path": "LV Leistungsbeschreibung > 1.1 Grundlagen für weiteres Vorgehen > 3.7 Nichtfunktionale Anforderungen > 3.7.7 Datenrechte"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "3.7.8 Redundanzen",
+      "block_id": "q-690e6626-91f1-5a10-8c3b-5b5855a2fce1",
+      "text": "3.7.8 Redundanzen\n\nGrundsätzlich ist vom AN sicherzustellen, dass hinsichtlich Bedienung und Versorgung keine Redundanzen entstehen.",
+      "length_tokens": 15,
+      "structure_path": "LV Leistungsbeschreibung > 1.1 Grundlagen für weiteres Vorgehen > 3.7 Nichtfunktionale Anforderungen > 3.7.8 Redundanzen"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "3.7.9 IT-Sicherheit",
+      "block_id": "q-c87a9619-d627-53ec-a8ea-fca30f1ef96d",
+      "text": "3.7.9 IT-Sicherheit\n\nEs sind die Anforderungen hinsichtlich DSGVO und ISO 27018 vom Bieter im Zuge der Angebotsstellung und im Rahmen der Realisierung zu berücksichtigen. Ein entsprechender Nachweis ist im Auf- tragsfall vom AN zu erbringen.",
+      "length_tokens": 35,
+      "structure_path": "LV Leistungsbeschreibung > 1.1 Grundlagen für weiteres Vorgehen > 3.7 Nichtfunktionale Anforderungen > 3.7.9 IT-Sicherheit"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "3.7.10 Einheitliche Zeitbasis",
+      "block_id": "q-2fa69611-89dc-5b20-adb3-4fa3af084600",
+      "text": "3.7.10 Einheitliche Zeitbasis\n\nDer AN hat sicherzustellen, dass sämtliche Systemkomponenten eine einheitliche Zeitbasis nutzen. Diese muss mit den anzubindenden Drittsystemen synchronisiert werden. Hierbei muss sichergestellt sein, dass die Zeitbasis identisch mit der der Drittsysteme ist.",
+      "length_tokens": 35,
+      "structure_path": "LV Leistungsbeschreibung > 1.1 Grundlagen für weiteres Vorgehen > 3.7 Nichtfunktionale Anforderungen > 3.7.10 Einheitliche Zeitbasis"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "3.7.11 Cloud-System",
+      "block_id": "q-9997d6f5-00ef-599d-a5e8-abca41d935e7",
+      "text": "3.7.11 Cloud-System\n\nDie Datenplattform ist als ein Cloud-System auszurichten. Die Server beziehungsweise Cloud-Infrastruktur-Instanzen und alle für den ordnungsgemäßen Betrieb benötigten Komponenten sind als Leis- tungsgegenstand des AN zu verstehen. Der Bieter hat im Zuge seines Angebotes alle diesbezüglichen Softwarekomponenten inkl. Datensicherung dezidiert zu beschreiben.",
+      "length_tokens": 44,
+      "structure_path": "LV Leistungsbeschreibung > 1.1 Grundlagen für weiteres Vorgehen > 3.7 Nichtfunktionale Anforderungen > 3.7.11 Cloud-System"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "3.8 Anzubietende Dienstleistungen",
+      "block_id": "q-de7ae0f5-116a-55a9-8ef0-2bbcae81bea3",
+      "text": "3.8 Anzubietende Dienstleistungen\n\nNeben den bereits im Vorfeld beschriebenen Leistungen zur Installation, Konfiguration, Inbetriebnahme, Optimierung und Abnahme sind die im Nachfolgenden aufgeführten Dienstleistungen vom Bieter im Zuge der Angebotsstellung im technischen Realisierungs- und Inbetriebnahme-Konzept darzulegen und anzubieten. Grundsätzlich wird darauf hingewiesen, dass die Projektsprache Deutsch ist. Die Projektkommunikation, sämtliche Dokumentationen sowie die Bedienoberflächen der Softwarekomponenten müssen in deutscher Sprache erfolgen bzw. ausgeführt werden.",
+      "length_tokens": 63,
+      "structure_path": "LV Leistungsbeschreibung > 1.1 Grundlagen für weiteres Vorgehen > 3.8 Anzubietende Dienstleistungen"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "3.9 Detailplanung",
+      "block_id": "q-9c950782-0044-5c35-99cd-be9be70121b9",
+      "text": "3.9 Detailplanung\n\nDer AN hat basierend auf den Vorgaben der vorliegenden Leistungsbeschreibung eine Detailplanung des zu realisierenden Systems durchzuführen. Diese muss auf Grundlage der jeweiligen systemspezifischen Anforderungen der vom AN angebotenen Komponenten erfolgen. Hierbei ist sicherzustellen, dass die Ziele und Anforderungen der vorliegenden Ausschreibung zur Gänze erfüllt werden. Diese Detailplanung ist dem AG zur Freigabe vorzulegen. Im Verlauf dieser Planung sind ferner die organisatorischen und technischen Belange der Installation zu klären. Der AG unterstützt den AN bei der Einholung von Genehmigungen. Es wird darauf hingewiesen, dass Änderungen – welche im Zuge der Detailplanung im Vergleich zur Vorabplanung entstehend können – keine wirtschaftlichen Auswirkungen für den AG haben dürfen. Vom Bieter wird erwartet im Zuge der Angebotsstellung das vollständige und finale DatenplattformSystem pauschal anzubieten.",
+      "length_tokens": 123,
+      "structure_path": "LV Leistungsbeschreibung > 1.1 Grundlagen für weiteres Vorgehen > 3.9 Detailplanung"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "3.10 Abstimmungsleistungen",
+      "block_id": "q-a54f937b-443e-51b7-aa01-03e49effc275",
+      "text": "3.10 Abstimmungsleistungen\n\nDer Bieter hat im Zuge seiner Angebotsstellung sämtliche softwaretechnischen Abstimmungsleistungen mit dem AG und den jeweiligen Systemherstellern der anzubindenden Drittsysteme zu berück- sichtigen und in sein Angebot mit einzurechnen. Diese Leistungen beinhalten auch die aktive Teilnahme an einem Integrationsworkshop mit den weiteren Systemherstellern der anzubindenden Drittsysteme nach Auftragsvergabe.",
+      "length_tokens": 50,
+      "structure_path": "LV Leistungsbeschreibung > 1.1 Grundlagen für weiteres Vorgehen > 3.10 Abstimmungsleistungen"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "3.11 Pflichtenheft und Abnahmespezifikation",
+      "block_id": "q-a04b19aa-280a-5008-9de2-cec5d9d5f824",
+      "text": "3.11 Pflichtenheft und Abnahmespezifikation\n\nDer AN hat nach Auftragserteilung ein Pflichtenheft zu erstellen, in dem er alle Komponenten der Datenplattform spezifiziert. Hieraus müssen alle Aufgaben und Funktionen der einzelnen Komponenten eindeutig hervorgehen. Es wird ausdrücklich darauf hingewiesen, dass der AN eigenständig und umfassend das von ihm vorgesehene System beschreiben muss. Das Dokument ist als eigenständiges Dokument (d.h. ohne, dass im Zuge der Pflichtenheftprüfung die vorliegende Leistungsbeschreibung oder das im Zuge der Angebotsstellung erstellten technischen Realisierungs- und Inbetriebnahme-Konzept des Bieters zu Rate gezogen werden müssen) zu erstellen. Das Pflichtenheft ist dem AG vorzulegen und wird von ihm oder seinem Vertreter hinsichtlich der Erfüllung der in dieser Leistungsbeschreibung definierten funktionalen und nichtfunktionalen Anforde- rungen, aber auch bezüglich der Erfüllung der oben beschriebenen eindeutigen Transparenz geprüft. Einen weiteren Bestandteil des Pflichtenheftes stellt die Abnahmespezifikation dar. Diese basiert auf dem im Zuge der Angebotsstellung erstellten technischen Realisierungs- und Inbetriebnahme-Konzept des Bieters und ist von ihm im Zuge der Pflichtenhefterstellung zu entwickeln und dem AG zur Prüfung und Freigabe vorzulegen. Hierbei erfolgt die Definition der im Zuge der Abnahme vom AN nachzuweisenden Leistungsinhalte durch den AG. Dies geschieht durch eine Zuordnung der konkreten Abnahmemethode je funktionaler oder nichtfunktionaler Anforderung des Pflichtenheftes gemäß nachfolgender Klassifikation: • N = nicht abnahmerelevant • B = Beurteilung der vorgeschlagenen Lösung im Vorfeld der Abnahme • A = Aufmaß • T = Testfall • G = Vom Systemlieferanten garantierte Leistung/Funktion. Für alle mit der Abnahmemethode „T“ klassifizierten Anforderungen sind vom AN Testfälle zum Nachweis der Leistungserbringung in einem separaten Testfalldokument zu erstellen und dem AG zur Prüfung und Freigabe vorzulegen. Hierin müssen je Testfall mindestens folgende Anforderungen spezifiziert sein: • Erforderliche Voraussetzungen für die Durchführung (Testrahmen, beteiligte Systeme und Komponenten, Versorgungsdaten, Testwerkzeuge, …). • Die eigentliche Durchführung samt den erwarteten Ergebnissen. • Wann ein Test als bestanden, teilweise oder nicht bestanden spezifiziert wird. Die iterative Vorgehensweise zur Pflichtenhefterstellung und Erstellung der Abnahmespezifikation ist vom Bieter in seinem Angebot einzurechnen.",
+      "length_tokens": 319,
+      "structure_path": "LV Leistungsbeschreibung > 1.1 Grundlagen für weiteres Vorgehen > 3.11 Pflichtenheft und Abnahmespezifikation"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "3.12 Systemdokumentation",
+      "block_id": "q-dc004487-56da-5e0a-81d8-62ed44759dd9",
+      "text": "3.12 Systemdokumentation\n\nAufbauend auf dem Pflichtenheft ist vom AN eine ausführliche Dokumentation der gelieferten Teilsysteme und Systemkonfigurationen gefordert. Diese Dokumentation ist abnahmerelevant. Zu den von ihm zu liefernden Systemdokumentationen zählen insbesondere: • Systembeschreibung\n\no Systemübersicht mit Darstellung aller Softwarekomponenten\n\no Datenbankstruktur\n\no Erstversorgung des Gesamtsystems\n\no Vollständige Spezifikationen aller externen Systemschnittstellen\n\no Installationsübersicht\n\no Übersichtspläne\n\no sowie Beschreibung aller Kommunikationskomponenten.\n\n• Wartungsdokumentation • Administrator-Dokumentation • Anwenderdokumentation.",
+      "length_tokens": 66,
+      "structure_path": "LV Leistungsbeschreibung > 1.1 Grundlagen für weiteres Vorgehen > 3.12 Systemdokumentation"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "3.13 Installations- und Versorgungsleistungen",
+      "block_id": "q-b0962de4-1e3e-5ff7-b914-f3e13de08192",
+      "text": "3.13 Installations- und Versorgungsleistungen\n\nZum Liefer- und Leistungsumfang gehören alle Administrations-, Konfigurierungs- und Erstversorgungsdienstleistungen, die für eine betriebsfertig eingerichtete Datenplattform erforderlich sind. Hierzu zählen insbesondere die Grundversorgung für Betrieb, Kommunikation und Datenaustausch, Störungsüberwachung, Visualisierung des Betriebszustands, sowie Persistenz und Protokollierung der Prozess- und Versorgungsdaten. Sollten vom AN im Zuge der Versorgung ergänzende Informationen benötigt werden, so sind von ihm für diese Anfrage entsprechende Listen vorzubereiten und dem AG zur Vervollständigung vorzulegen. Nicht explizit benannte, jedoch aus Sicht des AN zum ordnungsgemäßen Betrieb des Systems notwendige Versorgungs- und Konfigurationsarbeiten, sind vom Bieter im Zuge der Angebotsstellung zu beschreiben und im Angebot einzurechnen. Das System muss so übergeben werden, dass alle in dieser Leistungsbeschreibung beschriebenen Funktionen ohne weitere Arbeiten durch den Betreiber genutzt werden können. Zusammenfassend bedeutet dies, dass die Lieferung eines vollständig in Betrieb befindlichen Systems, einschl. der Migration, Anbindung und ggf. notwendigen Konfiguration aller Systemkomponen- ten, sowie Abstimmung mit dem AG (und Dritten) und Anschluss des Systems an die vom AG zur Verfügung zu stellenden Infrastruktur- und Netzwerkkomponenten Ausschreibungsgegenstand ist.",
+      "length_tokens": 170,
+      "structure_path": "LV Leistungsbeschreibung > 1.1 Grundlagen für weiteres Vorgehen > 3.13 Installations- und Versorgungsleistungen"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "3.14 Schulung",
+      "block_id": "q-7afbf5d1-4994-5053-b72f-43d8d82f72d7",
+      "text": "3.14 Schulung\n\nDer AN hat nach Auftragserteilung im Zuge des Pflichtenheftes ein aussagekräftiges Schulungskonzept darzulegen. Dieses muss sich an den Anforderungen der späteren Betreiber und Nutzer des Sys- tems orientieren und ganztätige Schulungstermine beim AG umfassen. Hierbei sind die jeweiligen Tätigkeitsschwerpunkte der zu schulenden Nutzerrollen (Administrator, Bediener, Qualitätssicherer, etc.) zu berücksichtigen. Die jeweiligen Schulungsteilnehmer werden vom AG ausgewählt. Inhalte müssen u.a. sein: • Administration, Pflege, Wartung • Möglichkeiten der Fehlerdiagnose • Vorgehensweise bei Fehlverhalten des Systems • Bedienung, projektspezifischer Gebrauch • Bedeutung der verschiedenen Systemzustände • Verantwortlichkeiten von Betreiber und AN • Übungen aller relevanten Bedienfunktionen Die genauen Inhalte sind mit dem AG abzustimmen, in einer Agenda zu verbreiten und müssen nachfolgende zeitliche Gliederung berücksichtigen: • Basisschulung • Aufbauschulung",
+      "length_tokens": 119,
+      "structure_path": "LV Leistungsbeschreibung > 1.1 Grundlagen für weiteres Vorgehen > 3.14 Schulung"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "3.15 Wartungsvertrag",
+      "block_id": "q-a29756a0-67d2-56fa-901f-067208462af0",
+      "text": "3.15 Wartungsvertrag\n\nLeistungsgegenstand der vorliegenden Ausschreibung ist ein Wartungsvertrag, welcher die vollständige Wartung aller Softwarebestandteile der Datenplattform umfasst. Zu den zwingend einzuhaltenden Rahmenbedingungen und Mindestanforderungen zählen insbesondere folgende Aspekte: • Reaktionszeiten\n\no Betriebsverhindernder Mangel: 2h\n\no Betriebsbehindernder Mangel: 4h\n\no Leichter Mangel: 10h\n\n• Die Einhaltung der nachfolgenden Wiederherstellungszeiten für die Plattformsoftware\n\no Betriebsverhindernder Mangel: 24 h\n\no Betriebsbehindernder Mangel: 50 h\n\no Leichter Mangel: 100 h\n\n• Servicezeiten (Nur zu diesen Zeiten gelten für die oben genannten Reaktions- und Wiederherstellungszeiten)\n\no Werktags: 08 – 17 Uhr\n\n• Telefonische Hotline für Fragen des AG zur Datenplattform\n\no Werktags: 08 – 17 Uhr\n\n• Wiederherstellung und Aufrechterhaltung der Betriebsbereitschaft:\n\no Der AN verpflichtet sich zum einen bei Auftreten von Störungen die Betriebsbereitschaft wiederherzustellen und zum anderen geeignete Maßnahmen für die Aufrecht-\n\nerhaltung der Betriebsbereitschaft zu ergreifen. Hiervon ausgenommen sind die auftraggeberseitigen Beistellungen. Die Vergütung hierfür ist über die monatliche Ser- vicepauschale abgedeckt. • Überlassung von verfügbaren Programmständen\n\no Für die durch den AN zugekaufte Software sind bei Verfügbarkeit von Patches, Updates und Upgrades diese nach Aufforderung durch den AG kostenfrei zu überlassen\n\nund ins System einzuspielen. Neue Releases/Versionen bleiben unberücksichtigt\n\no Für die individuelle Software des IPS und für die Sicherheitssoftware sind Patches,\n\nUpdates und Upgrades unverzüglich kostenfrei zu überlassen und ins System einzuspielen. Gleiches gilt für die Überlassung von Releases / Versionen. • Beginn der Gewährleistung, des Gefahrenübergangs und der Systemserviceleistungen\n\no Mit dem Tag nach der Abnahme des Systems\n\n• Dauer des Vertrages\n\no Der Vertrag wird für die Dauer von 6 Monaten abgeschlossen. Eine Kündigung ist bei\n\nAblauf der 3 Monate nicht nötig. Dem Angebot ist eine Preisindikation für eine jährliche Verlängerung der Artungskosten beizufügen • Kündigungsfrist nach Ablauf der Mindestvertragsdauer\n\no drei Monate zum Ablauf der Laufzeit\n\n• Vergütung\n\no Die Vergütung für die Wartung erfolgt halbjährlich pauschal, ab dem Kalendermonat,\n\nder auf die Abnahme folgt. Der Bieter im Zuge der Angebotsabgabe im separaten Preisblatt die Zusammensetzung des Angebotspreises darzulegen. • Zahlungsfristen\n\no Der Anspruch auf Vergütung besteht jeweils zum Ende eines Halbjahres für die vorangegangenen Monate. Als Zahlungsziel werden 14 Tage vereinbart.\n\n• Weiterentwicklung des Systems\n\no Wird gesondert nach Bedarf gegen Aufwand vergütet.\n\n• Die Anforderungen aus den vorangegangenen Kapiteln sind ebenfalls zu berücksichtigen. Der AN hat im Zuge der Angebotsstellung im Rahmen der Konzepterstellung auf den Wartungsvertrag einzugehen. Der AN hat zusätzlich Aussagen über Erreichbarkeit sowie Reaktionszeiten an Sonn- und Feiertagen zu treffen. Der AG fordert, dass eine eventuelle Abkündigung der Softwarepflege der Individualsoftware frühestens nach 5 Jahren nach Abnahme des Gesamtsystems unter Berücksichtigung der entsprechenden Abkündigungsfristen erfolgen darf. Die Datenplattform ist für eine Lebensdauer von mindestens 10 Jahren auszulegen. Alle in diesem Zeitraum ausfallenden Komponenten der Software sind im Rahmen des Wartungsvertrages für den AG kostenneutral auszutauschen. Es sind daher alle softwareseitigen Leistungen des AN für den ordnungsgemäßen Betrieb der Plattform während des gesamten Nutzungszeitraums Leistungsgegen- stand des Wartungsvertrages. Erklärend wird darauf hingewiesen, dass während der Gewährleistungsdauer auch die Sensorik im Gewährleistungsfall vom AN für den AG kostenneutral ausgetauscht werden muss. Nach Ablauf der Gewährleistungsdauer erfolgt die Vergütung je nach Aufwand, welcher vom Bieter im Zuge seiner Angebotsstellung benannt werden muss. Inhalt der Systempflege sind u.a. auch Updates und Upgrades, so diese den für den ordnungsgemäßen Betrieb notwendig sind und umfassen u.a. auch gegebenenfalls notwendige Release Updates im Falle von Betriebssystemupdates oder anderen Software-Anpassungen. Sollte der Bieter im Zuge seines Angebotslegung Anregungen oder Konkretisierungsvorschläge haben, so sind diese im Rahmen von Bieterfragen zu stellen. Übergreifende Anforderungen und Liefervoraussetzungen",
+      "length_tokens": 575,
+      "structure_path": "LV Leistungsbeschreibung > 1.1 Grundlagen für weiteres Vorgehen > 3.15 Wartungsvertrag"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "4.1 Inbetriebnahme und Abnahme der Datenplattform",
+      "block_id": "q-76869665-df3d-585f-8299-2bcdfad3f01c",
+      "text": "4.1 Inbetriebnahme und Abnahme der Datenplattform\n\nDie Implementierung und Abnahme der Datenplattform gliedern sich in folgende Stufen: • Detailplanung der Datenplattform in Abstimmung mit den weiteren Projektbeteiligten durch den AN. • Pflichtenheftphase mit dem Ergebnis der Freigabe des Pflichtenheftes und der Abnahmespezifikation durch den AG. • Installation und Inbetriebnahme der Datenplattform. • Interne Vorabnahme aller Leistungen auf Grundlage der Abnahmespezifikation durch den AN mit dem Ziel des vollständigen Nachweises der Leistungserbringung und Übermittlung der Abnahmeergebnisse an den AG zur Freigabe des Starts des Testbetriebs. • Testbetrieb mit der Dauer von 5 Tagen zum Nachweis des AN, dass das gelieferte Plattformsystem vollständig, voll funktionsfähig und fehlerfrei ist. Der erfolgreiche – fehlerfreie – Testbetrieb ist Voraussetzung für die darauffolgende Funktionsabnahme. Sollte im Zuge des Testbetriebs ein Mangel festgestellt werden, so beginnt der 5-tägige Testbetrieb nach Behebung des Mangels durch den AN erneut. Der AN hat dem AG detaillierte Testprotokolle vor Abnahme vorzulegen. • Abnahme / Funktionsabnahme (Dauer 5 Tage) auf Basis der Abnahmespezifikation beim AG. Sollten aufgrund von festgestellten Mängeln erneute Termine (Nachabnahme) resultieren, so sind die hierdurch entstehenden Kosten (auch von Dritten) alleinig durch den AN zu tragen.",
+      "length_tokens": 187,
+      "structure_path": "LV Leistungsbeschreibung > 1.1 Grundlagen für weiteres Vorgehen > 4.1 Inbetriebnahme und Abnahme der Datenplattform"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "4.2 Zeitplanung inklusive Meilensteine",
+      "block_id": "q-300c782c-0b07-53d8-8936-736218c77dcf",
+      "text": "4.2 Zeitplanung inklusive Meilensteine\n\nDie zeitlichen Vorgaben bzw. Meilensteine der besonderen Vertragsbedingungen sind für den Bieter verbindlich und sind von ihm mittels eines Zeitplans im Zuge des Angebots zu detaillieren. Der Zeitplan fließt in die Wertung des Konzepts mit ein.",
+      "length_tokens": 40,
+      "structure_path": "LV Leistungsbeschreibung > 1.1 Grundlagen für weiteres Vorgehen > 4.2 Zeitplanung inklusive Meilensteine"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "4.3 Zahlung",
+      "block_id": "q-cfeb9fcc-5201-5fb1-bc31-65600966a443",
+      "text": "4.3 Zahlung\n\nDie Zahlung einmaliger Kosten zu Beginn der Implementierung im Hinblick auf die Integration und Schnittstellenherstellung vom AG an den AN ist bis spätestens 14 Tage nach Rechnungsstellung und der erfolgreichen Abnahme der vollständigen Datenplattform fällig. Die Vergütung für die laufenden Kosten bzw. Lizenz der Datenplattform erfolgt halbjährlich pauschal, ab dem Kalendermonat, der auf die Abnahme folgt. Der Bieter hat im Zuge der Angebotsabgabe im separaten Preisblatt die Zusammensetzung des Angebotspreises darzulegen. Hierbei sind vom Bieter auch die laufenden Kosten bis zum Ende des Ge- samtprojektes STR (Ende 2023) darzulegen. Zur Information und Wertung hat der Bieter ebenfalls laufende Kosten für die Vertragslaufzeit von 5 Jahren bzw. nach 2023 anzugeben. Für die Angebotswertung hinsichtlich der Preis-Obergrenze von 395.000 Euro netto werden lediglich die angegebenen Kosten bzw. Preise bis Ende 2023 herangezogen.",
+      "length_tokens": 132,
+      "structure_path": "LV Leistungsbeschreibung > 1.1 Grundlagen für weiteres Vorgehen > 4.3 Zahlung"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "4.4 Angebotserstellung",
+      "block_id": "q-2452fed2-9fcd-5e98-b263-f9ec73bc6eb8",
+      "text": "4.4 Angebotserstellung\n\nMit Abgabe eines Angebots bestätigt der Bieter: • Dass der Angebotspreis die vollständige und finale Datenplattform pauschal umfasst. • Dass die angebotene Datenplattform in Leistung und Umfang vollständig den Anforderungen der Verdingungsunterlagen entspricht und eine vollständige Detektion aller geforderten Aufgabenbereiche umfasst. • Dass eine voll funktionsfähige Datenplattform installiert und in Betrieb genommen wird • Dass alle hierfür notwendigen Versorgungs-, Prüf- und Abnahmeleistungen Bestandteil des Angebots sind. • Dass den Bedingungen der Vergabeunterlagen zustimmt wird.",
+      "length_tokens": 76,
+      "structure_path": "LV Leistungsbeschreibung > 1.1 Grundlagen für weiteres Vorgehen > 4.4 Angebotserstellung"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "4.5 Gewährleistungsdauer",
+      "block_id": "q-f270a218-86b6-5ee9-a3ed-46d28f3b5ec4",
+      "text": "4.5 Gewährleistungsdauer\n\nDie Gewährleistungsdauer für die Datenplattform beläuft sich auf 5 Jahre.",
+      "length_tokens": 12,
+      "structure_path": "LV Leistungsbeschreibung > 1.1 Grundlagen für weiteres Vorgehen > 4.5 Gewährleistungsdauer"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "4.6 Kurzkonzept zur Kommunikation",
+      "block_id": "q-ac2b7c07-8699-54fa-92c5-c55b65dfb3bc",
+      "text": "4.6 Kurzkonzept zur Kommunikation\n\nAufgrund des innovativen und bislang einzigartigen Charakters des Projektes in der Smarten Grenzregion werden den nach außen gerichteten Kommunikationskanälen zur Ausspielung der Informatio- nen, Erkenntnisse und Meldungen von Echtzeitdaten, Prognosen und Alternativvorschlägen in den detektierten Aufgabenbereichen an die Besucher der Smarten Grenzregion große Bedeutung zugeschrieben. Da perspektivisch die Kommunikation in einer separaten Ausschreibung geplant ist, for- dert der AG vom Bieter eine erste grobe Ausarbeitung und Darlegung geeigneter Kommunikationsmaßnahmen in einem Kurzkonzept (max. 3 DIN A4 Seiten). Der Bieter hat dabei auf folgende Aspekte einzugehen: • Entwicklung einer passenden Kommunikationsstrategie • Aufarbeitung, Auswahl und Empfehlung geeigneter Maßnahmen, Ausspielungskanäle, Kommunikationswege und ggf. Ortsempfehlungen zur Lenkung der Besucherströme • Realisierung und Implementierung der vorgeschlagenen Kommunikations- und Ausspielungskanäle",
+      "length_tokens": 119,
+      "structure_path": "LV Leistungsbeschreibung > 1.1 Grundlagen für weiteres Vorgehen > 4.6 Kurzkonzept zur Kommunikation"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "0. Verständnis der Aufgabenstellung",
+      "block_id": "a-4061a73a-7d4c-5fad-aded-9dd849515504",
+      "text": "0. Verständnis der Aufgabenstellung\n\nDie Kreise Nordfriesland, Schleswig-Flensburg und die Stadt Flensburg, die gemeinsam die Smarte Grenzregion zwischen den Meeren repräsentieren, haben für Mitte 2023 die Umsetzung mehrerer Smart City -Testanwendungen geplant. Hierbei soll parallel eine IoT-Datenplattform aufgebaut werden, die als Ausgabeebene für die Anwendungen dient und die regionale Datenintegration ermöglicht. Das Ziel des Smart City Modellprojekts \"Smarte Grenzregion zwischen den Meeren\" besteht darin, eine regionale Datenplattform aufzu bauen, die als Grundlage für alle smarten Anwendungen in der Region dient. Dadurch sollen regionale und kommunale Daten besser integriert, ausgetauscht und in den Verwaltungsalltag eingebunden werden können. Zudem soll die Plattform auch Daten aus Fachanwe ndungen zur Verfügung stellen, sowohl für die Öffentlichkeit als auch für neue Anwendungsfälle wiederverwendbar sein. Die Datenplattform stellt somit eine grundlegende Infrastruktur für die zukünftige Digitalisie- rung dar. In einem ersten Schritt sollen nun die ersten drei Use Cases auf der neu entstehenden Datenplattform entwickelt werden. Ein wichtiger Aspekt dabei ist die mandantenfähige Plattform, die sicher- stellt, dass auch andere Kommunen die Infrastruktur nutzen können. Um die Zukunftsfähigkeit der Pl attform zu gewährleisten, werden Skalierung, Modularisierung, Flexibilität, Technologieoffenheit und In- teroperabilität als wichtige Faktoren betrachtet. Abbildung 1: Digital vernetzte Smarte Grenzregio n. Quelle: KI -P GmbH",
+      "length_tokens": 200,
+      "structure_path": "CONCEPT Konzept > 0 Verständnis der Aufgabenstellung"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "1. Einführung in die angebotene offene, urbane Plattform nach der DIN SPEC 91357",
+      "block_id": "a-e7f8b6e1-da5e-5748-ab52-c91d8d31a2d7",
+      "text": "1. Einführung in die angebotene offene, urbane Plattform nach der DIN SPEC 91357\n\nEgal, ob es um digitale Behörden, intelligente Mobilitätslösungen oder smarte Services geht: immer mehr Städte machen sich mit Smart-City -Projekten auf den Weg in eine digital vernetzte Zukunft. In intelligent vernetzten Städten und Regionen\n\n– Smart Cities und Smart Region\n\nen – tragen digitale Technologien zu Problemlösungen bei, erhöhen Teilhabe und Lebensqualität für Bürgerinnen und Bürger, führen zu mehr Nachhaltigkeit und steigern die Zukunfts\n\n- und Wettbewerbsfähigkeit der Städte\n\nund Regionen. Die Digita lisierung von Kommunen dient dabei sowohl im sozialen, ökologischen wie auch ökonomischen Sinne nachhaltigen Zielen und darf diesen nicht entgegenwirken. Eine solche, bewusst gesteuerte digitale Transformation unterstützt lokale Wertschöpfung, Kreislaufwir tschaft und nachhaltige Lebensstile. Die Smart e Region erweitert das Instrumentarium der nachhaltigen und integrierten Stadt - bzw. Regionen entwicklung, um technische Komponenten, sodass die Gesellschaft, der Mensch und seine Lebensgrundlagen zukünftig stär ker im Mittelpunkt und Bewusstsein stehen. Dabei wird die aktuell geltende DIN SPEC 91357 berücksichtigt, die ein Referenzarchitekturmodell in Form eines kubischen Schichtenmodells für urbane Datenplattformen beschreibt. Dadurch werden neben der Architektur technischer Gegenstände (Assets) in Form von Schichten (Layers) auch Beschreibung, Lebenslauf und Zuordnung zu technischen beziehungsweise organisatorischen Hierarchien ermöglicht. Aktuell befindet sich in Ergänzung die DIN SPEC 91377 „Datenmodelle und Protokolle in offenen urbanen Plattformen“ i n der Entwicklung. Die DIN SPEC 91377 soll dabei Klarheit in Standards über die Dateninteroperabilität bereitstellen und einen freien Informationsaustausch gewährleisten, um somit Kommunen eine optimale Datennutzung bieten zu können. Die Bewerbergemeinscha ft verfolgt dieses Geschehen in regelmäßigen zeitlichen Abständen und bezieht etwaige Neuerungen der DIN-Vorgaben in das laufende Projekt ein. Das Angebotsportfolio der B ewerber gemeinschaft Digitale Zukunft (BeGe Digitale Zukunft) ermöglicht die ganzheitliche Begleitung und Entwicklung der urbanen Datenplattform mit den gewünschten Funktionalitäten. Neben der Umsetzung der 3 Showcases im Rahmen der Testanwendungen zu Beginn , reicht das Portfolio von der Strategie und Konzeption, über die physische Infrastruktur, das Datenmanagement sowie darauf aufbauend die Definition und Entwicklung individuelle r Anwendungen für die Bürger, Besucher und Verwaltu ng, wodurch wir in der Lage sind, den gemeinsamen innovativen Entwicklungsprozesses mit der Smarten Grenzregion ganzheitlich zu begleiten. Dabei vereinen wir mit unseren jeweiligen Spezialisierungen und Kompetenzen ein Portfolio, zur Verknüpfung von Service und Content, um ganzheitliche Plattformen im Kontext einer Smart City zu konzipieren und entwickeln. Wir vereinen somit die Kompetenzen, Erfahrungen und Systembausteine in unsere m Portfolio und erfüllen damit das neue Paradigma von modernen Informations\n\n- und Kommunikationstechnologien (IKT)\n\n– nämlich „Everything as a Service“.\n\nAbbildung 2: Ganzheitliches Leistungsportfolio der Bewerbergemeinschaft Digitale Zukunft . Quelle: KI -P GmbH Im Rahmen des Leistungsangebot der BeGe Digitale Zukunft (im Folgenden auch Auftragnehmer oder AN) stellen wir die folgenden Kernkomponenten zur Verfügung:\n\n1) Projektmanagement und-organisation: Leitung und Management des Projektes nach Zeit,\n\nQualität und Budget a. Regelmäßige Abstimmungen vor Ort und in Präsenz b. Agile Entwicklung nach SCRUM\n\n2) Konzeption sowie\n\nProduktmanagement für die urbane Plattform und der angedachten Use Cases a. Definition der umzusetzenden Anforderungen gemeinsam mit dem AG b. Fachliche und technische Konzeption c. UX/ UI der Anwendungen d. Leitung der Entwicklung\n\n3) Entwicklung der\n\ndrei Showcases sowie einer möglichen nachgelagerten urbanen Datenp lattform a. Nutzung der bestehenden Module/ Komponenten des AN i. IoT Plattform in Form eines Kubernetes Clusters, das jederzeit um weitere Module erweitert werden kann. Dabei bietet die IoT Plattform die Möglichkeit zur Einbindung und Verwaltung von Sensoren sowie der Speicherung, Kategorisierung und Verarbeitung der Da ten ii. Smarte Karte iii. Identity und Data Management System zur Umsetzung des Rollen\n\n- und\n\nRechtemanagement für die Plattform und darauf aufbauender Anwendungen iv. SGR -Dashboard mit Smarter Karte zur Visualisierung der Daten, Verortung der Datenpunkte auf einer 2D oder 3D Karte v. Prozessmanagement: Berücksichtigung bestehender Abläufe für die reibungslose Einbettung des Dashboards und Automatisierungen in die System\n\n- und\n\nProzesslandschaft der Smarten Grenzregion b. Interoperabilität: Anbindung und Zusammenführung von Datenquellen unterschiedlicher Herkunft und Ausgabe über offene Schnittstellen (Open Data). c. Modularität: Das System zeichnet sich durch ein modulares Baukastensystem aus und ist jederzeit um weitere Datenquellen oder Use Cases erweiterbar (z.B. Sensordaten). d. Skalierbarkeit und Performanz: Das Systemsetup ermöglicht die Echtzeitdarstellung der Daten sowie eine dynamische Skalierbarkeit. e. Standard und Zertifizierung hinsichtlich Datenschutzes und Sicherheit: Der Standort der Server für das beschriebene System ist innerhalb der EU und ISO27001 zertifiziert. f. Open -Source: Das System basiert auf Open Source Komponenten.\n\n4) IT-Betrieb, Support, Wartung und Pflege der Plattform im produktiven Betrieb\n\nDurch die Möglichkeit auf bestehende Module der Bewerbergemeinschaft zurückzugreifen, ermöglichen wir eine Bereitstellung der Plattform im angestrebten Zeitraum des AG. Gleichzeitig werden im Rahmen des methodischen Vorgehens (Siehe Kapitel 2) ein iteratives und gemeinsames Vorgehen bei der Erarbeitung des Lastenheftes und entsprechender Technologieoffenheit gewährleistet. Die hierbei zu realisierende Testanwendungen können anschließend\n\n– gemäß des nachfolgend dargestellten Baukastenprinzips – jederzeit um weitere Use Cases oder Module ergänzt werden.\n\nAbbildung 3: Schaubild der modularen Plattformarchitektur . Quelle: Smart Platforms GmbH",
+      "length_tokens": 808,
+      "structure_path": "CONCEPT Konzept > 1 Einführung in die angebotene offene, urbane Plattform nach der DIN SPEC 91357"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "2. Methodisches Vorgehen und Projektmanagement",
+      "block_id": "a-cb87065b-e871-5530-a3a4-71cd5606f7f3",
+      "text": "2. Methodisches Vorgehen und Projektmanagement\n\nIm folgenden Kapitel gehen wir auf die vorgesehene Methodik zur erfolgreichen Umsetzung des Projektes ein.",
+      "length_tokens": 20,
+      "structure_path": "CONCEPT Konzept > 2 Methodisches Vorgehen und Projektmanagement"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "2.1. Methodisches Vorgehen mit Zeitplan",
+      "block_id": "a-5f7ff0cd-e989-5a4f-b86e-78d3269bca47",
+      "text": "2.1. Methodisches Vorgehen mit Zeitplan\n\nUm eine erfolgreiche Umsetzung des Projektes zu schaffen, unterteilen wir das Projekt in zwei Etappen: • Schritt 1: Im ersten Schritt liegt der Fokus auf der Definition der Anforderungen für die drei Showcases, um den intensiven Zeitplan zu gewährleisten • Schritt 2: Aufbauend auf den Showcases aus Schritt 1, erarbeiten wir das Laste nheft und Betreibermodell anhand eines Business Modell Canvas Schritt 1: Umsetzung der Showcases im angestrebten Zeitraum Der Zeitp lan des AG sieht vor, dass in der zweiten Woche nach Projektstart mit dem Setup der Datenplattform begonnen und bereits nach drei Wochen erste Visualisierungen abgebildet werden sollen. Die Einhaltung des Zeitplans spiegelt aus unserer Sicht die größte Herausforderung des Projektes wider. Um dieses Risiko zu mitig ieren und aus der Herausforderung eine Stärke für das Projekt zu entwickeln, plan t der AN für die erste Woche fünf Workshops mit dem Projektteam . Dies ist bereits im Angebot berücksichtigt und teilt sich wie folgt auf: • Tag 1: Workshop zur Projekt-Governance und einer Stakeholder-Analyse • Tag 2: Workshop zur Bestimmung des IoT Hubs, Aufnahme der Gateways, Anbindung der Sensorik und Datenquellen • Tag 3: Definition der fachlichen Anforderungen der Show Cases • Tag 4: Erarbeitung der Usability und Anwendungen • Tag 5: Business Model Canvas Für jeden der Workshops sind ca. 4 Stunden vorgesehen, bevorzugterweise am Vormittag. Dies ermöglicht es dem Produktteam am Nachmittag die Erkenntnisse zu dokumentieren und in die Vorbereitung des nächsten Tages einfließen zu lassen. Dieser iterative Prozess ermöglicht eine gemein same Definition der Anforderungen und Abnahmespezifikationen. Durch die Fokussierung in der ersten Woche des Projektes auf die wesentlichen und wichtigsten Faktoren zur Umsetzung der Show -Cases kann der Zeitplan gewährleistet und d ie Grundlage zum Aufbau einer nachhaltigen Datenplattform geschaffen werden. Neben dem Risiko des Zeitplans können durch eine frühe Aufnahme und Definition der Anforderungen und Kommunikationswege (Tag 1 und 2) die anderen beiden Risiken im Projekt angegangen werden. Diese sind aus unserer Projekterfahrung Folgende: • Integration der Sensorik und Anbindung der Datenquellen • Frühzeitige Integration aller relevanten Stakeholder Schritt 2: Erarbeitung des Lastenheftes und Betreibermodells Das Business Model Canvas ist ein hilfreiches Werkzeug, um die technischen, fachlichen, kaufmännischen und organisatorischen Anforderungen für den Aufbau und Betrieb einer urbanen Datenplattform zu erarbeiten. Es bietet folgende Vorteile: • Ganzheitlicher Ansatz: Das Business Model Canvas ermöglicht es, alle relevanten Aspekte eines Geschäftsmodells bzw. Betriebsmodells auf einer einzigen Seite zu erfassen. Es berücksichtigt nicht nur die technischen Anforderungen, sondern auch die finanziellen, organisatorischen und fachlichen Aspekte. Dadurch entsteht ein umfassendes Verständnis des Projekts. • Strukturierte Analyse: Das Canvas teilt das Geschäftsmodell in neun übersichtliche Bausteine auf. Jeder Baustein konzentriert sich auf eine spezifische Komponente des Geschäftsmodells, z. B. Schlüsselpartner, Wertangebote, Kundenbeziehungen usw. Dadurch w erden Analyse und Planung systematisch und strukturiert durchgeführt. o Identifiziere die Schlüsselpartner, z. B. Datenanbieter, Stadtverwaltung, Technologiepartner usw. o Definiere die Wertangebote der Datenplattform, zum Beispiel verbesserte Stadtplanung, effiziente Verkehrssteuerung, bessere Entscheidungsfindung usw. o Entwickle ein Einnahmemodell, um die Finanzierung des Projekts sicherzustellen, wie z. B. Abonnementgebühren, Datenmarktplatz oder datenbasierte Dienstleistungen. o Berücksichtige die wichtigsten Aktivitäten, Ressourcen und Partner, um die Datenplattform erfolgreich aufzubauen und zu betreiben. o Identifiziere die Zielkunden und deren Bedürfnisse, um die Plattform entsprechend auszurichten. • Zusammenarbeit und Kommunikation: Das Canvas fördert die Zusammenarbeit und Kommunikation innerhalb des Teams und mit den Stakeholdern. Es schafft eine gemeinsame Sprache und ein gemeinsames Verständnis für das Projekt. Durch die visuelle Darstellung des Canvas können komplexe Zusammenhänge leichter erklärt und diskutiert werden. • Flexibilität und Agilität: Das Canvas ist ein flexibles Werkzeug, das es ermöglicht, das Geschäftsmodell iterativ anzupassen und weiterzuentwickeln. Es kann leicht aktualisiert werden, wenn sich Anforderungen ändern oder neue Erkenntnisse gewonnen werden. Dadurch unterstützt es einen agilen Ansatz bei der Entwicklung der Datenplattform. • Risikominimierung: Durch die systematische Erfassung und Analyse aller relevanten Aspekte des Geschäftsmodells hilft das Canvas, potenzielle Risiken frühzeitig zu identifizieren. Es ermöglicht es, Risiken proaktiv anzugehen und geeignete Maßnahmen zu ergre ifen, um diese zu minimieren. • Innovationsfördernd: Das Canvas kann kreative und innovative Lösungen fördern, da es den Blick über einzelne Fachbereiche hinaus lenkt und die ganzheitliche Betrachtung des Geschäftsmodells ermöglicht. Durch die Identifizierung neuer Wertangebote, Schlüsse lpartner oder Einnahmequellen können innovative Ansätze entwickelt werden. Durch die Nutzung des Business Model Canvas als methodisches Konstrukt können die technischen, fachlichen, kaufmännischen und organisatorischen Anforderungen für den langfristigen Aufbau und Betrieb der urbanen Datenplattform strukturiert erarbeitet werden . Es unterstützt ein umfassendes Verständnis des Projekts, fördert die Zusammenarbeit und Kommunikation und ermöglicht eine flexible Anpassung des Geschäftsmodells. Gleichzeitig hilft es, Risiken zu minimieren und innovative Ansätze zu entwickeln. Zeitplan Der vom AG in den Vergabeunterlagen enthaltene Zeitplan skizziert die Entwicklung der einzelnen, in den Kapiteln beschriebenen Modulen. Der Zeitplan kann durch den AN gewährleistet werden, sofern die Schnittstellen von den Drittanbietern rechtzeitig zur Ve rfügung stehen. Zeitplan Projektwoche* Kernelement START DES PLANS DAUER DES PLANS 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 Kick-off, Abstimmungen 1 10 Workshop zur Anforderungsaufnahme 1 2 2 8 Bereitstellung und Konfiguration der Datenplattform Erste Visualisierung 3 5 4 6 Implementierung der Sensoren und Anbindung externer Schnittstellen 9 2 Start der Showcases der Stadt mit Visualisierung der erfassten Daten über das Dashboard Fehlerbehebung und Entwicklung Plattform 10 8 8 10 Schulung Arbeitsteam und techn. Mitarbeiter 18 2 Übergabe und Support, sowie Dokumentation * Annahme: Da der Projektstart noch nicht feststeht, basiert die Projektplanung auf Projektwochen, nach Auftragsbestätigung. Abbildung 4: Quelle: KI-P GmbH",
+      "length_tokens": 906,
+      "structure_path": "CONCEPT Konzept > 2 Methodisches Vorgehen und Projektmanagement > 2.1 Methodisches Vorgehen mit Zeitplan"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "2.2. Projektmanagement und agile Entwicklung",
+      "block_id": "a-77e4bc55-eaa7-565f-96f1-b2316c78fb7d",
+      "text": "2.2. Projektmanagement und agile Entwicklung\n\nDas Projektmanagementkonzept berücksichtigt zum einen die Anforderungen des \"klassischen\" Projektmanagements, der übergreifenden Projektsteuerung und sieht daneben eine agile Entwicklung auf Basis von Scrum als methodische Grundlage vor. Darüber hinaus ist auf Basis unserer Erfahrung aus vergleichbaren Projekten die frühzeitige Einbindung von relevanten Akteure n auf Augenhöhe ein entscheidender Erfolgsfaktor . Im Rahmen des Projektmanagementkonzeptes wird dies er in Form des Stakeholdermanagements und auf Basis agiler Entwicklung berücksichtigen. Das Grundprinzip der agilen Entwicklung ist ein iterativer und inkrementeller Ansatz für die Softwareentwicklung. Anstatt den gesamten Entwicklungsprozess von Anfang bis Ende zu planen, wird er in kurze, wiederholbare Zeiträume unterteilt, die als Sprints oder Iterationen bezeichnet werden. Jeder Sprint hat eine feste Dauer, normalerweise zwischen ein bis vier Wochen. In jedem Sprint wird ein funktionsfähiges Produktinkrement erstellt, das einen Mehrwert für den Kunden bietet. Die agile Entwick- lung basiert auf vier Kernwerten: Individuen und Interaktionen über Prozesse und Werkzeuge, funktionierende Software über umfassende Dokumentation, Zusammenarbeit mit dem Kunden über Vertrags- verhandlungen und Reagieren auf Veränderung über dem Befolgen eines starren Pl ans. Diese Werte betonen die Bedeutung von Flexibilität, Kommunikation und Zusammenarbeit. Ein agiles Entwicklungsteam arbeitet eng mit dem Kunden oder den Stakeholdern zusammen, um die Anforderungen zu ver- stehen und zu priorisieren. Anstatt alle Anforderu ngen zu Beginn des Projekts festzulegen, werden sie in Form von User Stories in kleinen, unabhängigen Aufgaben aufgeschlüsselt. Das Team wählt eine Menge von Aufgaben für jeden Sprint aus und arbeitet daran, sie in einem funktionsfähigen Produktinkrement u mzusetzen. Während des Sprints findet eine kontinuierliche Zusammenarbeit, Kommuni- kation und Anpassung statt. Das Team hält tägliche Stand -up-Meetings ab, um den Fortschritt zu besprechen und Hindernisse zu beseitigen. Am Ende jedes Sprints findet eine Übe rprüfung statt, bei der das Team das entwickelte Produktinkrement präsentiert und Feedback erhält. Basierend auf diesem Feedback und neuen Erkenntnissen kann das Team den Plan für den nächsten Sprint anpassen und Prioritäten neu festlegen. Durch diese iter ative Vorgehensweise ermöglicht die agile Entwicklung eine schnellere Reaktion auf Änderungen, eine kontinuierliche Verbesserung des Produkts und eine höhere Kundenzufriedenheit. Sie fördert auch die Zusammenarbeit und das Engagement aller Teammitglieder, da sie ständig in den Entwicklungsprozess einbezogen werden Dieses Vorgehen gewährleistet zum einen die Einhaltung des angestrebten Zeitplans des AG durch eine gemeinsame Priorisierung der Themen und zum anderen die Flexibilität Anforderungen und Veränderungen im Laufe des Projektverlaufs, insbesondere mit Blick au f die anderen Teilprojekte des Gesamtvorhaben „ Smarte Grenzregion“ und im Besonderen auf die anderen Lose dieser Ausschreibung, anzupassen.",
+      "length_tokens": 411,
+      "structure_path": "CONCEPT Konzept > 2 Methodisches Vorgehen und Projektmanagement > 2.2 Projektmanagement und agile Entwicklung"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "2.3. Projektsteuerung und Kommunikation",
+      "block_id": "a-d9c10c7a-1dc8-5efa-9ad2-648d31678302",
+      "text": "2.3. Projektsteuerung und Kommunikation\n\nFür eine erfolgreiche Projektdurchführung und damit verbundenes Projektmanagement stellen Transparenz, Kommunikation und Projektsteuerung wesentliche Eckp feiler der BeGe Digitale Zukunft dar. Die Kommunikation und enge Abstimmung mit dem Projektteam des AG und weiteren Stakeholdern (z.B. den Drittanbieter der Sensoren, verantwortliche Personen aus dem Tourismusbereich ) wird durch folgende Maßnahmen sichergestellt. • Kick -Off -Workshop mit dem AG und weiteren Stakeholdern • Regelmäßige Rückkopplungsgespräche mit der Projektleitung des AG ( aufgrund der engen Terminschiene empfehlen wir hierbei 1x pro Woche, Dauer: ca. 1 Stunde) • Monatliches Abstimmungsmeeting (Dauer: ca. 2h) Im Rahmen der Projektsteuerung werden durch den AN mit Projektteam folgende Aufgaben und Tätigkeiten standardmäßig übernommen. Weitere Aufgaben können in Abstimmung zwischen AG und AN übernommen werden. • Kontinuierliche Überwachung und Kontrolle des Projektfortschritts gegenüber dem Projektplan. • Im Falle negativer Abweichungen werden von der Projektplanung frühzeitig Gegenmaßnahmen ermittelt und der AG Änderungen vorgeschlagen. • Identifikation von Projektrisiken und Aufzeigen von geeigneten Maßnahmen zur Vermeidung oder Verringerung der Risiken. • Administrative Unterstützung (u.a. Organisation von Sitzungen, Ausrichtung von Telekonferenzen, Erstellung von Sitzungsagenden, Bereitstellung von Protokollen, Handhabung des Doku- mentationssystems, Koordinierung und Unterstützung bei der Ausarbeitung von D okumenten für den internen und externen Gebrauch). Für Sonderfälle (z.B. Kontaktbeschränkungen im Zuge einer Pandemie -Eindämmung) wurde ein Remote -Konzept entwickelt, in dem Tools zur Steuerung dieser Arbeit wie die Austauschplattform Miro oder Microsoft Lösungen wie Whiteboard oder Teams eingesetzt werden .",
+      "length_tokens": 232,
+      "structure_path": "CONCEPT Konzept > 2 Methodisches Vorgehen und Projektmanagement > 2.3 Projektsteuerung und Kommunikation"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "3. Leistungsbaustein 1: Aufsetzen und zur Verfügung stellen einer geeigneten IoT Plattform",
+      "block_id": "a-9c798752-5a55-5dee-92d7-1c85813417ea",
+      "text": "3. Leistungsbaustein 1: Aufsetzen und zur Verfügung stellen einer geeigneten IoT Plattform\n\nBeim Aufsetzen der IoT Plattform (auch LoRaWAN Netzwerk Servers (LNS) ) berücksichtigen wir die Anforderungen und Wünsche des AG s. Grundsätzlich übernimmt die I oT Plattform die Konnektivität, Verwaltung und Überwachung von Sensoren oder Geräten, Gateways und Endnutzeranwendungen . Die IoT Plattform kann flexibel und modular gestaltet werden , sodass diese auf Chirpstack oder TTN/TTI basier t und eine einfache Integration mit verschiedenen Systemen und Gateways ermöglicht. Unsere IoT Plattform unterstützt eine Vielzahl von Gateways und stellen sicher, dass unsere Plattform nahtlos mit diesen kommuniziert. Unabhängig vom Hersteller oder Protokoll gewährleisten wir eine reibungslose Integration und bieten Unterstützung für gängige IoT-Protokolle wie MQTT oder LoRaWAN. Dadurch ermöglichen wir Ihnen die Anbindung einer breiten Palette von Sensoren. Die IoT Plattform ermöglicht die Einbindung, Konfiguration und Verwaltung von Gateways. Es besteht die Möglichkeit Gateways zu registrieren , Kommunikationsparameter festzulegen und weitere Konfigurationen an den Gateways vorzunehmen , sodass alle eingebunden Gateways durch den AG selbstständig hinzugefügt, entfernt oder bearbeitet werden können. Zusätzlich dazu können die Gateways über die IoT Plattform überwacht werden, wodurch etwaige Ausfälle oder Fehlfunktionen frühzeitig erkannt, eingesehen und analysie rt werden können. Es besteht die Möglichkeit durch Benachrichtigungen direkt mit der Diagnose - und Fehlerbehebung zu starten. Eine Verschlüsselung für Datenübertragungen über LoRaWAN ist gewährleistet. In der ersten Workshopwoche wird die Umsetzung der Showcases gemeinsam erarbeitet. In der darauf anschließenden Konzeptionsphase des Business Model Canvas werden gemeinsam, u.a. relevante und nachhaltige Technologieentscheidungen, wie z.B. im Bezug auf die IoT Plattform getroffen.",
+      "length_tokens": 254,
+      "structure_path": "CONCEPT Konzept > 3 Leistungsbaustein 1: Aufsetzen und zur Verfügung stellen einer geeigneten IoT Plattform"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "4. Leistungsbaustein 2: Integration und Verwaltung der LoraWAN Sensorik",
+      "block_id": "a-67ea955a-5c45-58e1-8fc4-4b22e4bb1cf2",
+      "text": "4. Leistungsbaustein 2: Integration und Verwaltung der LoraWAN Sensorik\n\nUnsere IoT -Plattform bietet eine benutzerfreundliche Schnittstelle zur Verwaltung und Konfiguration von Sensoren. Sensoren – unabhängig ob LoRaWAN, NbIoT oder weitere können registriert, konfiguriert und üb erwacht werden. Für die Integration neuer Sensoren kann auf eine Sensorbibliothek zurückgegriffen werden , die relevante Informationen zu Sensoren zentral verwaltet. Hierzu zählen Typen\n\n- und Herstellerbezeichnung\n\n, Decoder zum Decodieren von Sensor -Payloads oder auch Informationen zu den Sensoren oder Sensorhersteller. Sind die Sensoren integriert besteht die Möglichkeit über die IoT Plattform die Sensoren zu verwalten und auch zu überwachen , z.B. hinsichtlich Sensorgesundheit . Es besteht eine Ansicht über die vorhandenen Se nsoren mit Status und der letzten gesendeten Nachricht, da die Sensorzustände permanent überwacht werden. Eine Gruppierung sowie Filterung der Sensoren sind ebenfalls möglich. Alle empfangenen Nachrichten können im jeweiligen Sensor eingesehen werden. Downlinks (Nachrichten an den Sensor) können direkt aus der Datendrehscheibe an einzelne Sensoren oder Broadcast Gruppen gesendet werden. Die Gerätekonfiguratio n erfolgt direkt aus der IoT Plattfor m. Nachfolgend ein e Auswahl bereits integrierter Sensoren (Stand 01/2023), die auch verschiedene Sensoren für die Parkraumdetektion (Boden - als auch optische Systeme) , Umwelt und Besucherlenkung umfassen. Abbildung 4: Auszug eingebundener Sensoren der Bewerbergemeinschaft Digitale Zukunft . Quelle: KI -P GmbH Preisindikation pro Sensortyp/Decoder zur Einbindung in die Plattform durch den AG: 375,00 EUR",
+      "length_tokens": 223,
+      "structure_path": "CONCEPT Konzept > 4 Leistungsbaustein 2: Integration und Verwaltung der LoraWAN Sensorik"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "5. Leistungsbaustein 3: Anbindung externer Datenquellen (Schnittstellen)",
+      "block_id": "a-e062ac60-90ec-5ff8-908c-affc11939782",
+      "text": "5. Leistungsbaustein 3: Anbindung externer Datenquellen (Schnittstellen)\n\nDas API -Management ermöglicht die Integration von Drittanbietersystemen und erweiterten IT Ökosystemen über Schnittstellen wie APIs, SDKs und Gateways. Es spielt eine wichtige Rolle an den Schnittstellen zu Datenquellen und Zielsystemen. Das API -Management stellt Funktionen und Eigenschaften für die Bereitstellung und Verwaltung von APIs bereit, einschließlich interner und externer APIs sowie Authentifizierungs\n\n- und Autorisierungs -APIs.\n\nBei der Konzeption des Systems haben wir Wert auf Interoperabilität mit Drittsystemen und Offenheit gelegt, gemäß den Standards der DIN S PEC 91357. Wir haben eine modulare Schnittstellenarchitektur gewählt, um zukünftige, derzeit möglicherweise unbekannte Schnittstellen einfach integrieren zu können. Die Architektur beinhaltet einen abstrakten Adapter, der die verschiedenen Protokolle und Date nformate der externen Schnittstellen vereinheitlicht und eine allgemeine Schnittstelle zum API Management definiert. Die Adapter übernehmen folgende Aufgaben: • Authentifizierung und Autorisierung gegenüber den Drittsystemen • Einhaltung von Berechtigungen und Datenschutzbestimmungen • Übersetzung von Anfragen und Antworten zwischen den Drittsystemen und der Plattform • Übersetzung oder Verknüpfung von unterschiedlichen Benutzer-IDs zwischen den Systemen • Orchestrierung von Anfragen an Drittsysteme innerhalb der Plattform • Weiterleitung relevanter Informationen an die Drittsysteme • Kommunikation mit den Drittsystemen über verschiedene Protokolle und Formate, einschließlich SOAP, REST, SAP Web Services, MQ/MQTT, Kafka, GraphQL, gRPC, RPC, Java RMI, SFTP sowie proprietäre und binäre Protokolle (sofern lizenzrechtliche Voraussetzungen e rfüllt sind) • Unterstützung verschiedener Datenformate wie JSON, XML, CSV, IDoc, EDIFACT usw. • Unterstützung spezifischer Kommunikationsarten wie synchrone und asynchrone Kommunikation oder Subscriptions Es gibt keine künstlichen Beschränkungen hinsichtlich Art und Inhalt der Kommunikation mit den Systemen.",
+      "length_tokens": 255,
+      "structure_path": "CONCEPT Konzept > 5 Leistungsbaustein 3: Anbindung externer Datenquellen (Schnittstellen)"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "5.1. Identity, Rollen und Berechtigungsmanagement",
+      "block_id": "a-01492406-8d02-53d2-82a4-e6dee9512b63",
+      "text": "5.1. Identity, Rollen und Berechtigungsmanagement\n\nDas Rollen - und Rechtemanagement spielt eine wichtige Rolle um den Zugriff auf Ressourcen zu steuern und sicherzustellen, dass nur autorisierte Benutzer (Systeme oder Menschen) auf bestimmte Funktionen zugreifen können. Für diese Aufgabe werden in der Datendrehscheibe die Standards Keycloak, OAuth2 und OpenID Conn ect verwendet. Keycloak ist eine Open -Source -Software, die eine umfassende Identity and Access Management (IAM)-Lösung bereitstellt. Es bietet Funktionen wie Benutzerverwaltung, Authentifizierung, Autorisierung und Single Sign-On (SSO). In der Datendrehsch eibe wird Keycloak eingesetzt, um Benutzerkonten zu verwalten, Rollen zuzuweisen und Zugriffsrechte zu vergeben. Keycloak unterstützt verschiedene Authentifizierungsmechanismen, einschließlich OAuth2 und OpenID Connect, um eine sichere und standardbasierte Authentifizierung und Autorisierung zu ermöglichen. OAuth2 ist ein offener Standard für die Autorisierung, der es einer Anwendung ermöglicht, im Namen eines Benutzers auf geschützte Ressourcen zuzugreifen. In der Datendrehscheibe wird OAuth2 verwendet, um die Kommunikation zwischen der Datendrehscheibe und den angebundenen Diensten zu sichern. Die Dienste können sich mithilfe des OAuth2 -Client -Credentials -Flows bei der Datendrehscheibe authentifizieren und Zugriffstoken erhalten, um auf die entsprechenden Ressourcen zuzugreifen. Dadurch wird gewährleistet, dass nur vertrauenswürdige Dienste auf die Daten der Datendrehscheibe zugreifen können. OpenID Connect ist ein auf OAuth2 basierendes Identitätsprotokoll, das zusätzlich zur Autorisie- rung auch die Authentifizierung von Benutzern ermöglicht. Es erlaubt Benutzern, sich mit ihren Anmeldedaten bei der Datendrehscheibe anzumelden, indem es eine si chere Kommunikation zwischen dem Identity Provider (Keycloak) und der Datendrehscheibe ermöglicht. Dadurch können Benutzer auf Basis ihrer Identität best immte Rollen und Zugriffsrechte erhalten. Das Rollen - und Rechtemanagement in der Datendrehscheibe basiert somit auf der Integration von Keycloak, OAuth2 und OpenID Connect. Keycloak verwaltet Benutzerkonten und Rollen, während OAuth2 und OpenID Connect eine sichere Authentifizierung und Autorisie rung zwischen der Datendrehscheibe und den angebundenen Diensten bzw. Benutzern gewährleisten. Durch diese Standards wird ein robustes und flexibles Rollen\n\n- und\n\nRechtemanagement implementiert, das eine feingranular e Kontrolle über den Zugriff auf Ressourcen in der Datendrehscheibe ermöglicht. Abbildung 5: SSO -Referenzarchitektur. Quelle: Smart Platforms GmbH Die abgebildete Referenzarchitektur zeigt die Kommunikationswege zwischen Anwendungen und dem SSO -Dienst und zwischen dem SSO -Dienst und einem weiteren federated Identity Provider (Active Directory). Zum Beispiel ist es so möglich, die Berechtigungen für die Mitarbeiter mit dem Active Directory des AG zu verwalten. Somit kann der AG nicht nur eigenständig und zentral über vorhandene Sy steme und Prozesse die Berechtigungen inkl. On-Boarding und Off-Boarding verwalten, sondern es werden die entsprechenden Kon zernrichtlinien für die IT -Sicherheit automatisch sichergestellt. Dies ermöglicht es den Administratoren von angebundenen Systemen ebenfalls ihre Mitarbeiter über das bestehende System (Active Directory, LDAP, SAML2) einzurichten, so wie Rollen und die ent sprechenden Berechtigungen zu verteilen. Die Anforderungen des AG hinsichtlich den vier Berechtigungsstufen für die Bürger, Kreis und Kommunalebene als auch das Projektteam der SGR können somit realisiert werden.",
+      "length_tokens": 460,
+      "structure_path": "CONCEPT Konzept > 5 Leistungsbaustein 3: Anbindung externer Datenquellen (Schnittstellen) > 5.1 Identity, Rollen und Berechtigungsmanagement"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "6. Leistungsbaustein 4: Verarbeitung und Speicherung der Sensordaten",
+      "block_id": "a-c68b4307-284f-51e5-a48e-a8227c067ad0",
+      "text": "6. Leistungsbaustein 4: Verarbeitung und Speicherung der Sensordaten",
+      "length_tokens": 8,
+      "structure_path": "CONCEPT Konzept > 6 Leistungsbaustein 4: Verarbeitung und Speicherung der Sensordaten"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "6.1. Datenspeicherung",
+      "block_id": "a-a65edc9d-281a-5fb7-919f-c788a71e4e18",
+      "text": "6.1. Datenspeicherung\n\nDie erfassten Sensordaten der Testanwendungen werden über eine Funkverbindung ( z.B. LoRaWAN) und MQTT der Datendrehscheibe bereitgestellt und zur persistenten Verfügbarkeit in entsprechenden relationalen Datenbanken gespeichert. Um einen Echtzeitschutz der Daten zu gewährleisten, erfolgt die Speicherung der Daten redundant in unterschiedlichen Umgebungen, mindestens auf täglicher Basis. Denkbar ist zudem die Sicherung der Daten über Backups, deren Frequenz durch den AG bestimmt werden kann. Der AG oder andere vom AG autorisierte Entitäten könn en somit über den gesamten Projektzeitraum, mindestens jedoch für 12 Monate auf die erfassten Daten zugreifen. Die Datenspeicherung in den Datenbanken erfolgt nach einer durchgängigen Modellierung (semantisch, logisch, physisch), um einerseits Nachvollzie hbarkeit und Verständnis zu gewährleisten, anderseits zur Datenqualität beizutragen. Dabei werden Informationen und Zusammenhänge zwischen den Datenquellen sowie die Metadaten der Quellsysteme, z.B. Sensor ID, Bezeichnung, Sensortyp oder Her- steller berücks ichtigt.",
+      "length_tokens": 138,
+      "structure_path": "CONCEPT Konzept > 6 Leistungsbaustein 4: Verarbeitung und Speicherung der Sensordaten > 6.1 Datenspeicherung"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "6.2. Datenverarbeitung und -verknüpfung",
+      "block_id": "a-44e3f43a-cda7-5c21-8e39-d30ed0b64c86",
+      "text": "6.2. Datenverarbeitung und -verknüpfung\n\nNeben der Integration und Bereinigung der Datensätze sind Funktionen vorgesehen, welche die Daten aus unterschiedlichen Datenquellen miteinander verknüpfen, und sinnvolle Einblicke und Erkenntnisse liefern. Dazu werden die Daten der Datendrehscheibe über MQTT an Node-RED übertragen. Node RED ist ein grafisches Entwicklungswerkzeug, das sich zur Bereinigung, Verarbeitung und Verknüpfung von Daten eignet. Es kö nnen beispielsweise Ausreißer normiert, die Berechnung mathematischer Funktionen (z.B. Mittelwert, M aximalwert oder Trends), logische Verknüpfungen zur Erlangung von Einblicken und Erkenntnisse aus den Daten sowie Konvertierung von Daten umgesetzt werden. Darüber hin- aus lassen sich in Node-RED Grenzbereiche und Regelwerke für Sensorwerte festlegen, bei deren Über oder Unterschreitung zuvor festgelegte Aktionen ausgelöst werden können (z.B. Benachrichtigungen oder Automatisierungen). Die im Open Source Tool Node-RED erstellen Flows zur Datenverarbeitung oder-verknüpfung können in JSON gespeichert werden. Für die Bedienbarkeit von Node-RED achten wir bei der Programmierung auf eine saubere und verständliche Dokumentation. Folgende Abbildung zeigt die Möglichkeit dies direkt in Node -RED vorzunehmen. Eine ordentliche Dokumentation in Verbindung mit der Eigenschaft, dass Node -RED ein grafisches Entwicklungswerkzeug darstellt, erleichtert die Bedienbarkeit für geschulte nicht -technische Mit arbeiter. Abbildung 6: Dokumentation von Codeinformationen in Node -RED. Quelle: KI -P G mbH Anzumerken an dieser Stelle ist, dass Node-RED lediglich ein e mögliche Software zur Verarbeitung von Daten darstellt. Aufgrund von Low-Code Eigenschaften eignet sie diese für die Realisierung erster Use Cases. Weitere Open -Source Tools, die in anderen Projekten ebenfalls eingese tzt werden, sind Telegraf oder Kafka. Die finale Auswahl wird zusammen mit dem AG abgestimmt. Die Integration weiterer Datenanalysemöglichkeiten oder-verfahren, z.B. der Einsatz von Methoden des Maschinellen Lernens (ML) oder Künstliche Intelligenz (KI) ist hierbei ebenfalls integrierbar. In Abstimmung mit dem AG wird hierbei bewertet werden, welche Art der Datenanalyse die beste Wahl darstellt.",
+      "length_tokens": 290,
+      "structure_path": "CONCEPT Konzept > 6 Leistungsbaustein 4: Verarbeitung und Speicherung der Sensordaten > 6.2 Datenverarbeitung und -verknüpfung"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "7. Leistungsbaustein 5: Visualisierung der Testszenarien und Automatisierungen",
+      "block_id": "a-b8479a3f-69be-5ffa-a90e-6d338ee4d580",
+      "text": "7. Leistungsbaustein 5: Visualisierung der Testszenarien und Automatisierungen\n\nUm die erfassten Daten in ansprechender Form aufzubereiten und verständlich darzustellen, werden die Daten der drei Use Cases über das SGR -Dashboard visualisiert und den Nutzern zur Verfügung gestellt. Bei der Ausgestaltung der geräteübergreifenden und responsiv funktionierenden Wen -Anwendung ist die enge Abstimmung mit dem AG und den beteiligten Nutzergruppen, z.B. verantwortliche des Tourismus oder Ansprechpersonen von KMU, zentraler Bestandteil. Für die Realisierung kann der AG aus einer Reihe von Option en auswählen, sei es die Bereitstellung über öffentlicher oder mit Passwort geschützter URLs oder über das zu hinterlegende Rollen\n\n- und Rechtemanagement.\n\nMit letztgenannten Rollen - und Rechtemanagement können die angesprochenen vier Berechtigungsstufen realisiert werden.",
+      "length_tokens": 114,
+      "structure_path": "CONCEPT Konzept > 7 Leistungsbaustein 5: Visualisierung der Testszenarien und Automatisierungen"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "7.1. Visualisierung der Testanwendungen im SGR-Dashboard",
+      "block_id": "a-b0471238-1013-55a0-a302-494ab333a913",
+      "text": "7.1. Visualisierung der Testanwendungen im SGR-Dashboard\n\nDie Visualisierung der Use Cases Erfassung der Besucherströme und Besucherlenkung, Optimierung von Monitoring und Management -Prozessen im Bereich Grünflächen und Naturschutz und Parkraumüberwachung erfolgt im CI des AG, u.a. mit Einbindung des gemeinsamen Logos und der Farben . Durch die Verwendung des existierenden Web-Frameworks stehen neben der geräteübergreifenden und responsiven Funktionsfähigkeit zudem eine Reihe an Visualisierungsformen zur Echtzeit -Darstellung der Testanwendungen im SGR -Dashboard zur Verfügung. Seien es beispielsweise Zahlenwerte zur Anzeige der freien Parkplätze verbunden mit ausgewählten Icons, Verlaufsgrafiken über den zeitlichen Verlauf de r Bodenfeuchtigkeit der Grünflächen oder die Verortung des Besucheraufkommens am Weltkulturerbe in Haithabu auf einer 2D oder 3D Karte. Die folgende Abbildung zeigt eine Auswahl an möglichen Visualisierungsformen in bereits realisierten Anwendungen. Aspekte der Barrierefreiheit werden durch Einbezug g eeignete r Tests, z.B. einen Screenreader, ebenso berücksichtigt, wie eine einfache Sprache. Auf Wunsch kann im Smarten Cockpit für jede Testanwendung eine Kurzbeschreibung angezeigt werden, um den Bürger den Zweck und Nutzen der Testanwendungen zu erläutern wodurch Interesse, Verständnis und Akzeptanz zunehmen können. Die Beschreibungen würden ei ner festzulegenden Struktur folgen, z.B. Problem, Lösung und Mehrwert, die ebenso wie die Texte im Vorfeld abgestimmt würden. Abbildung 7: Auswahl an Visualisierungsoptionen inkl. 3D Kartendarstellung. Quelle: KI-P GmbH Zu erwähnen ist hierbei, analog zur urbanen Datenplattform, die Flexibilität und Modularität des Dashboards. Dadurch können jederzeit weitere Use Cases hinzugefügt und bestehende Use Cases erweitert werden. Auch im Hinblick auf die Einbindung bestehender K MU oder anderer Interessensgruppen.",
+      "length_tokens": 245,
+      "structure_path": "CONCEPT Konzept > 7 Leistungsbaustein 5: Visualisierung der Testszenarien und Automatisierungen > 7.1 Visualisierung der Testanwendungen im SGR-Dashboard"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "7.2. Automatisierung und Initiierung bedarfsgerechter Aktionen",
+      "block_id": "a-907fec5a-c381-539c-9334-4b181298d664",
+      "text": "7.2. Automatisierung und Initiierung bedarfsgerechter Aktionen\n\nUm neben der Visualisierung der Daten , die aus den gesammelten Daten abgeleitete Erkenntnisse den Nutzern zur Ver fügung zu stellen , ist eine Überführung in die sogenannten Aktionsebene besonders wichtig. Durch die Definition von Regeln und die Aufnahme bestehender Prozesse, bzw. Modellierung neuer Prozesse, können für die Use Cases Aktionen, z.B. in Form von Benachrichtigungen bei Unterschreitung des Schwellenwerts für Bodenfeuchte sensoren, abgeleitet werden. Hierbei sind neben E Mails und SMS -Nachrichten (beim SMS -Versand würden gesonderte Kosten anfallen) diverse Schnittstellen zu Messaging-Portalen wie WhatsApp, Signal & Telegram, aber auch zu Softwareprogrammen wie Microsoft Teams vorhanden. Über die Benachrichtigungen sind die betroffenen Personen i n der Lage auf die Veränderungen mit bedarfsgerecht Maßnahmen zu handeln, z.B. durch die Bewässerung aufgrund des niedrige Feuchtigkeitswert im Boden. Neben informativen Benachrichtigungen sind auch direkte Automatisierungen von Aktoren und Anzeigen möglic h. Nahezu alle Steuerungen, welche eine über das Internet abrufbare Schnittstelle (z.B. REST API oder MQTT) haben, lassen sich direkt ansteuern. Damit können Pumpen zur Bewässerung ssteuerung angesteuert, Daten auf öffentlichen Displays angezeigt oder persp ektivisch die S traßenbeleuchtungen aktiviert werden. Um eine reibungslose Integration neuer Technologien und Werkzeuge, wie z.B. das SGR -Dashboard darstell t, zu ermöglichen, bietet die BeG e Digitale Zukunft außerdem Module des Prozessmanagements an. Hierbei werden bestehende oder neue Abläufe aufgenommen und modelliert, analys iert und optimiert sowie anschließend durch die Einbettung von digitalen Tools realisiert. Dies stellt die Basis zur Digitalisierung und Automatisierung von Prozessen dar . Zu welchem Zeitpunkt dies Bestandteil des Projekts wird, kann mit dem AG abgestimm t werden. Abbildung 8: Beispielhafte Benachrichtigung in Form einer E-Mail, nachdem ein kritischer Co2 -Wert überschritten wurde (umgesetzt in Node-RED). Quelle: KI -P GmbH",
+      "length_tokens": 284,
+      "structure_path": "CONCEPT Konzept > 7 Leistungsbaustein 5: Visualisierung der Testszenarien und Automatisierungen > 7.2 Automatisierung und Initiierung bedarfsgerechter Aktionen"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "8. Leistungsbaustein 6: Betrieb der Plattform",
+      "block_id": "a-cb0378d9-44d5-5068-adc0-a02c6d4e2a70",
+      "text": "8. Leistungsbaustein 6: Betrieb der Plattform\n\nes gibt drei Varianten wie eine Mandantenfähigkeit realisiert werden kann. • Variante 1: Mandantenfähigkeit auf Cluster Ebene Dies bedeutet, dass für jeden Mandanten ein eigenes Cluster mit entsprechenden Instanzen eingerichtet, betrieben und verwaltet wird • Variante 2: Mandantenfähigkeit auf Instanz Ebene Dies bedeutet, dass für jeden Mandanten innerhalb eines Clusters eine eigene Instanz eingerichtet wird • Variante 3: Mandantenfähigkeit auf Service Ebene Dies bedeutet, dass die Services selbst mandantenfähig sind und somit ein neuer Mandant im selben Cluster und denselben Instanzen läuft Jede dieser Varianten hat technische, organisatorische und kaufmännische Implikationen und muss daher genau evaluiert werden. In den Workshopwoche wird die Umsetzung der Showcases gemeinsam erarbeitet. In der Konzeptionsphase des Business Model Canvas werden gemeinsam, u.a. relevante und nachhaltige Technologieent- scheidungen, wie z.B. die Verwendung von Service Architekturen, Mandanten fähigkeit usw.., getroffen. Die Plattform wird von Beginn an mandantenfähig aufgesetzt. Für das Setup und Konfiguration weiterer Mandanten muss jedoch eine zusätzliche Beauftragung erfolgen. Auch die Betriebskosten werden sich mit jedem weiteren Mandanten, abhängig vom Setup (Datenmengen, Schnittstellen u.s.w.) , erhöhen.",
+      "length_tokens": 177,
+      "structure_path": "CONCEPT Konzept > 8 Leistungsbaustein 6: Betrieb der Plattform"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "8.1. IT-Sicherheit",
+      "block_id": "a-866c556a-12ad-5f4c-8527-c10694ddfa56",
+      "text": "8.1. IT-Sicherheit\n\nDie geforderten Sicherheitsstandards werden eingehalten und es ist in unserem eigenen Interesse, hohe Sicherheitsstandards zu erfüllen. Des Weiteren werden Techniken eingesetzt, die bereits bei der Entwicklung überprüfen, ob Schwachstellen existieren. Wir orientieren uns dabei an den einschlägigen Empfehlungen von BSI, OWASP und NIST. Die Einhaltung der DSGVO nach Anforderungen der AG sichern wir zu.",
+      "length_tokens": 56,
+      "structure_path": "CONCEPT Konzept > 8 Leistungsbaustein 6: Betrieb der Plattform > 8.1 IT-Sicherheit"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "8.2. SLA, Support, Wartung und Pflege",
+      "block_id": "a-fb84112e-00d2-5344-b94a-4f155892aa19",
+      "text": "8.2. SLA, Support, Wartung und Pflege\n\nNachstehend ist das angebotene Service-Level -Agreement (SLA) für die Da tenplattform der SGR , basierend auf der Plattform-Infrastruktur des AN, dargestellt.\n\na) Betriebszeiten der Plattform\n\nWochentag Betreute Betriebszeit Unbetreute Betriebszeit Mo – Fr 08:00 - 17:00 17:00 - 08:00 Sa/So/Feiertag 00:00 - 24:00 Systemverfügbarkeit (p.m.) 99,90%\n\nb) Erreichbarkeit eines Service Desks\n\nWochentag Uhrzeit Mo – Fr 09:00 - 17:00 Sa/So/Feiertag\n\nc) Laufzeit - Monitoring - Wartung\n\nSystemlaufzeit 7 Tage x 24 Stunden Monitoring 7 Tage x 24 Stunden Wartungsarbeiten nach Vereinbarung zwischen AG und AN\n\nd) Einstufung in Prioritäten\n\nEtwaige Störungen oder Probleme im IT-Betrieb werden nach 3 Prioritäten eingestuft. Priorität Beschreibung der Priorität HOCH Eine Störung, die einen Ausfall der gesamten Plattform oder ihrer wesentlichen Teile verursacht, so dass eine Nutzung ganz oder nahezu vollständig unmöglich ist. Der Betriebsablauf ist derart beeinträchtigt, dass eine sofortige Abhilfe unumgänglich ist. NORMAL Eine Störung, die einzelne Funktionen der Plattform in ihrer Nutzung beeinträchtigt oder zu Fehlfunktionen / Fehlermeldungen bei der Nutzung der Plattform führt. Das gleichzeitige Auftreten mehrerer wesentlicher Leistungsmängel kann zu einem kritischen Lei stungsmangel führen. NIEDRIG Eine sonstige Störung, die die Nutzung der Plattform nicht oder nur unwesentlich beeinträchtigt. Das gleichzeitige Auftreten mehrerer solcher Mängel kann zu einem wesentlichen bzw. kritischen Leistungsmangel führen.\n\ne) Reaktions - und Wiederherstellungszeiten für Störungen\n\nauf der Plattform Es werden für alle Störungen und Probleme folgende Reaktionszeiten vereinbart: Priorität Wochentag Reaktionszeit innerhalb der betreuten Betriebszeit Reaktionszeit innerhalb der unbetreuten Betriebszeit Wieder herstellung Mo - Fr 2h 8h 5h HOCH Sa/So/ Feiertag 18h Mo - Fr 4h 12h 24h NORMAL Sa/So/ Feiertag Next Business Day Mo - Fr 10h Next Business Day 2 Tage NIEDRIG Sa/So/ Feiertag 4 Tage Durch einen Service Desk erfolgt die zentrale Annahme des vom AG gemeldeten Störungen und Anfragen (Tickets) sowie deren Erfassung in einem Help Desk System, das durch den AN gestellt wird. Der AG, verantwortlich für die fachliche Betriebsführung, nimmt ei ne Klassifizierung, Qualifizierung und Kategorisierung der eingehenden Tickets mit dem Ziel vor, eine Strukturierung und Klärung der entspre- chenden Anforderungen in kürzester Zeit durchzuführen. Hierzu gehören die folgenden Aufgaben: • Annahme der eingehenden Anfragen und Störungen • Präzise und vollständige Dokumentation der Anfrage im Ticket • Kategorisierung des Tickets • Einstufung des Tickets gemäß der in den SLA definierten Prioritäten • Bearbeitung der Anfrage bzw. Beseitigung der Störungen • Verfolgung der weiteren Bearbeitung und der Lösung (gegebenenfalls auch durch Nachfrage beim AN) • Falls erforderlich, Einleitung und Durchführung eines definierten Eskalationsverfahrens • Falls erforderlich, Initiierung des Problem Management Prozesses • Schließen der Tickets nach Abschluss der Bearbeitung durch den Service Desk Ziel des Fehlermanagements ist die Wiederherstellung des normalen Betriebs im Sinne des Leistungsvertrags im Rahmen der vereinbarten Prioritäten und Service Levels sowie einer Minimierung von nach- teiligen Auswirkungen auf den Geschäftsbetrieb. Ein Fehler ( „incident“) ist dabei jedes Vorkommnis, das nicht Teil der festgelegten Prozeduren und Verfahren der definierten IT-Landschaft ist und eine Unterbrechung oder Reduzierung des vereinbarten Service oder seiner Qualität zur Folge hat oder haben kann. Wartung und Updates Im Vertragszeitraum werden Updates und Upgrades an der Software regelmäßig vorgenommen. Die zu liefernden Updates korrigieren wiederkehrende Programmmängel und werden im Sinne einer „Continuous Delivery Pipeline“ ausgeliefert. Upgrades beinhalten neue Soft wareversion, die Funktionalitätserweiterungen berücksichtigen, die Verbesserungen mit Hinblick auf die allgemeine Anwendungser- fahrung, Kundennutzungsfreundlichkeit und gemäß dem anerkannten Stand der Technik ergeben. Für ein reibungsloses Release Managemen t, stellt unsere Plattform drei Instanzen bereit.\n\n1. Entwicklungs -Umgebung: Hier werden neue Funktionalitäten im Entwicklungsteam entwickelt\n\n2. Test -Umgebung: Hier werden die neuen Funktionalitäten dem AG zum Testen und zur Abnahme bereitgestellt\n\n3. Produktiv -Umgebung: Hier werden nach erfolgreichen Tests und der Freigabe durch den AG\n\ndie neuen Funktionalitäten den Endanwendern zur Verfügung gestellt. Wir schlagen ein kontinuierliches Release-Management in Form einer „Continuous Delivery Pipeline“ und agilen Entwicklungsvorgehensweise vor. Dies hat im Wesentlichen zwei Gründe: • Wenn wir einige male pro Jahr ein Release rausgeben, wird dieses viele und ggfs. große Änderungen beinhalten. Dies steigert das Risiko des sog. „Big Bang“, da bei vielen Änderungen die Gefahr größer ist, dass es zu Störungen für den Betrieb kommt. • Durch eine kontinuierliche Auslieferung vermeiden wir die zuvor genannten Risiken, können schneller neue Funktionen veröffentlichen, testen und verbessern. Darüber hinaus ist die Software immer und zu jeder Zeit auf dem neuesten Stand der Technik.",
+      "length_tokens": 711,
+      "structure_path": "CONCEPT Konzept > 8 Leistungsbaustein 6: Betrieb der Plattform > 8.2 SLA, Support, Wartung und Pflege"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "9. Leistungsbaustein 7: Schulung und Support sowie Dokumentation",
+      "block_id": "a-6be8e9ac-beb8-5831-a6fe-0a5f9344d882",
+      "text": "9. Leistungsbaustein 7: Schulung und Support sowie Dokumentation\n\nZur Bedienung der Plattform und selbständiger Einbindung neuer Sensoren bereits angelegter Typen sowie allen weiteren Administrationsaufgaben erfolgt eine Schulung der technischen und Smart-City Mitarbeitern der Smarten Grenzregion, sowie die Übergabe einer Dokumentation durch den AN.",
+      "length_tokens": 43,
+      "structure_path": "CONCEPT Konzept > 9 Leistungsbaustein 7: Schulung und Support sowie Dokumentation"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "9.1. Dokumentationsgrundsätze",
+      "block_id": "a-e2da5ceb-1940-5d42-87c2-5160f7d529a7",
+      "text": "9.1. Dokumentationsgrundsätze\n\nAuf der Basis eines ordnungsgemäßen Dokumentationsverfahrens stellen wir fortlaufend eine Dokumentation der von uns verantworteten IT-Landschaft und IT -Services sicher. Sie berücksichtigt im Wesentlichen die Themen organisatorischer Abläufe zur Durchführun g administrativer und technischer Abläufe. Folgende Elemente enthält unsere Dokumentation: Abbildung 9: Elemente der Dokumentation. Quelle: Smart Platforms GmbH",
+      "length_tokens": 51,
+      "structure_path": "CONCEPT Konzept > 9 Leistungsbaustein 7: Schulung und Support sowie Dokumentation > 9.1 Dokumentationsgrundsätze"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "9.2. Schulungen",
+      "block_id": "a-1fccfb54-a0d2-504f-9b7d-f90ea9d35742",
+      "text": "9.2. Schulungen\n\nZiel der Schulungen ist, dass das relevante Projektteam des AG, u.a. mit Administrator/ Key User die Datenplattform mit Dashboard mit ihren umfassenden Funktionalitäten und Module verstehen und perspektivisch selbstständig bedienen können. Das Schulungskonzept besteht aus einem Dreiklang von Schulungsdurchführung,-unterlagen und FAQs. Abbildung 10: Schulungskonzept. Quelle: KI-P GmbH Bei den zu schulenden Modulen handelt es sich grundsätzlich um Folgende, wobei diese in Abstimmung mit dem AG ersetzt bzw. erweitert werden können. • Berechtigungsverwaltung und Verwaltung von Nutzer und verschiedenen Nutzerberechtigungsstufen • Einbindung und Einrichtung von Gateways in das bestehende LoRaWAN • Einbindung von Datenquellen, u.a. Anlage von Datenquellen , Integration und Konfiguration von Sensoren in die IoT Plattform • Nutzung der IoT Plattform , u.a. Definition und Verschneidung von Datenquellen, Hinterlegung und Anpassung von Regeln wie bspw. Schwellenwerte für Benachrichtigung en oder sonstige zu initiierende Aktionen • Nutzung und Bedienbarkeit des Dashboards • Einführung in den Betrieb und Verwaltung der IoT Plattform, LoRaWAN und Dashboard • Sensibilisierung für Daten und Digitale Lösungen sowie Prozessmanagement • Nutzung des IT -Helpdesk Tools Die Durchführung der Schulung wird terminlich vorab mit dem AG abgestimmt. Die Schulung wird insgesamt einmal durchgeführt. Die Schulungsräume für die benötigte Teilnehmerzahl werden vo m AG zur Verfügung gestellt. Diese Messgrößen basieren auf Erfahrungswerten, mit welcher Gruppengröße ein komplexes System dargestellt und in der Tiefe beigebracht werden kann, sodass diese Anwender das System im Anschluss verstanden haben, bedienen können und weiteren Kolleg zeigen und erklären können.",
+      "length_tokens": 238,
+      "structure_path": "CONCEPT Konzept > 9 Leistungsbaustein 7: Schulung und Support sowie Dokumentation > 9.2 Schulungen"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "10. Kompetenzen der BeGe Digitale Zukunft und des Projektteams",
+      "block_id": "a-b2433171-09d8-534d-b1dc-dd16c72835da",
+      "text": "10. Kompetenzen der BeGe Digitale Zukunft und des Projektteams\n\nDie im Rahmen der Ausschreibung geforderten Informationen zur Vernetzung des AN sowie ei n erstes grobes Konzept zur Planung und Umsetzung geeigneter Kommunikationsmaßnehmen sind nachfolgend zu finden. Es ist darauf hinzuweisen, dass die Umsetzung des Kommunikationskonzepts nicht Gegenstand des aktuellen Angebots der BeGe Digitale Zukunft ist. Darüber hinaus stellt unser Projektteam die effiziente Bearbeitung der einzelnen Arbeitsschritte im Rahmen Ihres Auftrages sicher und vereint alle geforderten fachlichen und methodischen Kompetenzen für die Erarbeitung der gefragten Themen. Im Folgenden stellen wir Ihnen kurz die vo rgesehenen Mitarbeiter vor. Die ausführlichen Lebensläufe der Projektleitung sind den Anlagen zu entnehmen. Bei Bedarf können auch die Lebensläufe der weiteren Mitglieder des Projektteam bereitgestellt werden.",
+      "length_tokens": 119,
+      "structure_path": "CONCEPT Konzept > 10 Kompetenzen der BeGe Digitale Zukunft und des Projektteams"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "10.1. Vernetzung der BeGe Digitale Zukunft",
+      "block_id": "a-caa099ed-046c-581c-a4f1-0b8b3c05a7ce",
+      "text": "10.1. Vernetzung der BeGe Digitale Zukunft\n\nDie BeGE Digitale Zukunft ist hervorragend vernetzt mit relevanten Parteien aus den Bereichen Technologie, Forschung, Wissenschaft und öffentliche Stellen. Durch einen regelmäßigen Austausch mit unseren Kunden und Partnern u nd der dadurch verankerten umfangreichen Vernetzungen stärken wir unsere Position als Akteur im Bereich digitaler Lösungen . Wir können auf ein breites Wissensspektrum und umfangreiche Ressourcen zugreifen, um unseren Kunden maßgeschneiderte Lösungen anzubieten und stets über technologisc he Entwicklungen informiert zu bleiben. Nachfolgend eine Auswahl an relevanten Netzwerken und Initiative n: • Durchführung von Lehrveranstaltungen, Vorträgen sowie Studienprojekte mit den Hochschulen Aalen und Ansbach • Betreuung von Abschlussarbeiten (u.a. zu Künstlicher Intelligenz, Metaverse und W irtschaftspsychologie) mit der Hochschule Aalen • Durchführung von Förderprojekte n, u.a. mit Hochschule , Kommunen oder kommunale Unternehmen (z.B. • Teil des Netzwerks des Zentrum s für Digitale Entwicklung (GmbH), das eine Vielzahl an Technologieanbieter digitaler und innovativer Lösungen, umfasst • Mitgliedschaft auf kommunal.digital des Verbandes kommunaler Unternehmen, um Erfahrungen und Wissen zu digitalen Lösungen im kommunalen Raum auszutauschen und weiterzugeben • Teilnahme an der Innovationspartnerschaft Innenstadt 2030+\n\n- Future Public Space des Fraunhofer IAO. Als Ergebnis wurde die Studie #elasticity\n\n– Experimentelle Innenstädte und öffentliche Räume der Zukunft erarbeitet und veröffentlicht.\n\n• Durchführung von Veranstaltungen für kommunale Vertreter, z.B. Hausmesse seit 2 Jahren mit rund 100 Gästen • Mitarbeit an Konzepten und Standardisierungen im kommunalen Umfeld, z.B. zum Thema Möglichkeiten der Künstlichen Intelligenz für mehr Nachhaltigkeit mit dem Denklabor & Kollaborationsplattform für Gesellschaft & Digitalisierung e.V.",
+      "length_tokens": 247,
+      "structure_path": "CONCEPT Konzept > 10 Kompetenzen der BeGe Digitale Zukunft und des Projektteams > 10.1 Vernetzung der BeGe Digitale Zukunft"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "10.2. Kurzkonzept zur Kommunikation",
+      "block_id": "a-26de0e1c-37e0-5c7d-a0a4-97eac3e9395c",
+      "text": "10.2. Kurzkonzept zur Kommunikation\n\nDa der erfolgreiche Einsatz digitaler Anwendungen und Lösungen neben der Technologie insbesondere vom Menschen abhängt, ist die Mitnahme und Kommunikation von digitalen Anwendungen durch kommunikative Maßnahmen von großer Bedeutung. Im Folgenden stellen wir ein erste s mögliches Grobkonzept für die Smarte Grenzregion dar, um Informationen über geeignete Kanäle den relevanten Nutzern zur Verfügung zu stellen. Es ist anzumerken, dass dies lediglich einen groben Rahmen darstellt, der durch Einbezug der des Wissen s der Akteure vor Ort ergänzt und optimiert wird. Das Grobkonzept setzt sich aus den Bereichen Entwicklung einer Kommunikationsstrategie, geeignete Kommunikationskanäle sowie deren Realisierung zusammen. Bei der Entwicklung einer passenden Kom munikationsstrategie schlagen wir folgendes Vorgehen und Bestandteile vor: • Analyse der Zielgruppe: Identifikation der Hauptzielgruppen (Besucher, Touristen) der Smarten Grenzregion, die mit den bereitgestellten Informationen erreicht werden soll. Eine wichtige Zielgruppe bilden dabei auch die Bürger, um Ihnen aufzuzeigen, dass ihr aktuelles Anliegen mit starker Belastung durch Tourismus, angegangen wird. Sie könnten dabei als sogenannte Key User agieren, die Besucher auf die Möglichkeiten hinweisen. Ziel ist die Identifikation deren Bedürfnisse, Interessen und Kommunikationsgewohnheiten durch Gespräche mit den Akteuren und Vertreter des AG vor Ort (z.B. Tourismusbüros), aber auch möglichen Zielgruppen wir Touristen. Hierbei ist es wichtig zu betonen, dass keine Nutzergruppen ausg eschlossen oder benachteiligt werden dürfen. • Festlegung der Ziele: Defini tion der Hauptziele der Kommunikationsstrategie, z. B. Bereitstellung relevanter Informationen, Lenkung der Besucherströme, Förderung bestimmter Attraktio- nen und Orte wie das Weltkulturerbe in Haithabu . • Klärung von Rollen und Verantwortlichkeiten: Es wird geklärt, wer die Bereitstellung von Informationen und die Prüfung auf Aktualität federführend übernimmt. Dabei ist wichtig von Anfang darüber aufzuklären, dass die Bereitstellung von Informationen kein einmaliges Unterfangen ist, sondern vielmehr ein kontinuierlicher Prozess. • Botschaften und Inhalte: Erarbeitung klarer, verständlicher und ansprechender Botschaften und Inhalte, die die Besucher ansprechen und verständlich und in angemessener Form informieren. Es ist nicht damit getan Daten bereitzustellen, ohne Hintergrundinformationen dazu mitanzugeben. Ausgehend von der Kommunikationsstrategie werden anschließend, ebenfalls mit den im vorherigen Schritt identifizierten Akteure, Maßnahmen sowie geeignete Kanäle definiert, die der Ausgabe der Informationen dienen. Dabei wird je nach Zweck, Ziel und Kanal auf Verständlichkeit der Informationsbereitstellung geachtet. Folgende Kanäle schlagen wir, basierend auf dem aktuellen Informationsstatus, vor. Die einzelnen Kanäle sind hierbei in Ergänzung zueinander zu sehen, die wiederum eine zentrale und klare Steuerung der Informationen notwendig macht. • Digitale Bereitstellung, z.B. über das zu entwickelnde Dashboard sowie Einbettung der Informationen in bestehenden Kanälen wie die Website, Informationsstelen oder ggf. auch einer mobilen App. Die Installation von Schildern mit QR -Codes, die wiederum auf digitale Ausgabeebenen wie das SGR -Dashboard verweisen sind hierbei eine gute Option, um Besucher vor Ort auf die jeweiligen Informationen und Kanäle hinzuweisen. Ebenfalls infrage kommt die Bereitstellung der Informationen über Schnittstellen an Drittsyste me, die ebenfalls die Informationen weitergeben können (z.B. Website s von Restaurants, Unterkünfte, ÖPNV -Anbieter, Ausflugsticker). • Informationsausspielung über Soziale Medien: Aufbau und Pflege von Präsenzen auf relevanten sozialen Medien (z. B. Facebook, Instagram, Twitter) zur Verbreitung von aktuellen Informationen, Tipps und Empfehlungen. Hier gilt es besonders die umgesetzten Maßnahmen und Informationskanäle zu bewerben , um z.B. die jüngeren Generationen anzusprechen. • Informationszentren: Einrichtung von Informationszentren an strategisch günstigen Orten, an denen Besucher persönlich beraten und Informationsmaterial erhalten können. • Touristenführer: Erstellung gedruckter oder digitaler Touristenführer mit detaillierten Informationen über die Region, Sehenswürdigkeiten, Karten und Routenvorschlägen. • Beschilderung und Wegweiser: Installation übersichtlicher Beschilderung und Wegweisern , z.B. LED -Displays zur Besucher - oder Parkraumsteuerung an wichtigen Orten und Routen, um Besucher zu lenken und Orientierung zu bieten. Hier bieten ebenfalls die erwähnten digitalen Informationsstelen eine gut geeignete Möglichkeit dar. • Lokale Partner: Zusammenarbeit mit lokalen Unternehmen, Hotels, Restaurants und Tourismusanbietern, die ebenfalls auf die Informationen zurückgreifen und darüber hinaus auch auf die Kommunikationskanäle hinweisen. Bei der Realisierung und Implementierung der festgelegten Kommunikations - und Ausspielungskanäle werden die vielversprechenden, und gemeinsam zwischen AG und AN abgestimmten Maßnahmen umgesetzt. Dies kann die im vorherigen Abschnitt vorgestellten Maßnahmen betreffen, darüber hinaus auch zusätzlich hinzugekommene Maßnahmen. Die Umsetzung des Kommunikationskonzept s erfordert eine enge Zusammenarbeit mit relevanten Stakeholdern, wie lokalen Unternehmen, touristischen Einrichtungen und Behörden. Gemeinsam wird die Realisierung der vorgeschlagenen Kommunikations und Ausspielungskanäle vorangetrieben, um eine effektiv e und erfolgreiche Informationsbereitstellung für Besucher und Touristen zu gewährleisten. Hierzu empfehlen wir den Aufbau von lokalen Pa rtnerschaften zur gegenseitigen Unterstützung und Integration der vorgeschlagenen Kommunikationsmaß- nahmen.",
+      "length_tokens": 720,
+      "structure_path": "CONCEPT Konzept > 10 Kompetenzen der BeGe Digitale Zukunft und des Projektteams > 10.2 Kurzkonzept zur Kommunikation"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "10.3. Projektteam",
+      "block_id": "a-d5a6ec33-8925-56e3-8334-4d24ad67daaf",
+      "text": "10.3. Projektteam\n\nUnser interdisziplinäres Projektteam zur Realisierung der Digitalen Service und Dateninfrastruktur wird im Wesentlichen aus Mitarbeitern gebildet, die den nachfolgenden Rollen entsprechen. Dahinter stehen dem AG die Mitarbeiter mit den verschiedenen Kompet enzen aus beiden Unternehmen zur Verfügung, wobei mindestens die folgenden Positionen vorgesehen sind: • Projektleitung mit Stellvertretung • Product Owner • Softwareentwicklung • Daten Analysten Das Projektteam besteht aus Timo Grimm, Thede Smidt, Tatjana Fech, Holm Smidt, Christian Birkenmaier, Florian Maier und David Schlaak . Timo Grimm und Thede Smidt agieren hierbei als Projektleitung und stellvertretenden Projektleitung. • Timo Grimm ist als Projektleitung verantwortlich für die erfolgreiche Auftragsumsetzung und der direkte Ansprechpartner für den Auftraggeber bei allen strategischen, prozessrelevanten und umsetzungsbezogenen Fragen. Er verantwortet im Besonderen die Themen Projektmanagement, Plattform sowie Ausgestaltung von Use Cases. • Thede Smidt ist stellvertretender Projektleiter und vertritt den Projektleiter bei allen strategischen, prozessrelevanten und umsetzungsbezogenen Fragen. Herr Smidt steht vor allem bei den technischen Fragestellungen rund um die Plattformkonzeption und deren Realisierung sowie Use Case Definition zur Verfügung. Tatjana Fech, Holm Smidt, Christian Birkenmaier , Florian Maier und David Schlaak verantworten die technischen Fragestellungen und Realisierungen rund um die urbane Datenplattform , IoT Plattform, Sensorik und Dashboard. Dabei entwickeln sie das Pflichten heft und technische Aufstellung der Lösungen und verbinden die Umsetzung mit der Abstimmung des Arbeitsteams des AG.",
+      "length_tokens": 218,
+      "structure_path": "CONCEPT Konzept > 10 Kompetenzen der BeGe Digitale Zukunft und des Projektteams > 10.3 Projektteam"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "10.4. Kurzprofile Projektleitung und Projektteam",
+      "block_id": "a-1d403422-687c-5161-8390-ff029d24c266",
+      "text": "10.4. Kurzprofile Projektleitung und Projektteam\n\nTimo Grimm – Projektleitung und zentraler Ansprechpartner im Projekt TIMO GRIMM ist Geschäftsführer der KI -P GmbH. Er verfügt über einen Masterabschluss Wirtschaftswissenschaften in den Schwerpunkten Informatik sowie Technologie\n\n- und Prozessmanagement der Universität Ulm und über mehrjährige Erfahrung als Berater und Projek\n\ntleiter in nationalen und internationalen Digitalisierungsprojekten. Seine Schwerpunktthemen liegen im Prozess\n\n- und Projektmanagement\n\nsowie im Datenmanagement und-analyse. Die aktuellen Tätigkeitsbereiche von Timo Grimm liegen in der Konzeption von Dateni nfrastrukturen, der Auswertung von Daten, im Prozessmanagement sowie der Realisierung datenbasierter Anwendungen. Außerdem doziert Timo Gr imm an der ZDE -Akademie zu den Themenbereichen Datenmanage ment und Künstlicher Intelligenz. Persönliche Referenzen • Entwicklung einer webbasierten 3D Anwendung mit Echtzeitdaten mit zugrundeliegender Plattform für das Smart City-Modellprojekt Landkreis St. Wendel (2022-2023): Projektleitung und Projektmanagement zum Aufbau und Betrieb einer Plattform, die die Basis zur Umsetzung einer webbasierten Anwendung bildet. Bisher sind die Use Cases Erneuerbare Energien sowie Überwachung von Gewässern unter Einbezug von Wetter\n\n- und Pege lstanddaten realisiert.\n\n• Konzeption und Realisierung eines echtzeitbasierten Reservierungs -, Buchungs - und Bezahlsystem für die Heilbäder und Kurorte Marketing GmbH (2022 -2023): Projektleitung und Projektmanagement bei der Konzeption sowie anschließender Realisierung einer Anwendung zur Bereit- stellung von Echtzeitinformationen zur Auslastung von Wohnmobilstellplätzen inklusive Reservierungs -, Buchungs - und Bezahlmöglichkeit für Wo hnmobilisten. • Erarbeitung eines Umsetzungskonzeptes für Plattformen für die Stadtwerke Garbsen (2022 2023): Erarbeitung eines Umsetzungskonzeptes für die Entwicklung einer Plattform zusammen mit der Smart Platforms GmbH. Dabei wird eine logistische, kaufmännische und technische Evaluierung vorgenommen, indem das Konzept aus Strategie -, Prozess -, Daten -, System - sowie Use Case -Perspektive beleuchtet wird. Die Plattformkonzeption berücksichtigt Sensordaten (IoT), bereits vorhandene Systeme als mögliche Datenquellen und ser viceorientierte digitale Anwendungen (z. B. Stadtgutscheine). • Konzeption und Realisierung des intelligenten Lademanagement am Landratsamt Heidenheim (2022 -2023): Projektleitung und Projektmanagement bei der Konzeption und Realisierung einer Web -Anwendung in Form eines Dashboards für das Landratsamt Heidenheim. Hierbei werden Sensordaten und Betriebsdaten von Ladesäulen kombiniert, um die Nutzung der vorhande- nen Lad einfrastruktur am Landratsamt effizient zu nutzen. • Do zent fü r Fachseminare und Workshops an der ZDE -Akademie (2021-heute): Durchfüh rung der Fachseminare „Daten statt Raten“ und „Was ist KI?“. Leitung des Strategiew orkshops zum effektiven Einsatz von K I sowie der Module KI & Datenmanagement im Rahmen des Smart C ity Experts (IHK zertifiziert). Thede Smidt – Stellvertretende Projektleitung THEDE SMIDT ist Geschäftsführer der Smart Platforms GmbH. Er setzt sich leidenschaftlich für die Entwicklung von digital vernetzten Städten ein, die eine bessere Lebensqualität und eine nachhaltigere Zukunft ermöglichen. Seine langjährige Erfahrung in der digitalen Industrie macht ihn zu einem Experten auf dem Gebiet der Entwicklung und Umsetzung von digitalen und urbanen Plattformen im kom- munalen Umfeld. Persönliche Referenzen • Erarbeitung eines Umsetzungskonzeptes für Plattformen für die Stadtwerke Garbsen (2022 2023): Erarbeitung eines Umsetzungskonzeptes für die Entwicklung einer Plattform zusammen mit der KI -P GmbH. Dabei wird eine logistische, kaufmännische und technische Evaluierung vorgenommen, indem das Konzept aus Strategie -, Prozess -, Daten -, System - sowie Use C ase-Perspektive beleuchtet wird. Die Plattformkonzeption berücksichtigt Sensordaten (IoT), bereits vorhan- dene Systeme als mögliche Datenquellen als auch serviceorientierte digitale Anwendungen (z. B. Stadtgutscheine). • Entwicklung einer Mobilitätsplattform für die Verkehrsaktiengesellschaft Nürnberg (2019 heute): Die Bewerbergemeinschaft GeoMobile GmbH und Smart Platforms GmbH hat die Ausschreibung für eine Mobilitätsplattform bei der VAG in Nürnberg gewonnen. Die Plattform er- möglicht nachhaltige Mobilität, verbessert die Attraktivität von nicht-MIV Angeboten und bietet Kunden einen digit alen Zugang zu verschiedenen Mobilitätsdiensten über Single Sign-On und zentrale Abrechnung. Es wurden Funktionen wie Abfahrtsmonitor, V erbindungsauskunft, Störungsmeldungen, Bikesharing, intermodales Routing, Ticketshop und Zahlungsanbindung umge- setzt. Die Plattform -Infrastruktur basiert auf Azure Cloud und bietet zentrale Datenbanken, User Management, Datenverarbeitung und Monitoring. Es gibt eine Anbindung an das HGS und ein systemübergreifendes Single-Sign -On. • Entwicklung eines Single Sign-On für den Verkehrsverbund Großraum Nürnberg (2022-heute): Das Projekt zielt darauf ab, die Systemlandschaft im VGN zu harmonisieren und eine nahtlose Integration von Mobilitätsdiensten zu ermöglichen. Ein Single Sign-On (SSO) bietet den Nutzern einen zentralen Zugang zu allen Diensten, während eine Datendrehscheibe (Mediation Layer) den sicheren Austausch von Informationen zwischen den Diensten gewährle istet. Das Ziel ist eine erhöhte Nutzerakzeptanz und -zufriedenheit durch vereinfachte Nutzung und transparenten Datenschutz. • Entwicklung einer Mobilitätsplattform für den ländlichen Raum im Landkreis Freyung -Grafenau (2022 -heute): Im Projekt DiMoFRG strebt die VLFRG die Einführung einer innovativen Mo- bilitätsplattform in Freyung -Grafenau an. Durch gezielte Maßnahmen zur Steigerung der Attraktivität und die Schaffung eines Anreizsystems für nachhaltiges Handeln soll die Region zum Vo rreiter für moderne ländliche Mobilität in Deutschland werden. Eine moderne Endkundenkommuni- kation, agiles Qualitätsmanagement und Usability Testing s ind entscheidend, um die Akzeptanz und Resonanz der neuen Angebote in der Bevölkerung zu gewährleisten. Das Gesamtsystem soll skalierbar, sicher und nutzerfreundlich sein und unter anderem ein Single Sign-On, transparente Abrechnung und Gamification-Funkti onen bieten. Bestehende Hintergrundsysteme sollen nahtlos integriert werden. • Bereitstellung einer City App für die Stadt Northeim (2022-heute): Die Innenstadt -App soll als Allround -Kommunikationsplattform eine mobile Schnittstelle ausbilden, um alle Zielgruppen (Bürger, Besucher, Verwaltung, Marketing, Handel etc…) zu erreichen und zu vernetzen. Dabei soll ein auf die Stadt Northeim individuell ab gestimmtes Konzept bestehende Systeme integrieren und optional erweitert werden können, sodass umfangreiche Features aus einer Plattform für die zukünftigen Nutzer verfügbar sind. Tatjana Fech TATJANA FECH ist eine erfahrene Product Ownerin, spezialisiert auf die Leitung von Softwareentwicklungsprojekten im Bereich Smart City und nachhaltige Mobilität. Sie bringt tiefgreifendes Wissen von agilen Methoden und umfangreiche Fachkenntnisse in der Ge staltung und Implementierung innovativer Lösungen mit. Dank ihrer stark ausgeprägten Kundenorientierung und ihrem fundierten Verständnis für Nutzer - und Stakeholderbedürfnisse entwickelt sie maßgeschneiderte Produkte, die den komplexen Anforderungen des mo dernen städtischen Lebens und der umweltbewussten Mobilität gerecht werden. Persönliche Referenzen • Entwicklung einer Mobilitätsplattform für den ländlichen Raum im Landkreis Freyung -Grafenau (2022 -heute): Im Projekt DiMoFRG strebt die VLFRG die Einführung einer innovativen Mobilitätsplattform in Freyung -Grafenau an. Durch gezielte Maßnahmen zur Steigerung der Attraktivität und die Schaffung eines Anreizsystems für nachhaltiges Handeln soll die Region zum Vorrei- ter für modern e ländliche Mobilität in Deutschland werden. Eine moderne Endkundenkommunikation, agiles Qualitätsmanagement und Usability Testing sind entscheidend, um die Akzeptanz und Resonanz der neuen Angebote in der Bevölkerung zu gewährleisten. Das Gesamtsystem sol l skalierbar, sicher und nutzerfreundlich sein und unter anderem ein Single Sign-On, transparente Abrechnung und Gamification-Funktionen bieten. Bestehende Hintergrundsysteme sollen nahtlos integriert werden. • Bereitstellung einer City App für die Stadt Northeim (2022-heute): Die Innenstadt -App soll als Allround -Kommunikationsplattform eine mobile Schnittstelle ausbilden, um alle Zielgruppen (Bürger, Besucher, Verwaltung, Marketing, Handel etc…) zu erreichen und zu vernetzen. Dabei soll ein auf die Stadt Northeim individuell ab gestimmtes Konzept bestehende Systeme integrieren und optional erweitert werden können, sodass umfangreiche Features aus einer Plattform für die zukünftigen Nutzer verfügbar sind. Holm Smidt HOLM SMIDT ist Leiter der Softwareabteilung bei der Smart Platforms GmbH. Als studierter Softwareengineer und durch die mehrjährige Berufserfahrung in unterschiedlichen Rollen (u. a. Fullstack Developer, Software -Architekt, Solution Architekt) verfügt Herr Smidt über reichlich Expertise im Anforderungsmanagement auf Kundenseite sowie Projektleitung und Koordinierung der agilen Softwareent- wicklung (SCRUM) von großen Entwicklungsteams (mehr als 10 Entwickler). Bei Smart Platforms GmbH koordiniert er die Entwi cklerteams in unterschiedlichen Projekten, verantwortet die Code Qualität, entwickelt die Software -Architektur und gestaltet Technologieentscheidungen der zu entwickelnden Lö- sungen. Persönliche Referenzen • Erarbeitung eines Umsetzungskonzeptes für Plattformen für die Stadtwerke Garbsen (2022 2023): Erarbeitung eines Umsetzungskonzeptes für die Entwicklung einer Plattform zusammen mit der KI -P GmbH. Dabei wird eine logistische, kaufmännische und technische Evaluierung vorgenommen, indem das Konzept aus Strategie -, Prozess -, Daten -, System - sowie Use C ase-Perspektive beleuchtet wird. Die Plattformkonzeption berücksichtigt Sensordaten (IoT), bereits vorhandene Sys- teme als mögliche Datenquellen als auch serviceor ientierte digitale Anwendungen (z. B. Stadtgutscheine). • Entwicklung einer Mobilitätsplattform für die Verkehrsaktiengesellschaft Nürnberg (2019 heute): Die Bewerbergemeinschaft GeoMobile GmbH und Smart Platforms GmbH hat die Ausschreibung für eine Mobilitätsplattform bei der VAG in Nürnberg gewonnen. Die Plattform ermög- licht nachhaltige Mobilität, verbessert die Attraktivität von nicht-MIV Angeboten und bietet Kunden einen digit alen Zugang zu verschiedenen Mobilitätsdiensten über Single Sign -On und zentrale Abrechnung. Es wurden Funktionen wie Abfahrtsmonitor, V erbindungsauskunft, Störungsmeldungen, Bikesharing, intermodales Routing, Ticketshop und Zahlungsanbindung umgesetzt. Die Plattform Infrastruktur basiert auf Azure Cloud und bietet zentrale Datenbanken, User -Management, Datenverarbeitung und Monitoring. Es gibt eine Anbindung an das HGS und ein systemübergreifendes Single -Sign -On. • Entwicklung eines Single Sign-On für den Verkehrsverbund Großraum Nürnberg (2022-heute): Das Projekt zielt darauf ab, die Systemlandschaft im VGN zu harmonisieren und eine nahtlose Integration von Mobilitätsdiensten zu ermöglichen. Ein Single Sign -On (SSO) bietet den Nutzern einen zentralen Zugang zu allen Diensten, während eine Datendrehschei be (Mediation Layer) den sicheren Austausch von Informationen zwischen den Diensten gewährleistet. Das Ziel ist eine erhöhte Nutzerakzeptanz und -zufriedenheit durch v ereinfachte Nutzung und transparenten Datenschutz. • Entwicklung einer Mobilitätsplattform für den ländlichen Raum im Landkreis Freyung-Grafenau (2022-heute): Im Projekt DiMoFRG strebt die VLFRG die Einführung einer innovativen Mobilitätsplattform in Freyung -Grafenau an. Durch gezielte Maßnahmen zur Steigerung der Attraktivität und die Schaffung eines Anreizsystems für nachhaltiges Handeln soll die Region zum Vorreiter für modern e ländliche Mobilität in Deutschland werden. Eine moderne Endkundenkommunikation, agiles Qualitätsmanagement und Usability Testing sind entscheidend, um die Akzeptanz und Resonanz der neuen Angebote in der Bevölkerung zu gewährleisten. Das Gesamtsystem sol l skalierbar, sicher und nutzerfreundlich sein und unter anderem ein Single Sign-On, transparente Abrechnung und Gamification -Funktionen bieten. Bestehende Hintergrundsysteme sollen nahtlos integriert werden. • Bereitstellung einer City App für die Stadt Northeim (2022-heute): Die Innenstadt -App soll als Allround -Kommunikationsplattform eine mobile Schnittstelle ausbilden, um alle Zielgruppen (Bürger, Besucher, Verwaltung, Marketing, Handel etc…) zu erreichen und zu vernetzen. Dabei soll ein auf die Stadt Northeim individuell ab gestimmtes Konzept bestehende Systeme integrieren und optional erweitert werden können, sodass umfangreiche Features aus einer Plattform für die zukünfti- gen Nutzer verfügbar sind. Christian Birkenmaier CHRISTIAN BIRKENMAIER ist Leiter der Softwareabteilung bei der KI -P GmbH. Als studierter Softwareengineer und durch die mehrjährige Berufserfahrung in unterschiedlichen Rollen (u. a. Fullstack Developer und Medieninformatiker) verfügt Herr Birkenmaier über reichlich Expertise im Anforderungsmanagement auf Kundenseite sowie Projektleitung und Koordinierung der agilen Softwareentwicklung (SCRUM). Bei KI -P GmbH koordiniert er die Entwicklerteams in unterschiedlichen Projekten. Persönliche Referenzen • Entwicklung des Themenwegs erneuerbare Energien für das Smart City -Modellprojekt Landkreis St. Wendel (2022-2023): Stellvertretende Projektleitung und verantwortlich für die technische Bereitstellung und Betrieb der Anwendung, u. a. mit der Entwicklung von Schnittstellen, Verarbeitung von Daten unterschiedlicher Quellen (z.B. Wetter und Pegeldaten) und Gestaltung des Frontends . • Entwicklung der datenbasierten Anwendung für die Ökostromgruppe Freiburg GmbH zur Steuerung der Energieanlagen (2023-heute): Stellvertretende Projektleitung und verantwortlich für die technische Bereitstellung und den Betrieb der Anwendung . • Entwicklung einer datenbasierten Anwendung für Prozessoptimierung des Energie\n\n- und Abfallmanagement in Westhausen (2023-heute): Stellvertretende Projektleitung und verantwortlich für\n\ndie technische Bereitstellung und den Betrieb der Anwendung, unter Einbezug von Sensordaten und bestehenden Abläufen • Neuentwicklung des Smart-City -Campus Dashboard für ZDE: Projektleit ung und verantwortlich für die technische Konzeption und Ent wicklung des Fron t- und Back end s sowie den Betrieb der Anwendung. Florian Maier FLORIAN MAIER ist Softwareentwickler und Data Analyst. Florian Maier arbeitet bei der KI-P GmbH an der Entwicklung datenbasierter Anwendungen und ist im Umgang, Verarbeitung und Analytik von Daten vertraut. Hier liegt der Arbeitsschwerpunkt auf der intelli genten Verschneidung und Visualisierung verschiedener Datenquellen, sowie in der Ableitung von Erkenntnissen und Handlungsempfehlungen. Persönliche Referenzen • Intelligentes Lademanagement für das Landratsamt Heidenheim (2022 –2023): Sensorbasierte Erfassung der Belegung von Parkplätzen und Zustände der Ladesäulen, sowie Auswertung der Daten. Durch Benachrichtigung der Zentralen Dienste wird eine optimale Auslastung der Ladesäulen und Verteilung der Ladeplätze über den Fuhrpark ermögli cht. • Durchführung einer Personenfrequenz und Verkehrsanalyse für die Stadt Hof (2023 –heute): Erfassung des Personen\n\n- und Verkehrsaufkommens in Hof, Verarbeitung sowie Aufbereitung der\n\nDaten als Entscheidungsgrundlage und Input zur Durchführung einer Machbarkeitsstudie zur Neugestaltung der Innenstadt in Hof • (Weiter -) Entwicklung von Sensorik im Rahmen des Förderprojektes safe hAAven 5G++ in Aalen (2023 -heute): Verantwortlich für die Weiterentwicklung der eingesetzten Sensorik und Senso- rik Systeme unter Beachtung von Sicherheits\n\n- und Datenschutzanforderungen.\n\n• Entwicklung einer 3D Anwendung mit Echtzeitdaten im Rahmen des Themenwegs erneuerbare Energien für das Smart City Modellprojekt Landkreis St. Wendel (2022-2023): Teil des Projektteams und verantwortlich für die technische Bereitstellung und den Betrieb der Anwendung. David Schlaak DAVID SCHLAAK ist für die KI -P GmbH im Bereich Business Development und Strategie tätig. Dabei ist David Schlaak zuständig für die Konzeption von Digitalisierungsprojekten und die Definition neuer Smart City Use Cases mit hohem wertschöpfungspotential. Außerdem fallen die Planung und Durchführung von Work shops und Schulungen im Bereich Datenmanagem ent und Smart City in sein Aufgabengebiet. Im Zuge dessen tritt er als Dozent an der ZDE-Akademie auf. Persönliche Referenzen • Intelligente s Lademanagement für das Landratsamt Heidenheim (2022 –2023): Konzeptio n und Realisierung einer Web -Anwendung in Form eines Dashboards mithilfe einer s ensorbasierten Erfassung der Belegung von Parkplätzen und Zustände n von Ladesäulen. • Dozent für Fachseminare und Workshops an der ZDE-Akademie (2021 -heute): Planung und Durchführung de s Fachseminar s „Daten statt Raten“. Konzeption des Strategieworkshops zum effektiven Einsatz von KI sowie der Module KI & Datenmanagement im Rahmen des Smart City Experts (IHK zertifiziert). • Konzeption und Realisierung eines echtzeitbasierten Reservierungs -, Buchungs - und Bezahlsystem für die Heilbäder und Kurorte Marketing GmbH (2022-2023): Mitarbeit bei der Konzeption sowie anschließender Realisierung einer Anwendung zur Bereitstellung von Echtzeitinformationen zur Auslastung von Wohnmobilstellplätzen inklusive Reservierungs -, Buchungs - und Bezahlmöglichkeit für Wohnmobilisten. • Ausarbeitung einer KI-Strategie für die GEO DATA GmbH ( 2021 -2022): Entwicklung einer KI-Strategie für den Smart City Campus inklusiv e der Bereitstellung eines Vorgehensmodells zur Identifikation von Anwendungsmöglichkeiten und der Umsetzungsplanung . • Erstellung eines Konzept s zur Steuerung, Integration und Verknüpfung von Daten in digitalen Quartieren für die GEO DATA GmbH ( 2021 -2022): Erstellung von Datenmanagement und Datennutzungskonzepte für Digitale Quartiersprojekte sowie Identifikation und Evaluation von Einsatzmöglichkeiten eines Digitalen Zwillings in Digitalen Quartieren.",
+      "length_tokens": 2320,
+      "structure_path": "CONCEPT Konzept > 10 Kompetenzen der BeGe Digitale Zukunft und des Projektteams > 10.4 Kurzprofile Projektleitung und Projektteam"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "10.5. Absicherung der Projektorganisation",
+      "block_id": "a-018285e7-9ba2-53e3-968b-ab9c2d945d52",
+      "text": "10.5. Absicherung der Projektorganisation\n\nDie B ewerber gemeinschaft Digitale Zukunft gewährleistet die Verfügbarkeit des vorgesehenen Projektteams für den Zeitraum der Leistungserbringung. Im Falle von Krankheit eines Projektmitarbeiters ha- ben wir stets ausreichend qualifiziertes Personal zur Verfügung, um eine professionelle Projektdurchführung zu jedem Zeitpunkt zu gewährleisten. Wir behalten uns zur Aufgabenerfüllung auch vor, wenn nötig zusätzliches Personal aus unseren Kompetenzteams hinzuzuziehen . Eine gute Zusammenarbeit mit dem Arbeitsteam der Digitalagentur Smarte Grenzregion zwischen den Meeren GmbH und den beteiligten Akteuren ist für uns ein wichtiger Grundpfeiler einer erfolgreichen Projektumsetzung. Aus diesem Grund bildet die bedarfsorientierte Abstimmung mit Ihnen als Projektteam eine zentrale Voraussetzung für den Projekterfolg.",
+      "length_tokens": 105,
+      "structure_path": "CONCEPT Konzept > 10 Kompetenzen der BeGe Digitale Zukunft und des Projektteams > 10.5 Absicherung der Projektorganisation"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "11. Rahmenbedingungen des Angebots",
+      "block_id": "a-915ccfb9-5375-5701-adc4-c28cc8d3d290",
+      "text": "11. Rahmenbedingungen des Angebots",
+      "length_tokens": 4,
+      "structure_path": "CONCEPT Konzept > 11 Rahmenbedingungen des Angebots"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "11.1. Preis und dazugehörige Erklärungen",
+      "block_id": "a-5944deec-f2a6-523b-8a60-d30b790faea0",
+      "text": "11.1. Preis und dazugehörige Erklärungen\n\nDer angebotene Gesamtpreis ergibt sich aus beigefügte m Angebot sschrieben und Preisblatt. Die hierbei angebotenen Preise setzen sich aus Personentage für die einzelnen Module zusammen und stellen den kalkulatorischen Rahmen dieses Angebots dar. Der Aufwand wurde auf den zum Zeitpunkt des Angebotes vorliegenden Informationen abgeleitet. Da zum jetzigen Zeitpunkt noch nicht alle Informationen in der notwendigen Tiefe (Bsp. Schnittstellenbesch reibungen, Datenformate, Protokolle, Technologien der Drittsysteme) vorliegen, aber ggfs. einen erheblichen Mehraufwand bedeuten könnten, bieten w ir die kalkulierten Personentage im Rahmen eines Dienstleistungsvertrages an. Somit gehen wir transparent im Laufe des Projektes mit dem Aufwand um und müssen im Rahmen des Angebotes keinen Sicherheitsaufschlag für Unwägbarkeiten einkalkulieren und ermögli chen somit eine faire Preisqualität. Position aus Preisblatt (für alle 3 Use Cases) Personentage Aufsetzen und Zurverfügungstellen einer geeigneten IoT Plattform und Inbetriebnahme 22 Integration und Verwaltung der LoRaWAN-Sensorik/ sowie weitere marktgängiger Lösungen 9 Anbindung externer Datenquellen (Schnittstellen) 18 Verarbeitung und Speicherung der Sensordaten 8 Visualisierung der Testszenarien und Automatisierungen 28 Betrieb der Plattform (u.a. Serverkosten, daher keine Personentage) 0 Schulung und Support sowie Dokumentation 12 Wartung 9 Weitere Kosten (Softwarelizenzen zur Projektorganisation und-management, daher keine Personentage) 0 Dem Angebot liegen folgende Annahmen zugrunde: • Die Visualisierung der Testszenarien und Automatisierungen erfolgt als Dashboard innerhalb einer Web -Applikation • Für die Entwicklung und Umsetzung der Showcases mit den dafür notwendigen Bestandteilen wird der Open Source Technologie -Stack des AN verwendet und so modular aufgesetzt, dass er perspektivisch durch andere Komponenten ausgetauscht werden könnte • Für den IT -Betrieb sowie Wartung, Pflege & Support für die ersten 12 Monate gelten die angebotenen SLA und folgende Parameter o Der Preis gilt für 1 Mandant, da zum jetzigen Zeitpunkt das Setup der anderen Mandanten nicht bekannt und daher nicht kalkuliert werden kann . Die Plattform ist jedoch technisch mandantenfähig ausgerichtet und wird so aufgesetzt, sodass weitere Mandanten mit wenig Aufwand eingerichtet werden können und somit die Anforderungen zur interkommunalen Zusammenarbeit gegeben sind. o Der Preis gilt für ein maximales Datenvolumen von zwei Terrabyte. o Je weiterer Mandant erhöht sich d ie monatlichen Betriebs - und Wartungs kosten um: 2.250,00,- €. Der Preis kann sich in Abhängigkeit des Mandantenkonzepts im Sinne von Effizienzsteigerungen verändern. • Die Kosten für die fortlaufenden Monate/ Jahre zum Betrieb, Wartung und Pflege der Showcases beträgt 2.250,00,-€ o Sollte sich der Funktionsumfang oder die Anforderungen über den vergabegegenständlichen Umfang erweitern, muss dieser Preis gemeinsam mit dem AG neu evaluiert und ggfs. angepasst werden • Etwaige Inkompatibilitäten der vorhandenen Systeme, Datenquellen, Sensoren usw. zur angebotenen Plattform sowie eingesetzten IT-Infrastruktur des Auftragnehmers gehen zu Lasten des Auftraggebers. Für etwaige Zusatzleistungen gelten die folgenden Tagessätze: • Projektmanagement 1.100,00,-€ • System - bzw. Software -Architekt 1.100,00,-€ • Software -Entwickler: 900,00,-€ Die Abnahme durch den AG muss innerhalb eines Testzeitraumes von 2 Wochen nach Fertigstellung des Arbeitspaketes durch Unterschrift auf dem Abnahmeprotokoll erfolgen. Die Abnahmefrist beginnt mit der Mitteilung der Fertigstellung der abzunehmenden Leistung vom AN an den AG. Innerhalb dieses Zeitraums kann der AG anhand der definierten Testmittel die Leistung auf ihre Vertragsgemäßheit prüfen und eventuelle Mangel rügen. Mängel werden in Form einer Mängelliste und mit konkreter und strukturierter Beschreibun g an den AN kommuniziert. Der AG ist dafür verantwortlich, die Abnahme vollständig und umfassend innerhalb der vorgegebenen Frist durchzuführen, insbesondere trägt er dafür Sorge, dass alle an der Abnahme beteiligten Personen rechtzeitig zur Verfügung stehen und ausreichend informi ert sind. Dienstleistungsvertrag: Im Anhang wurde ein Entwurf eines EVB -IT Vertrag als Vorlage für den abzuschließenden Dienstleistungsvertrag beigefügt. Die Finalisierung erfolgt n ach Auftragsvergabe.",
+      "length_tokens": 584,
+      "structure_path": "CONCEPT Konzept > 11 Rahmenbedingungen des Angebots > 11.1 Preis und dazugehörige Erklärungen"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "11.2. Mitwirkungspflichten des AG",
+      "block_id": "a-b20b6958-fbee-5eaa-8726-2b90eb81815b",
+      "text": "11.2. Mitwirkungspflichten des AG\n\nEine wesentliche Grundlage für erfolgreiche Projekte ist eine vertrauensvolle Zusammenarbeit zwischen dem AG und dem AN. Der AG ist an allen Projektschritten intensiv beteiligt, um Veränderungsprozesse zu gestalten und die Einführung zu unterstützen. Im Ei nzelnen ist der AG zur Erbringung folgender Mitwirkungshandlungen verpflichtet, die für die AN kostenfrei sind: • Der Kunden -Projektleiter ist mitverantwortlich für das Scopemanagement. • Es wird ein verantwortlicher Mitarbeiter als Teilprojektleiter zur Verfügung gestellt. • Der AG informiert vor Projektstart seine Teammitglieder über alle Vereinbarungen, die für die Projektdurchführung relevant sind. Dies betrifft insbesondere vereinbarte Zielsetzungen wie z.B. Einführung standardisierter Prozesse und Abweichungen vom Standar d nur in begründeten Sonderfällen. • Der AG stellt die benötigten Informationen oder Kontakt zu Ansprechpersonen in angemes sener Zeit zur Verfügung. • Der AG stellt sämtliche Informationen, Unterlagen und Daten, die für die Leistungserbringung der AN erforderlich sind, termingerecht zur Verfügung. Auf Anforderung wird passend zum Informationsbedarf relevante Dokumentation vom AG zur Verfügung gestellt un d bei Bedarf, das Team der AN erläutert.",
+      "length_tokens": 169,
+      "structure_path": "CONCEPT Konzept > 11 Rahmenbedingungen des Angebots > 11.2 Mitwirkungspflichten des AG"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "12. Unternehmensvorstellung",
+      "block_id": "a-7bcf33ff-dd0b-5ad5-82dc-7525c18b7b3a",
+      "text": "12. Unternehmensvorstellung\n\nDie Bewerbergemeinschaft Digitale Zukunft setzt sich aus den Firmen KI-P GmbH und Smart Platforms GmbH zusammen. Die Zusammensetzung und Bündelung der jeweiligen Kompetenzen in der Bewerbergemeinschaft gewährleisten eine ganzheitliche und regionale Betreuung über das gesamte Projekt hinweg. Die Firmen werden im Folgenden jeweils vorgestellt. KI-P GmbH Die KI-P GmbH aus Westhausen entwickelt und betreibt datenbasierte Anwendungen für Kommunen, Regionen und Unternehmen. Durch Verknüpfung der Kompetenzbereiche Prozessmanagement, Datenmanagement und-analyse sowie Softwareentwicklung stellt die KI -P maßgeschneiderte Anwendungen bereit. Die Entwicklung en der Anwendungen, die u.a. Plattformen, Dashboards, Web\n\n- oder mobile\n\nApps sowie Automatisierungslösungen sein können, werden hierbei eng mit unseren Kunden abgestimmt, um das gewünschte Endprodukt zu erhalten und einen reibungslosen Betrieb zu gewährleisten. Hierfür startet der Entwicklungsprozess bereits mit der Ideenfindung und Konzeptionsphase und ist erst abgeschlossen, nachdem die reibungslose Einbindung in die bestehenden Prozesse und Abläufe erfolgt ist. Das Leistungsportfolio umfasst: • Prozessmanagement: Gestaltung intelligenter und effizienter Prozesse durch Einbindung digitaler Anwendungen und den aus den analysierten Daten gewonnenen Erkenntnissen • Digitale Anwendungen (Web-App, mobile App) : Entwicklung von Digitalen Anwendungen und Services (z.B. Dashboards, Intelligente Bew ässerung, Chatbots) • Datenplattform und Analytics: Sammlung, Aufbereitung, Verkn üpfung und Auswertung von Daten, um Erkenntnisse und Zusammenh änge aus den Daten zu gewinnen Die K I-P GmbH beschäftigt sich primär mit datenbasierten bzw. digitalen Anwendungen . Dabei stellen für uns die Anwendungen ein Werkzeug dar, das dem Menschen die Arbeit erleichtern soll. Aus diesem Grund legen wir großen Wert auf die Betrachtung der Prozesse und die frühzeitige Einbindung der am Prozess beteiligten Personen. Smart Platforms GmbH Die Smart Platforms GmbH entwickelt und betreibt Smart City Plattformen, um Städten und kommunalen Unternehmen die technischen Möglichkeiten an die Hand zu geben, um ihre Vision einer nach- haltigen und digital vernetzten Stadt / Region zu verwirklichen. Unser Leistungsportfolio as a Service beinhaltet gemeinsam mit unseren Kunden: • Strategie und Geschäftsmodell erarbeiten, • Plattform -Ökonomie denken und technisch implementieren, • Daten -Management -Konzepte entwickeln und umsetzen, • Digitale Dienstleistungen integrieren, orchestrieren und • Plattform Ökosysteme effizient und ganzheitlich betreiben.",
+      "length_tokens": 337,
+      "structure_path": "CONCEPT Konzept > 12 Unternehmensvorstellung"
+    },
+    {
+      "tender_id": "flensburg_sgr_datenplattform_2023",
+      "theme": "Datenplattform | Mobilität",
+      "chapter": "13. Referenzen",
+      "block_id": "a-a58444f1-907c-5a24-b182-d942315167fc",
+      "text": "13. Referenzen\n\nDie Bewerbergemeinschaft Digitale Zukunft bringt umfassende Erfahrungen aus der strategischen Kommunal - und Digitalisierungsberatung von Smart City -Modellprojekten, über Landkreise und Gemeinden bis hin zur technischen Umsetzung und dem Betrieb von verschiedenen Sensorik -Anwendungen und Plattformlösungen (Stadtapps, Datenplattformen etc.) ins Projekt ein. Die ausführlichen Refe- renzbeschreibungen sind dem Anhang zu entnehmen. KI-P GmbH • Themenweg \"Erneuerbare Energien\"\n\n- Visualisierung von Energieerzeugungsanlagen für das\n\nSmart City Modellprojekt (MPSC) Landkreis Sankt Wendel • Entwicklung einer Web -Anwendung zur Überwachung von Gewässern für das Smart City Modellprojekt (MPSC) Landkreis Sankt Wendel • Umsetzungskonzept IoX Plattform für die Stadtwerke Garbsen • Konzeption und Realisierung eines echtzeitbasierten Reservierungs -, Buchungs - und Bezahlsystem für die Heilbäder und Kurorte Marketing GmbH Baden-Württemberg • Konzeption und Realisierung eines intelligenten E -Lademanagements am Landratsamt Heidenheim • Realisierung einer Besuchersteuerung mittels Parkflächen -, Personen - & Verkehrsfrequenzanalyse für die Stadt Hof • Cybersichere und datenschutzkonforme 5G-Infrastruktur zur Verkehrsflussoptimierung In Smart -Cities für die Stadt Aalen • Erarbeitung und Durchführung von Fachseminaren und Workshops im Rahmen der ZDE Akademie Smart Platforms GmbH • City App für die Stadt Northeim • Mobilitätsplattform für die Verkehrsaktiengesellschaft Nürnberg Link: https://www.nuernbergmobil.de • Single Sign on und Datendrehscheibe für den Verkehrsverbund Großraum Nürnberg (VGN) • Digitalisierung der ländlichen Mobilität im für den Landkreis Freyung-Grafenau Link: https://www.frgmobil.de/trip -request -screen • Care+Mobility Plattform für den Kreis Heinsberg und Städteregion Aachen Link: https://smarte.staedteregion-aachen.de/home Unterschrift Hiermit sagen wir Ihnen verbindlich zu, dass entsprechende Kapazitäten für die termingerechte Abwicklung des Projekts vorhanden sind. Westhausen, den 04.08.2023 Timo Grimm Geschäftsführer KI -P GmbH und Vertretungsberechtigter der Bewerbergemeinschaft Digitale Zukunft ANLAGEN Angebotsschreiben Erklärung Bewerbergemeinschaft Eigenerklärungen zur Eignung §§ 124 AVPQ -Nachweise Nachweise zur Betriebshaftpflicht Handelsregisterauszüge Verpflichtungserklärungen zum Mindestentgelt Preisblatt Zeitplan Ausgewählte Referenzen im Detail Lebensläufe der Projektleitung mit Nachweisen Entwurf EVB -IT Vertrag als Dienstleistungsvertrag Regelung von Open Source Software",
+      "length_tokens": 300,
+      "structure_path": "CONCEPT Konzept > 13 Referenzen"
+    }
+  ],
+  "links": [
+    {
+      "query_block_id": "q-50eb0369-3640-54e2-853e-9be097458c9f",
+      "answer_block_id": "a-4061a73a-7d4c-5fad-aded-9dd849515504",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-50eb0369-3640-54e2-853e-9be097458c9f",
+      "answer_block_id": "a-e7f8b6e1-da5e-5748-ab52-c91d8d31a2d7",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-d5d2fa4b-61f1-5cb3-8e36-e73b5131eec9",
+      "answer_block_id": "a-cb87065b-e871-5530-a3a4-71cd5606f7f3",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-c87cb3be-1a2b-5b3a-8c76-aac3403886e9",
+      "answer_block_id": "a-4061a73a-7d4c-5fad-aded-9dd849515504",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-d4e351eb-f2af-57fa-bc3e-74ede532088e",
+      "answer_block_id": "a-4061a73a-7d4c-5fad-aded-9dd849515504",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-08c45241-0cb5-5144-9997-56dcaeadbfd0",
+      "answer_block_id": "a-e7f8b6e1-da5e-5748-ab52-c91d8d31a2d7",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-f9e34647-662f-5541-a9f6-9db734aca2db",
+      "answer_block_id": "a-5f7ff0cd-e989-5a4f-b86e-78d3269bca47",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-48c21951-4ac0-53ff-96a4-ebcde4424415",
+      "answer_block_id": "a-e7f8b6e1-da5e-5748-ab52-c91d8d31a2d7",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-c5a3f486-7f0f-5748-a5f4-09e273294515",
+      "answer_block_id": "a-cb0378d9-44d5-5068-adc0-a02c6d4e2a70",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-ea7b8191-1ba9-5a9a-8425-2a663963f021",
+      "answer_block_id": "a-d9c10c7a-1dc8-5efa-9ad2-648d31678302",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-ce9af4d9-6651-5c5f-aa69-0308db41cd04",
+      "answer_block_id": "a-e2da5ceb-1940-5d42-87c2-5160f7d529a7",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-5e8a887e-d2d3-5f06-b966-18b8c707ac3d",
+      "answer_block_id": "a-e7f8b6e1-da5e-5748-ab52-c91d8d31a2d7",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-8ad9b8c8-8969-5beb-8c5d-ae3cba4d70d1",
+      "answer_block_id": "a-e7f8b6e1-da5e-5748-ab52-c91d8d31a2d7",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-d4ecbcc4-578b-5f78-8758-9200a2fcbc2d",
+      "answer_block_id": "a-b2433171-09d8-534d-b1dc-dd16c72835da",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-d4ecbcc4-578b-5f78-8758-9200a2fcbc2d",
+      "answer_block_id": "a-a58444f1-907c-5a24-b182-d942315167fc",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-f8410103-6774-5363-bd03-21be96e1b6c5",
+      "answer_block_id": "a-b2433171-09d8-534d-b1dc-dd16c72835da",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-f8410103-6774-5363-bd03-21be96e1b6c5",
+      "answer_block_id": "a-a58444f1-907c-5a24-b182-d942315167fc",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-84b2dd33-cab1-5b07-856c-f2151ed4d315",
+      "answer_block_id": "a-7bcf33ff-dd0b-5ad5-82dc-7525c18b7b3a",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-cb9b80fc-bc09-55eb-b068-c6a4f2fb2634",
+      "answer_block_id": "a-915ccfb9-5375-5701-adc4-c28cc8d3d290",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-6ad40235-ea3a-5a6f-9881-901943ea04d2",
+      "answer_block_id": "a-e7f8b6e1-da5e-5748-ab52-c91d8d31a2d7",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-dc8d5e75-d196-57ab-925b-c50c37ef419e",
+      "answer_block_id": "a-e7f8b6e1-da5e-5748-ab52-c91d8d31a2d7",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-9af834a8-c368-5ff0-a8bf-f71963cd5628",
+      "answer_block_id": "a-e7f8b6e1-da5e-5748-ab52-c91d8d31a2d7",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-bd4f950c-eb1b-5726-bd64-59ce0667e083",
+      "answer_block_id": "a-a65edc9d-281a-5fb7-919f-c788a71e4e18",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-0481ed76-45f5-5765-809f-8eac8dbf48a8",
+      "answer_block_id": "a-e062ac60-90ec-5ff8-908c-affc11939782",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-406c1c37-5f72-504e-aaba-5b6a93892b6c",
+      "answer_block_id": "a-44e3f43a-cda7-5c21-8e39-d30ed0b64c86",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-55c6b787-7e7f-5e4c-97df-4a99fb7c393f",
+      "answer_block_id": "a-b0471238-1013-55a0-a302-494ab333a913",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-48d9cc70-e00f-55f6-9b62-c58f19f83c1c",
+      "answer_block_id": "a-cb0378d9-44d5-5068-adc0-a02c6d4e2a70",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-c354a529-5dec-5473-8637-9cb374757966",
+      "answer_block_id": "a-5f7ff0cd-e989-5a4f-b86e-78d3269bca47",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-d58782f9-6a26-5b8c-a4e2-071044e7a082",
+      "answer_block_id": "a-915ccfb9-5375-5701-adc4-c28cc8d3d290",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-b7d2578c-2f8d-557c-a551-3166a5741dc3",
+      "answer_block_id": "a-cb0378d9-44d5-5068-adc0-a02c6d4e2a70",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-ad75bf2e-9c3e-521e-b633-fca523f6a8a8",
+      "answer_block_id": "a-fb84112e-00d2-5344-b94a-4f155892aa19",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-28d1c731-6531-506b-bc63-a36f478712eb",
+      "answer_block_id": "a-b0471238-1013-55a0-a302-494ab333a913",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-9d5dd671-7bd5-54aa-b070-e5595ba7db0d",
+      "answer_block_id": "a-866c556a-12ad-5f4c-8527-c10694ddfa56",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-e7d8432b-cd33-595b-80e0-46a5bc7f77e2",
+      "answer_block_id": "a-915ccfb9-5375-5701-adc4-c28cc8d3d290",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-690e6626-91f1-5a10-8c3b-5b5855a2fce1",
+      "answer_block_id": "a-cb0378d9-44d5-5068-adc0-a02c6d4e2a70",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-c87a9619-d627-53ec-a8ea-fca30f1ef96d",
+      "answer_block_id": "a-866c556a-12ad-5f4c-8527-c10694ddfa56",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-2fa69611-89dc-5b20-adb3-4fa3af084600",
+      "answer_block_id": "a-cb0378d9-44d5-5068-adc0-a02c6d4e2a70",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-9997d6f5-00ef-599d-a5e8-abca41d935e7",
+      "answer_block_id": "a-cb0378d9-44d5-5068-adc0-a02c6d4e2a70",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-de7ae0f5-116a-55a9-8ef0-2bbcae81bea3",
+      "answer_block_id": "a-cb87065b-e871-5530-a3a4-71cd5606f7f3",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-9c950782-0044-5c35-99cd-be9be70121b9",
+      "answer_block_id": "a-5f7ff0cd-e989-5a4f-b86e-78d3269bca47",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-a54f937b-443e-51b7-aa01-03e49effc275",
+      "answer_block_id": "a-d9c10c7a-1dc8-5efa-9ad2-648d31678302",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-a04b19aa-280a-5008-9de2-cec5d9d5f824",
+      "answer_block_id": "a-5f7ff0cd-e989-5a4f-b86e-78d3269bca47",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-dc004487-56da-5e0a-81d8-62ed44759dd9",
+      "answer_block_id": "a-e2da5ceb-1940-5d42-87c2-5160f7d529a7",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-b0962de4-1e3e-5ff7-b914-f3e13de08192",
+      "answer_block_id": "a-9c798752-5a55-5dee-92d7-1c85813417ea",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-7afbf5d1-4994-5053-b72f-43d8d82f72d7",
+      "answer_block_id": "a-1fccfb54-a0d2-504f-9b7d-f90ea9d35742",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-a29756a0-67d2-56fa-901f-067208462af0",
+      "answer_block_id": "a-fb84112e-00d2-5344-b94a-4f155892aa19",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-76869665-df3d-585f-8299-2bcdfad3f01c",
+      "answer_block_id": "a-5f7ff0cd-e989-5a4f-b86e-78d3269bca47",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-300c782c-0b07-53d8-8936-736218c77dcf",
+      "answer_block_id": "a-5f7ff0cd-e989-5a4f-b86e-78d3269bca47",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-cfeb9fcc-5201-5fb1-bc31-65600966a443",
+      "answer_block_id": "a-5944deec-f2a6-523b-8a60-d30b790faea0",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-2452fed2-9fcd-5e98-b263-f9ec73bc6eb8",
+      "answer_block_id": "a-915ccfb9-5375-5701-adc4-c28cc8d3d290",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-f270a218-86b6-5ee9-a3ed-46d28f3b5ec4",
+      "answer_block_id": "a-fb84112e-00d2-5344-b94a-4f155892aa19",
+      "relevance": 1
+    },
+    {
+      "query_block_id": "q-ac2b7c07-8699-54fa-92c5-c55b65dfb3bc",
+      "answer_block_id": "a-26de0e1c-37e0-5c7d-a0a4-97eac3e9395c",
+      "relevance": 1
+    }
+  ]
+}

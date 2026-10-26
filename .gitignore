@@ -1,0 +1,130 @@
+# Files intentionally excluded from Git and restored by setup or model download
+
+# Downloaded directly from Hugging Face
+/evaluation/evaluation_runner/checkpoints/AlignScore-base.ckpt
+
+# External asset ZIP: raw experiment-result JSONs (all datasets and methods)
+/hupd_dataset/multi_agent/multi_agent_results/hupd_agentic_hupd_answers_Qwen__Qwen2.5-32B-Instruct-agentic-final.json
+/hupd_dataset/results/hupd_dense_parent_child_Qwen__Qwen2.5-32B-Instruct.json
+/hupd_dataset/results/hupd_dense_parent_child_Qwen__Qwen2.5-72B-Instruct.json
+/hupd_dataset/results/hupd_dense_parent_child_Qwen__Qwen2.5-7B-Instruct.json
+/hupd_dataset/results/hupd_dense_parent_Qwen__Qwen2.5-32B-Instruct.json
+/hupd_dataset/results/hupd_dense_parent_Qwen__Qwen2.5-72B-Instruct.json
+/hupd_dataset/results/hupd_dense_parent_Qwen__Qwen2.5-7B-Instruct.json
+/hupd_dataset/results/hupd_hybrid_parent_child_Qwen__Qwen2.5-32B-Instruct.json
+/hupd_dataset/results/hupd_hybrid_parent_child_Qwen__Qwen2.5-72B-Instruct.json
+/hupd_dataset/results/hupd_hybrid_parent_child_Qwen__Qwen2.5-7B-Instruct.json
+/hupd_dataset/results/hupd_sparse_parent_BM25L_Qwen__Qwen2.5-32B-Instruct.json
+/hupd_dataset/results/hupd_sparse_parent_BM25L_Qwen__Qwen2.5-72B-Instruct.json
+/hupd_dataset/results/hupd_sparse_parent_BM25L_Qwen__Qwen2.5-7B-Instruct.json
+/hupd_dataset/results/hupd_sparse_parent_child_Qwen__Qwen2.5-32B-Instruct.json
+/hupd_dataset/results/hupd_sparse_parent_child_Qwen__Qwen2.5-72B-Instruct.json
+/hupd_dataset/results/hupd_sparse_parent_child_Qwen__Qwen2.5-7B-Instruct.json
+/hupd_dataset/results/hupd_sparse_parent_Qwen__Qwen2.5-32B-Instruct.json
+/hupd_dataset/results/hupd_sparse_parent_Qwen__Qwen2.5-72B-Instruct.json
+/hupd_dataset/results/hupd_sparse_parent_Qwen__Qwen2.5-7B-Instruct.json
+/ledgar_dataset/multi_agent/multi_agent_results/ledgar_agentic_ledgar_answers_Qwen__Qwen2.5-32B-Instruct-agentic-final.json
+/ledgar_dataset/results/ledgar_dense_parent_child_Qwen__Qwen2.5-32B-Instruct.json
+/ledgar_dataset/results/ledgar_dense_parent_child_Qwen__Qwen2.5-72B-Instruct.json
+/ledgar_dataset/results/ledgar_dense_parent_child_Qwen__Qwen2.5-7B-Instruct.json
+/ledgar_dataset/results/ledgar_dense_parent_Qwen__Qwen2.5-32B-Instruct.json
+/ledgar_dataset/results/ledgar_dense_parent_Qwen__Qwen2.5-72B-Instruct.json
+/ledgar_dataset/results/ledgar_dense_parent_Qwen__Qwen2.5-7B-Instruct.json
+/ledgar_dataset/results/ledgar_hybrid_parent_child_Qwen__Qwen2.5-32B-Instruct.json
+/ledgar_dataset/results/ledgar_hybrid_parent_child_Qwen__Qwen2.5-72B-Instruct.json
+/ledgar_dataset/results/ledgar_hybrid_parent_child_Qwen__Qwen2.5-7B-Instruct.json
+/ledgar_dataset/results/ledgar_sparse_parent_BM25L_Qwen__Qwen2.5-32B-Instruct.json
+/ledgar_dataset/results/ledgar_sparse_parent_BM25L_Qwen__Qwen2.5-72B-Instruct.json
+/ledgar_dataset/results/ledgar_sparse_parent_BM25L_Qwen__Qwen2.5-7B-Instruct.json
+/ledgar_dataset/results/ledgar_sparse_parent_child_Qwen__Qwen2.5-32B-Instruct.json
+/ledgar_dataset/results/ledgar_sparse_parent_child_Qwen__Qwen2.5-72B-Instruct.json
+/ledgar_dataset/results/ledgar_sparse_parent_child_Qwen__Qwen2.5-7B-Instruct.json
+/ledgar_dataset/results/ledgar_sparse_parent_Qwen__Qwen2.5-32B-Instruct.json
+/ledgar_dataset/results/ledgar_sparse_parent_Qwen__Qwen2.5-72B-Instruct.json
+/ledgar_dataset/results/ledgar_sparse_parent_Qwen__Qwen2.5-7B-Instruct.json
+/tender_dataset/multi_agent/multi_agent_results/tender_agentic_tender_answers_Qwen__Qwen2.5-32B-Instruct-agentic-final.json
+/tender_dataset/results/tender_dense_parent_child_meta-llama__Llama-3.1-70B-Instruct.json
+/tender_dataset/results/tender_dense_parent_child_meta-llama__Llama-3.1-8B-Instruct.json
+/tender_dataset/results/tender_dense_parent_child_Qwen__Qwen2.5-32B-Instruct.json
+/tender_dataset/results/tender_dense_parent_child_Qwen__Qwen2.5-72B-Instruct.json
+/tender_dataset/results/tender_dense_parent_child_Qwen__Qwen2.5-7B-Instruct.json
+/tender_dataset/results/tender_dense_parent_child_Qwen__Qwen3-235B-A22B-Instruct-2507.json
+/tender_dataset/results/tender_dense_parent_meta-llama__Llama-3.1-70B-Instruct.json
+/tender_dataset/results/tender_dense_parent_meta-llama__Llama-3.1-8B-Instruct.json
+/tender_dataset/results/tender_dense_parent_Qwen__Qwen2.5-32B-Instruct.json
+/tender_dataset/results/tender_dense_parent_Qwen__Qwen2.5-72B-Instruct.json
+/tender_dataset/results/tender_dense_parent_Qwen__Qwen2.5-7B-Instruct.json
+/tender_dataset/results/tender_dense_parent_Qwen__Qwen3-235B-A22B-Instruct-2507.json
+/tender_dataset/results/tender_hybrid_parent_child_meta-llama__Llama-3.1-70B-Instruct.json
+/tender_dataset/results/tender_hybrid_parent_child_meta-llama__Llama-3.1-8B-Instruct.json
+/tender_dataset/results/tender_hybrid_parent_child_Qwen__Qwen2.5-32B-Instruct.json
+/tender_dataset/results/tender_hybrid_parent_child_Qwen__Qwen2.5-72B-Instruct.json
+/tender_dataset/results/tender_hybrid_parent_child_Qwen__Qwen2.5-7B-Instruct.json
+/tender_dataset/results/tender_hybrid_parent_child_Qwen__Qwen3-235B-A22B-Instruct-2507.json
+/tender_dataset/results/tender_sparse_parent_BM25L_meta-llama__Llama-3.1-70B-Instruct.json
+/tender_dataset/results/tender_sparse_parent_BM25L_meta-llama__Llama-3.1-8B-Instruct.json
+/tender_dataset/results/tender_sparse_parent_BM25L_Qwen__Qwen2.5-32B-Instruct.json
+/tender_dataset/results/tender_sparse_parent_BM25L_Qwen__Qwen2.5-72B-Instruct.json
+/tender_dataset/results/tender_sparse_parent_BM25L_Qwen__Qwen2.5-7B-Instruct.json
+/tender_dataset/results/tender_sparse_parent_BM25L_Qwen__Qwen3-235B-A22B-Instruct-2507.json
+/tender_dataset/results/tender_sparse_parent_child_meta-llama__Llama-3.1-70B-Instruct.json
+/tender_dataset/results/tender_sparse_parent_child_meta-llama__Llama-3.1-8B-Instruct.json
+/tender_dataset/results/tender_sparse_parent_child_Qwen__Qwen2.5-32B-Instruct.json
+/tender_dataset/results/tender_sparse_parent_child_Qwen__Qwen2.5-72B-Instruct.json
+/tender_dataset/results/tender_sparse_parent_child_Qwen__Qwen2.5-7B-Instruct.json
+/tender_dataset/results/tender_sparse_parent_child_Qwen__Qwen3-235B-A22B-Instruct-2507.json
+/tender_dataset/results/tender_sparse_parent_meta-llama__Llama-3.1-70B-Instruct.json
+/tender_dataset/results/tender_sparse_parent_meta-llama__Llama-3.1-8B-Instruct.json
+/tender_dataset/results/tender_sparse_parent_Qwen__Qwen2.5-32B-Instruct.json
+/tender_dataset/results/tender_sparse_parent_Qwen__Qwen2.5-72B-Instruct.json
+/tender_dataset/results/tender_sparse_parent_Qwen__Qwen2.5-7B-Instruct.json
+/tender_dataset/results/tender_sparse_parent_Qwen__Qwen3-235B-A22B-Instruct-2507.json
+
+# External asset ZIP: Tender source documents
+/tender_dataset/concepts_and_RFPs_raw/2024-07-13 Angebotskonzept Einbeck final.pdf
+/tender_dataset/concepts_and_RFPs_raw/2024-08-14 Angebotskonzept Bad Honnef.pdf
+/tender_dataset/concepts_and_RFPs_raw/20240207 LV_Ausschreibung digitales Monitoringtool_Stadt_Celle (1).pdf
+/tender_dataset/concepts_and_RFPs_raw/2024_03_10 Angebotskonzept Dietzenbach.docx
+/tender_dataset/concepts_and_RFPs_raw/22 05 17_Urbane Datenplattform_Aalen.pdf
+/tender_dataset/concepts_and_RFPs_raw/7886452_Leistungsbeschreibung der Anforderungen.pdf
+/tender_dataset/concepts_and_RFPs_raw/Angebotskonzept Fulda v1.pdf
+/tender_dataset/concepts_and_RFPs_raw/Ausschreibung Datenplattform BHAG.pdf
+/tender_dataset/concepts_and_RFPs_raw/Konzept Augsburger Verkehrsverbund.pdf
+/tender_dataset/concepts_and_RFPs_raw/Konzept Ausschreibung Heilbronn-Franken.docx
+/tender_dataset/concepts_and_RFPs_raw/Konzept Bamberg Mobilitätsplattform.pdf
+/tender_dataset/concepts_and_RFPs_raw/Konzept Hamburger Hochbahn.docx
+/tender_dataset/concepts_and_RFPs_raw/Konzept Hof.pdf
+/tender_dataset/concepts_and_RFPs_raw/Konzept KielRegion.pdf
+/tender_dataset/concepts_and_RFPs_raw/Konzept KSD Hildesheim (1).pdf
+/tender_dataset/concepts_and_RFPs_raw/Konzept NAH.SH.pdf
+/tender_dataset/concepts_and_RFPs_raw/Konzept Smartboard_Stadt Andernach.pdf
+/tender_dataset/concepts_and_RFPs_raw/Konzept Stadt Celle.pdf
+/tender_dataset/concepts_and_RFPs_raw/Konzept_Flensburg.pdf
+/tender_dataset/concepts_and_RFPs_raw/Konzept_Geestland.pdf
+/tender_dataset/concepts_and_RFPs_raw/Konzept_Jena.pdf
+/tender_dataset/concepts_and_RFPs_raw/Konzept_Landkreis_Harz.docx
+/tender_dataset/concepts_and_RFPs_raw/Konzept_Stadt Friedrichshafen.pdf
+/tender_dataset/concepts_and_RFPs_raw/Konzept_Stadt Halle.pdf
+/tender_dataset/concepts_and_RFPs_raw/Konzept_Stadt Mainz.pdf
+/tender_dataset/concepts_and_RFPs_raw/Konzept_Stadt Oldenburg.docx
+/tender_dataset/concepts_and_RFPs_raw/Konzept_Stadt Paderborn_v1.pdf
+/tender_dataset/concepts_and_RFPs_raw/Konzept_Stadt Regensburg.pdf
+/tender_dataset/concepts_and_RFPs_raw/Konzept_StWendel Social Gardening.pdf
+/tender_dataset/concepts_and_RFPs_raw/Konzept_StWendelEnergieweg.pdf
+/tender_dataset/concepts_and_RFPs_raw/Konzept_Traunreut_final.pdf
+/tender_dataset/concepts_and_RFPs_raw/Konzept_UDP_Digitalagentur Smarte Grenzregion (1).pdf
+/tender_dataset/concepts_and_RFPs_raw/Konzept_WFG Heinsberg__KI-P GmbH.pdf
+/tender_dataset/concepts_and_RFPs_raw/Konzeptbeschreibung_Menden Digital.pdf
+/tender_dataset/concepts_and_RFPs_raw/Leistungsbeschreibung Hof.pdf
+/tender_dataset/concepts_and_RFPs_raw/Leistungsbeschreibung KielRegion.pdf
+/tender_dataset/concepts_and_RFPs_raw/Leistungsbeschreibung_Flensburg.pdf
+/tender_dataset/concepts_and_RFPs_raw/Leistungsbeschreibung_Fulda.pdf
+/tender_dataset/concepts_and_RFPs_raw/Leistungsbeschreibung_Smartboard_Smarte_Bahnhofstrasse_TG.pdf
+/tender_dataset/concepts_and_RFPs_raw/Leistungsbeschreibung_StWendel Social Gardening.pdf
+/tender_dataset/concepts_and_RFPs_raw/Leistungsbeschreibung_StWendelEnergieweg.pdf
+/tender_dataset/concepts_and_RFPs_raw/Leistungsverzeichnis Einbeck.pdf
+/tender_dataset/concepts_and_RFPs_raw/Leistungsverzeichnis_Augsburg.xlsx
+
+# Jupyter-generated checkpoint files
+**/.ipynb_checkpoints/
+desktop.ini

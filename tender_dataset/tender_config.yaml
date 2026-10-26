@@ -1,0 +1,64 @@
+dataset: tender
+
+# Relative paths in this config are resolved from the repository root.
+base_dir: .
+
+paths:
+  children: ./tender_dataset/rag_artifacts/children.jsonl
+  parent_embeddings: ./tender_dataset/rag_artifacts/parent_embeddings.npy
+  parents: ./tender_dataset/rag_artifacts/parents.jsonl
+  child_embeddings: ./tender_dataset/rag_artifacts/child_embeddings.npy
+  results_dir: ./tender_dataset/results
+  system_prompt: ./tender_dataset/tender_system_prompt.txt
+  test_cases: ./tender_dataset/test_cases.csv
+
+query_cleaning:
+  patterns:
+    - name: remove_word_limit_chapter_instruction
+      regex: '\s*Verfass(?:e|en Sie)\s+ein\s+prägnantes,\s*aber\s+vollständiges\s+Kapitel\s+mit\s+maximal\s+\d+\s+Wörtern\.?' 
+  
+retrieval:
+  top_k: [5, 10, 15, 20]
+  methods:
+    - dense_parent_child
+    - dense_parent
+    - sparse_parent_child
+    - sparse_parent
+    - sparse_parent_L
+    - hybrid_parent_child
+
+generation:
+  max_output_tokens: 5000
+  temperature: 0.0
+
+  providers:
+    vllm:
+      dtype: auto
+      max_model_len: 8192
+
+  generators:
+    #- name: Qwen/Qwen3-235B-A22B-Instruct-2507
+    #  provider: vllm
+    #  model: Qwen/Qwen3-235B-A22B-Instruct-2507
+
+    - name: Qwen/Qwen2.5-32B-Instruct
+      provider: vllm
+      model: Qwen/Qwen2.5-32B-Instruct
+
+    - name: Qwen/Qwen2.5-7B-Instruct
+      provider: vllm
+      model: Qwen/Qwen2.5-7B-Instruct
+
+    - name: llama3-8b-instruct
+      provider: vllm
+      model: meta-llama/Meta-Llama-3-8B-Instruct
+
+    - name: meta-llama/Llama-3.1-70B-Instruct
+      provider: vllm
+      model: meta-llama/Llama-3.1-70B-Instruct
+
+    - name: Qwen/Qwen2.5-72B-Instruct
+      provider: vllm
+      model: Qwen/Qwen2.5-72B-Instruct
+
+

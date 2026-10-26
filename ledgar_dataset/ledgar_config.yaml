@@ -1,0 +1,67 @@
+dataset: ledgar
+
+# Relative paths in this config are resolved from the repository root.
+base_dir: .
+
+paths:
+  parents: ./ledgar_dataset/rag_artifacts/ledgar_parents.jsonl
+  children: ./ledgar_dataset/rag_artifacts/ledgar_children.jsonl
+  parent_embeddings: ./ledgar_dataset/rag_artifacts/ledgar_parent_embeddings.npy
+  child_embeddings: ./ledgar_dataset/rag_artifacts/ledgar_child_embeddings.npy
+  results_dir: ./ledgar_dataset/results
+  system_prompt: ./ledgar_dataset/ledgar_system_prompt.txt
+  test_cases: ./ledgar_dataset/ledgar_test_cases.csv
+
+query_cleaning:
+  patterns:
+    - name: remove_word_limit_chapter_instruction
+      regex: '\s*Write\s+a\s+concise\s+but\s+comprehensive\s+chapter\s+of\s+no\s+more\s+than\s+\d+\s+words\.?'
+
+retrieval:
+  top_k: [5, 10, 15, 20]
+  methods:
+    - dense_parent_child
+    - dense_parent
+    - sparse_parent_child
+    - sparse_parent
+    - sparse_parent_L
+    - hybrid_parent_child
+
+
+generation:
+  max_output_tokens: 5000
+  temperature: 0.0
+
+  providers:
+    vllm:
+      dtype: auto
+      max_model_len: 8192
+
+  generators:
+
+
+
+
+    - name: Qwen/Qwen2.5-32B-Instruct
+      provider: vllm
+      model: Qwen/Qwen2.5-32B-Instruct
+
+    - name: Qwen/Qwen2.5-7B-Instruct
+      provider: vllm
+      model: Qwen/Qwen2.5-7B-Instruct
+
+    - name: llama3-8b-instruct
+      provider: vllm
+      model: meta-llama/Meta-Llama-3-8B-Instruct
+
+    - name: Qwen/Qwen2.5-72B-Instruct
+      provider: vllm
+      model: Qwen/Qwen2.5-72B-Instruct
+
+    - name: meta-llama/Llama-3.1-70B-Instruct
+      provider: vllm
+      model: meta-llama/Llama-3.1-70B-Instruct
+
+    - name: Qwen/Qwen3-235B-A22B-Instruct-2507
+      provider: vllm
+      model: Qwen/Qwen3-235B-A22B-Instruct-2507

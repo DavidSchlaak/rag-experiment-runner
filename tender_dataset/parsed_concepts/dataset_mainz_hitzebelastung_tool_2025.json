@@ -1,0 +1,104 @@
+{
+  "blocks": [
+    {
+      "tender_id": "mainz_hitzebelastung_tool_2025",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit",
+      "chapter": "0 Webbasierte Tool zur kontinuierlichen Bewertung und Weiterentwicklung ",
+      "block_id": "a-0417e677-c6d7-5fe0-9796-f784ac498ed6",
+      "text": "0. Webbasierte Tool zur kontinuierlichen Bewertung und Weiterentwicklung von Maßnahmen zur Minderung der Hitzebelastung",
+      "length_tokens": 14,
+      "structure_path": "CONCEPT Konzept > 0 Webbasierte Tool zur kontinuierlichen Bewertung und Weiterentwicklung von Maßnahmen zur Minderung der Hitzebelastung"
+    },
+    {
+      "tender_id": "mainz_hitzebelastung_tool_2025",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit",
+      "chapter": "0.1 Projektverständnis und Zielsetzung",
+      "block_id": "a-665d4c9b-d194-55e0-946a-2af5c8ad6f43",
+      "text": "0.1. Projektverständnis und Zielsetzung Die Landeshauptstadt Mainz plant im Rahmen ihrer Klimaanpassungsstrategie die Entwicklung eines webbasierten Fachwerkzeugs zur Bewertung, Weiterentwicklung und transparenten Kommunikation von Klimaanpassungsmaßnahmen mit besonderem Fokus auf die Minderung der Hitzebelastung. Unser Ansatz kombiniert bewährte Open-Source- und Plattformkomponenten, die wir in verschiedenen Kommunen bereits erfolgreich implementiert haben (Urban Data Plattformen, Klimadashboards, OSS-Wärmeplanungs-Tools), mit einer maßgeschneiderten Fachanwendung für Mainz. So werden Entwicklungsrisiken minimiert, eine hohe Anschlussfähigkeit an beste hende städtische Systeme (WebGIS, Digitaler Zwilling) gewährleistet und durch offene Schnittstellen eine zukunftssichere Weiterentwicklung ermöglicht.",
+      "length_tokens": 84,
+      "structure_path": "CONCEPT Konzept > 0 Webbasierte Tool zur kontinuierlichen Bewertung und Weiterentwicklung von Maßnahmen zur Minderung der Hitzebelastung > 0.1 Projektverständnis und Zielsetzung"
+    },
+    {
+      "tender_id": "mainz_hitzebelastung_tool_2025",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit",
+      "chapter": "0.2 Methodischer Ansatz",
+      "block_id": "a-47b5e8da-70b6-5ddc-a31c-bf508d5a793e",
+      "text": "0.2. Methodischer Ansatz\n\n- Agile Entwicklung in enger Abstimmung mit den Fachabteilungen\n\n(Scrum, iterative Releases)\n\n- Nutzerzentrierung: Co-Creation-Workshops und kontinuierliche Feedbackschleifen\n\n- Open-Source-Ansatz für Transparenz, Kostenersparnis und Wiederverwendbarkeit\n\n- Modularer Aufbau auf bestehendem Software-Baukasten zur Beschleunigung der\n\nUmsetzung",
+      "length_tokens": 38,
+      "structure_path": "CONCEPT Konzept > 0 Webbasierte Tool zur kontinuierlichen Bewertung und Weiterentwicklung von Maßnahmen zur Minderung der Hitzebelastung > 0.2 Methodischer Ansatz"
+    },
+    {
+      "tender_id": "mainz_hitzebelastung_tool_2025",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit",
+      "chapter": "0.3 Geplanter Systemaufbau",
+      "block_id": "a-a47c52e2-82fe-5c9d-b60b-3be82ec5f750",
+      "text": "0.3. Geplanter Systemaufbau Modul 1 – Eingabemaske für Fachabteilungen\n\n- Intuitive Weboberfläche, Filter nach Projekttyp (Bau, Infrastruktur, Grünflächen)\n\n- Erfassung von Maßnahmen inkl. Kennzahlen, Parametern, Verantwortlichkeiten\n\n- Import aktualisierter Klimadaten, Rollen- und Rechtekonzept\n\nModul 2 – Dashboard zur Maßnahmendarstellung & Wirksamkeitssimulation\n\n- Dynamische Visualisierung auf Stadt-, Quartiers- und Gebäudeebene\n\n- Direkte Simulation der Wirkungsänderung bei alternativen Maßnahmen\n\nFachliche Basis der Simulationen: Unsere Wirkungssimulationen basieren auf einem mehrschichtigen Modellansatz, der Geodaten, Klimamodelle und städtische Planungsdaten integriert:\n\n- Klimamodell-Ebene: Einbindung bewährter zugrundeliegende mikroklimatischer Modelle\n\n(z. B. Muklimu, Kaltluftströmungsmodelle) zur Abbildung von Temperaturverläufen, Hitzestau und Luftaustausch.\n\n- Geodaten-Ebene: Verschneidung mit Flächen- und Gebäudedaten, Grünflächenanteil,\n\nVersiegelungsgrad, Albedo-Werten, Wasserhaushaltskennzahlen, die in vorausgegangenen Projekten, externen Datenquellen und der Dateninfrastruktur, die der Stadt Mainz vorliegen.\n\n- Maßnahmen-Ebene: Parametrisierung von Projekten (z.B. Materialwahl, Begrünung,\n\nGrößenordnung in m² oder €, Wirksamkeitsparameter in CO₂-Emissionen, Abflussverminderung oder Temperaturreduktion, zeitliche Parameter in Umsetzungsdauer, Lebenszyklus, Zeitpunkt der Wirksamkeit) und Darstellung der Auswirkung auf lokale Mikroklimata\n\n- Simulations-Engine: Szenarienvergleich Status quo vs. geplante/alternative Maßnahmen\n\nmit Echtzeitberechnung relevanter Indikatoren\n\n- Fachliche Bewertung: Abgleich der Simulationsergebnisse mit evidenzbasierten\n\nSchwellenwerten zur Ableitung objektiver Wirksamkeitskennzahlen und Wirkungsmonitoring, Simulation von Alternativmaßnahmen in Abstimmung mit den zuständigen Fachbereichen Modul 3 – Wirkungsmonitoring & Kennzahlen\n\n- KPI-Tracking (Temperatur, Grünflächenanteil, Albedo)\n\n- Integration externer Datenquellen (Klimadaten, Sensorik, Umweltinformationssysteme)\n\n- Zeitreihenanalyse für Fortschrittsbewertung\n\nModul 4 – Maßnahmenbewertung & Handlungsempfehlungen\n\n- Systematische Wirksamkeitsbewertung\n\n- Simulation alternativer Maßnahmen mit höherer Wirkung\n\n- Optional: KI-gestützte Vorschlagsmechanismen\n\nModul 5 – Integration & Erweiterungen\n\n- Schnittstellen zu WebGIS und Digitalem Zwilling\n\nModul 6 – optionale Leistungen\n\n- Bürgerbeteiligungsansichten optional umsetzbar",
+      "length_tokens": 252,
+      "structure_path": "CONCEPT Konzept > 0 Webbasierte Tool zur kontinuierlichen Bewertung und Weiterentwicklung von Maßnahmen zur Minderung der Hitzebelastung > 0.3 Geplanter Systemaufbau"
+    },
+    {
+      "tender_id": "mainz_hitzebelastung_tool_2025",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit",
+      "chapter": "0.4 Technische Architektur",
+      "block_id": "a-06ca1484-31db-50ac-8770-ff7a4663390c",
+      "text": "0.4. Technische Architektur\n\n- Cloud-native, containerisierte Microservices (Kubernetes)\n\n- API-first-Architektur für leichte Anbindung weiterer Systeme\n\n- Datenschutz & Sicherheit: DSGVO-konform, verschlüsselte Datenübertragung\n\n- Modularität ermöglicht einfache Erweiterung auf weitere Klimathemen\n\n(z. B. Starkregen)",
+      "length_tokens": 33,
+      "structure_path": "CONCEPT Konzept > 0 Webbasierte Tool zur kontinuierlichen Bewertung und Weiterentwicklung von Maßnahmen zur Minderung der Hitzebelastung > 0.4 Technische Architektur"
+    },
+    {
+      "tender_id": "mainz_hitzebelastung_tool_2025",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit",
+      "chapter": "0.5 Nutzung bestehender Daten & Geodatenintegration",
+      "block_id": "a-eebd8f68-8675-51d6-b225-cbf630727206",
+      "text": "0.5. Nutzung bestehender Daten & Geodatenintegration\n\n- Import vorhandener Klimamodelle und Simulationen\n\n- Verarbeitung von Vektor-, Raster- und 3D-Daten\n\n- Export in die städtische Geodateninfrastruktur\n\n- Szenarienbildung durch Verschneidung von Geodaten und Fachdaten",
+      "length_tokens": 33,
+      "structure_path": "CONCEPT Konzept > 0 Webbasierte Tool zur kontinuierlichen Bewertung und Weiterentwicklung von Maßnahmen zur Minderung der Hitzebelastung > 0.5 Nutzung bestehender Daten & Geodatenintegration"
+    },
+    {
+      "tender_id": "mainz_hitzebelastung_tool_2025",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit",
+      "chapter": "0.6 Referenzen & Erfahrung",
+      "block_id": "a-0dbfb753-02d1-55d8-a641-bc100c94ecb6",
+      "text": "0.6. Referenzen & Erfahrung\n\n- Urban Data Plattform inkl. Dashboards, Datenanalyse, KI-Algorithmen, Geodaten Prognosen und Simulationen: Stadt Fulda, Smart City Amt Süderbrarup, Modellprojekt Smart\n\nCity Smarte Grenzregion (Flensburg, Nordfriesland und Kreis Schleswig-Flensburg) Modellprojekt Smart City Einbeck\n\n- Klimadashboard für Kommunen: Wirkungsmessung und Visualisierung von Klimaschutzmaßnahmen und THG-Bilanzen in Anlehnung an die DIN SPEC 91637\n\nWirkungsmessung von Maßnahmen für den kommunalen, regionalen und nationalen Klimaschutz\n\n- Open Source Tool für die kommunale Wärmeplanung, für einen kommunalen Netzbetreiber in Nordrhein-Westfalen: Szenarienmodellierung, Datenintegration, Bürgerbeteiligung,\n\nWeb-GIS Entwicklung und Synchronisation mit QGIS\n\n- SSO & Datenhub für den Verkehrsverbund Großraum Nürnberg: Datenmanagement,\n\nkomplexe Berechtigungsverwaltung, Schnittstellenmanagement,\n\n- Durchführung einer Klimaszenarienanalyse für ein international tätiges Unternehmen auf\n\nGrundlage der RCP 2.6 und 8.5 sowie Szenarien der IEA, einschließlich Integration in Strategie & Geschäftsentscheidungen und Berichterstattung nach TCFD-Struktur",
+      "length_tokens": 130,
+      "structure_path": "CONCEPT Konzept > 0 Webbasierte Tool zur kontinuierlichen Bewertung und Weiterentwicklung von Maßnahmen zur Minderung der Hitzebelastung > 0.6 Referenzen & Erfahrung"
+    },
+    {
+      "tender_id": "mainz_hitzebelastung_tool_2025",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit",
+      "chapter": "0.7 Erweiterungsmöglichkeiten für Mainz",
+      "block_id": "a-799f117a-6b01-5df8-8f24-01edb3e590b9",
+      "text": "0.7. Erweiterungsmöglichkeiten für Mainz\n\n- Integration in bestehende Klimadashboards & Wärmeplanung\n\n- Erweiterung um weitere Klimaanpassungsthemen (z. B. Luftqualität, Starkregen)\n\n- Online-Beteiligungstools für die Bürgerschaft",
+      "length_tokens": 25,
+      "structure_path": "CONCEPT Konzept > 0 Webbasierte Tool zur kontinuierlichen Bewertung und Weiterentwicklung von Maßnahmen zur Minderung der Hitzebelastung > 0.7 Erweiterungsmöglichkeiten für Mainz"
+    },
+    {
+      "tender_id": "mainz_hitzebelastung_tool_2025",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit",
+      "chapter": "0.8 Projektorganisation & Zeitplan",
+      "block_id": "a-102700f2-1df9-5cf2-bc47-57c009b48791",
+      "text": "0.8. Projektorganisation & Zeitplan Phasen: Konzeptentwicklung → Prototyping → Implementierung → Test → Schulung & Rollout → Betrieb Fertigstellung: Testversion steht spätestens im Laufe des Q2 2026 zur Verfügung Team: Erfahrene Projektleitung, Fachexperten für Geodaten & Simulation, Klimaexpertise (3Level), Entwicklerteam mit Open-Source-Expertise",
+      "length_tokens": 42,
+      "structure_path": "CONCEPT Konzept > 0 Webbasierte Tool zur kontinuierlichen Bewertung und Weiterentwicklung von Maßnahmen zur Minderung der Hitzebelastung > 0.8 Projektorganisation & Zeitplan"
+    },
+    {
+      "tender_id": "mainz_hitzebelastung_tool_2025",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit",
+      "chapter": "0.9 Qualitätssicherung & Nachhaltigkeit",
+      "block_id": "a-3fb49376-9af3-57fe-aa43-81f2f8be2d51",
+      "text": "0.9. Qualitätssicherung & Nachhaltigkeit\n\n- Dokumentation aller Methoden und Annahmen\n\n- Schulung der Fachabteilungen\n\n- Langfristige Wartung & Weiterentwicklung über Open-Source-Community und unseren\n\nSupport",
+      "length_tokens": 24,
+      "structure_path": "CONCEPT Konzept > 0 Webbasierte Tool zur kontinuierlichen Bewertung und Weiterentwicklung von Maßnahmen zur Minderung der Hitzebelastung > 0.9 Qualitätssicherung & Nachhaltigkeit"
+    },
+    {
+      "tender_id": "mainz_hitzebelastung_tool_2025",
+      "theme": "Datenplattform | Dashboard | Klimaschutz & Nachhaltigkeit",
+      "chapter": "0.10 Anbieterkonsortium",
+      "block_id": "a-3c8519f3-75b9-5c15-b6d4-9a44fdcbd785",
+      "text": "0.10. Anbieterkonsortium Das Projekt wird von einem erfahrenen Konsortium umgesetzt, das bereits in zahlreichen kommunalen Digitalisierungs- und Klimaprojekten erfolgreich zusammengearbeitet hat. Durch die enge Verzahnung unserer Kompetenzen sind wir eingespielt, effizient und liefern von Beginn an Me hrwert. KI-P GmbH (Westhausen) Spezialisiert auf die Entwicklung und den Betrieb datenbasierter Anwendungen für Kommunen. Stärken liegen in Prozessmanagement, Datenplattformen, Analyse und Softwareentwicklung. Mit praxisnahen Web- und App-Lösungen sowie Dashboards sorgt KI-P für maßgeschneiderte Anwendungen, die Prozesse optimieren und datengetriebene Entscheidungen ermöglichen. 3 Level Consulting GmbH (Ulm) Bringt tiefes Fachwissen in Energie-, Klima- und Nachhaltigkeitsthemen ein. Mit Expertise in THG- Bilanzierung, Nachhaltigkeitsmanagement und Klimafolgenabschätzung entwickelt 3 Level die Dashboard-Logik, Bewertungsmethodiken und Handlungsempfehlungen. So w ird sichergestellt, dass Maßnahmen fachlich fundiert bewertet und verständlich visualisiert werden. Zentrum für Digitale Entwicklung GmbH (Westhausen/Neu-Ulm) Übernimmt die Projektsteuerung und Koordination sowie die Konzeption von Beteiligungsprozessen. Mit langjähriger Erfahrung in Smart-City- und Förderprojekten stellt das ZDE sicher, dass Zeit- , Budget- und Qualitätsziele eingehalten werden. Gleichzeitig sorgt es für eine enge Einbindung von Verwaltung, Politik und Öffentlichkeit, um eine hohe Akzeptanz des Tools zu gewährleisten. Unser Vorteil: Wir haben in vergleichbaren Projekten bereits vielfach gemeinsam gearbeitet, sind aufeinander eingespielt und bringen Technik, Fachlichkeit und Beteiligung aus einer Hand zusammen. Damit bieten wir der Stadt Mainz ein schlagkräftiges, erfahrenes Konsortium, das reibungslose Abläufe, innovative Lösungen und nachhaltige Ergebnisse garantiert.",
+      "length_tokens": 220,
+      "structure_path": "CONCEPT Konzept > 0 Webbasierte Tool zur kontinuierlichen Bewertung und Weiterentwicklung von Maßnahmen zur Minderung der Hitzebelastung > 0.10 Anbieterkonsortium"
+    }
+  ],
+  "links": []
+}

@@ -1,0 +1,21 @@
+# Copy these generation settings into a dataset config and adapt them to the
+# available host. This is an example, not an automatically loaded config.
+generation:
+  max_output_tokens: 512
+  temperature: 0.0
+
+  providers:
+    vllm:
+      dtype: auto
+      max_model_len: 4096
+
+  generators:
+    - name: Qwen/Qwen2.5-7B-Instruct
+      provider: vllm
+      model: Qwen/Qwen2.5-7B-Instruct
+      tensor_parallel_size: 1
+      # Optional, hardware-dependent examples:
+      # gpu_memory_utilization: 0.85
+      # max_model_len: 2048
+      # Use device: cpu only with a CPU-enabled vLLM installation.
+      # device: cpu

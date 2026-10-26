@@ -1,0 +1,30 @@
+# Project packages other than vLLM, PyTorch, and Triton. Install the latter three
+# using the backend-specific instructions in README.md so versions stay compatible.
+alignscore
+bert-score
+datasets
+faiss-cpu
+huggingface-hub
+ipykernel
+ipython
+jinja2
+matplotlib
+matcha-metric
+numpy
+openai
+pandas
+rank-bm25
+requests
+rouge-score
+scikit-learn
+sentence-transformers
+tqdm
+transformers
+PyYAML
+openpyxl
+scipy
+sentencepiece
+statsmodels
+spacy
+krippendorff
+PyMuPDF

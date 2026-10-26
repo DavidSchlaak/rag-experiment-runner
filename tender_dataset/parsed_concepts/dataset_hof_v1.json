@@ -1,0 +1,128 @@
+{
+  "blocks": [
+    {
+      "tender_id": "hof_parkanalyse_2023",
+      "theme": "Datenanalyse | Mobilität",
+      "chapter": "0_Vorbemerkung",
+      "block_id": "q-7032fd5b-8f88-50ec-bde8-cbe2ebbe2adf",
+      "text": "0 Vorbemerkung\n\nDer Bereich Ludwigstraße/Maxplatz liegt in der Hofer Einkaufsinnenstadt und umfasst eine Fläche von ca. 1,8 ha. Die Ludwigstraße, die von Norden nach Süden fällt, ist in beide Richtungen für den motorisierten Verkehr geöffnet und bildet das Rückgrat der Hofer „Neustadt“. Sie ist ca. 500 m lang und verfügt über ca. 110 Stellplätze entlang des Straßenraums (teilweise senkrecht, teilweise parallel). Der Maxplatz liegt parallel hinter der Ludwigstraße in Richtung Osten. Er steigt nach Süden an und verengt sich stetig, bis er an der nördlichen Längsseite der Michaeliskirche seinen Abschluss findet. An der breitesten Stelle misst er 130 m x 40 m. Zu Spitzenzeiten parken auf dem Platz bis zu 60 PKW. Aktuell wird die weitere städtebauliche Entwicklung des vorgenannten Stadtraums im Rahmen einer Machbarkeitsstudie mit unterschiedlichen Szenarien beleuchtet. Als Basis für die Einschätzung und die künftigen Nutzungen bzw. Bedarfe des ruhenden Verkehrs, der Passanten und Verkehrsströme sowie der Radfahrerfrequenz soll obengenannte Analyse herangezogen werden.",
+      "length_tokens": 155,
+      "structure_path": "LV Leistungsbeschreibung > 0 Vorbemerkung"
+    },
+    {
+      "tender_id": "hof_parkanalyse_2023",
+      "theme": "Datenanalyse | Mobilität",
+      "chapter": "1_Zeitvorgaben",
+      "block_id": "q-3504dc1a-eed4-5e5b-a1e2-848a2d794295",
+      "text": "1 Zeitvorgaben\n\nDer Auftraggeber strebt eine Auftragsvergabe im März 2023 an. Die Analyse soll direkt im Anschluss an die Zuschlagserteilung beginnen. Ende der Maßnahme ist Juni/Juli 2023. Nach ca. sechs Wochen ab Beauftragung ist eine Zwischenmitteilung der Kennzahlen bzw. Ergebnisse vorzulegen, um eine Tendenz, insbesondere für die bereits beauftragten Stadt- und Freiraumplaner zu erhalten.",
+      "length_tokens": 54,
+      "structure_path": "LV Leistungsbeschreibung > 1 Zeitvorgaben"
+    },
+    {
+      "tender_id": "hof_parkanalyse_2023",
+      "theme": "Datenanalyse | Mobilität",
+      "chapter": "Erfassungsraum",
+      "block_id": "q-2bff4562-8baf-5fa4-9a6f-e7747c1630e7",
+      "text": "Erfassungsraum\n\nöffentlicher Raum Ludwigstraße und Maxplatz (siehe Lageplan-Geltungsbereich)",
+      "length_tokens": 8,
+      "structure_path": "LV Leistungsbeschreibung > 2 Leistungsbeschreibung > Erfassungsraum"
+    },
+    {
+      "tender_id": "hof_parkanalyse_2023",
+      "theme": "Datenanalyse | Mobilität",
+      "chapter": "Erfassungszeitraum",
+      "block_id": "q-bdcb741e-fbc9-52d8-8b23-c68b8e7df47d",
+      "text": "Erfassungszeitraum\n\n3 Monate (24 h/7 Tage)",
+      "length_tokens": 6,
+      "structure_path": "LV Leistungsbeschreibung > 2 Leistungsbeschreibung > Erfassungszeitraum"
+    },
+    {
+      "tender_id": "hof_parkanalyse_2023",
+      "theme": "Datenanalyse | Mobilität",
+      "chapter": "Zu ermittelnde Kennzahlen",
+      "block_id": "q-a131f9af-56da-5218-8cba-cd4d4f359717",
+      "text": "Zu ermittelnde Kennzahlen\n\n Personenzählung\n Parkflächenbelegung, inkl. Dauer\n Verkehrszählung\n Klassifikation der Fahrzeuge (PKW, LKW, Fahrräder, Busse, Zweirad, Lieferwagen)",
+      "length_tokens": 21,
+      "structure_path": "LV Leistungsbeschreibung > 2 Leistungsbeschreibung > Zu ermittelnde Kennzahlen"
+    },
+    {
+      "tender_id": "hof_parkanalyse_2023",
+      "theme": "Datenanalyse | Mobilität",
+      "chapter": "Leistungen",
+      "block_id": "q-309bb33b-3ea7-5ee5-9766-a08b05d5d9e8",
+      "text": "Leistungen\n\n1. Installation des entsprechenden Erfassungssystems zur Analyse, inkl. Einrichtung und Montage vor Ort\n2. Datenschutzkonforme Informationen und Beschilderungen für die Öffentlichkeit\n3. Demontage des Systems\n4. Auswertung der Daten und Bereitstellung der Ergebnisse\n- Zwischenbericht zu den Kennzahlen nach 6 Wochen\n- Endbericht/Schlussauswertung nach 3 Monaten",
+      "length_tokens": 47,
+      "structure_path": "LV Leistungsbeschreibung > 2 Leistungsbeschreibung > Leistungen"
+    },
+    {
+      "tender_id": "hof_parkanalyse_2023",
+      "theme": "Datenanalyse | Mobilität",
+      "chapter": "Datenschutzrechtliche Voraussetzungen",
+      "block_id": "q-12c35f08-2cda-50fc-b515-a51c3bd00a19",
+      "text": "Datenschutzrechtliche Voraussetzungen\n\nDie datenschutzkonforme Abwicklung der Gesamtmaßnahme ist bereits im Angebot nachvollziehbar darzustellen. Werden im Bereich der Parkraumüberwachung sowie bei der Fußgänger- und Fahrzeugzählung Kamerasysteme verwendet, ist zu beachten: Wenn die Kamera vor Ort die Situation erfasst, ermittelt sie im Gerät (nicht in der Cloud!) die gewünschten Messwerte und sendet nur diese Informationen diese an ein Gateway/Schnittstelle, das entstandene Bild wird in der Kamera wieder gelöscht – eine Bildansicht der Situation ist NICHT MÖGLICH oder gewollt – und erfüllt damit die Anforderungen des Datenschutzes. Der temporäre Videostream der Kamera wird in die Box neben der Kamera per Kabel überführt.\n\n Die Box führt eine Echtzeitanalyse durch und speichert numerische Informationen\n In diesem Schritt werden auf der Box die Bildinformationen entfernt.\n Die Box-Plattform speichert und überträgt somit kein Bild- oder Videomaterial.\n Es ist nicht möglich, Videostreams über die Plattform aufzuzeichnen.\n Es werden zu keinem Zeitpunkt personenbezogene Daten verarbeitet. Zur Verarbeitung personenbezogener Daten gehört bereits deren Erhebung.",
+      "length_tokens": 159,
+      "structure_path": "LV Leistungsbeschreibung > 2 Leistungsbeschreibung > Datenschutzrechtliche Voraussetzungen"
+    },
+    {
+      "tender_id": "hof_parkanalyse_2023",
+      "theme": "Datenanalyse | Mobilität",
+      "chapter": "2. Angebotsabgabe",
+      "block_id": "q-106b6cf9-690b-5611-a803-4d029cd0f57f",
+      "text": "2. Angebotsabgabe\n\n Darstellung des Honorars aufgegliedert nach einzelnen Arbeitsschritten/Leistungsbausteinen\n Die Leistungsbausteine sind dabei einzeln zu kalkulieren und gemäß der Übersicht unter Punkt 2 aufzulisten. Es besteht die Möglichkeit von Kürzungen und Ergänzungen der Leistungen, sofern das Ergebnis der Analyse den unter Punkt 2 genannten Anforderungen entspricht.\n Sonderleistungen, die über den beschriebenen Leitungsrahmen hinausgehen, werden nur nach vorheriger schriftlicher Eingabe und Zustimmung vergütet.\n Nebenkosten und Fahrtkosten sind aufzuschlüsseln\n Tages- bzw. Halbtagessätze für Projektleiter, Mitarbeiter und Hilfskräfte bei Vor-Ort-Terminen sind anzugeben\n\nPreisblatt – zusammenfassende Darstellung des Angebotes\n\nLeistungsbausteine Kosten, netto Nebenkosten Mehrwertsteuer 19% Kosten, brutto inkl. Nebenkosten\n1. Installation des entsprechenden Erfassungssystems zur Analyse inkl. Einrichtung und Montage vor Ort\n2. Datenschutzkonforme Information und Beschilderungen für die Öffentlichkeit\n3. Demontage des Systems\n4. Auswertung der Daten und Bereitstellung der Ergebnisse\n- Zwischenbericht zu den Kennzahlen (nach 6 Wochen)\n- Endbericht/Schlussauswertung nach 3 Monaten\nGesamtkosten\n4.320,00 EUR 640,00 EUR 1.800,00 EUR 4.000,00 EUR 10.760,00 EUR 16.248,00 EUR 5.131,52 EUR 32.139,52 EUR\n6 Kamerasysteme mit Befestigungsmaterial, Lizenzen u. Kameras: 14.748,00 EUR\nHubsteiger: 500,00 EUR\nFahrtkosten: 250,00 EUR\nHubsteiger: 500,00 EUR\nFahrtkosten: 250,00 EUR\n584,25 EUR 121,60 EUR 3.865,17 EUR 760,00 EUR 24.208,17 EUR 761,60 EUR 3.659,25 EUR 4.760,00 EUR",
+      "length_tokens": 200,
+      "structure_path": "LV Leistungsbeschreibung > 2 Angebotsabgabe"
+    },
+    {
+      "tender_id": "hof_parkanalyse_2023",
+      "theme": "Datenanalyse | Mobilität",
+      "chapter": "1. Datenschutzrechtliche Voraussetzungen",
+      "block_id": "a-e2df42e9-6202-598b-b586-dfbffc8d53e4",
+      "text": "1. Datenschutzrechtliche Voraussetzungen\n\nDie datenschutzkonforme Abwicklung der Gesamtmaßnahme wird mit unserem Smart City Vision System (SCVS) gewährleistet. Die SCVS-Plattform wurde entwickelt, um anonymisierte Daten für eine Vielzahl von Anwendungsfällen bereitzustellen. In der am häufigsten verwendeten Standardimplementierung sind die ausgegebenen Daten anonymisiert und unterliegen daher nicht den DSGVO-Vorschriften für die weitere Verarbeitung. Der Stream wird ausschließlich an Ort und Stelle verarbeitet und nirgendwo versendet, sodass dieser nicht sichtbar für dritte Personen ist. Unsere SCVS-Kamera erfasst die gewünschten Messwerte im Gerät (nicht in einer Cloud!) und sendet nur diese Informationen über Gateway/Schnittstelle. Ausschließlich Administratoren der Plattform haben die Möglichkeit, ein aktuelles Vorschaubild lediglich zu Konfigurationszwecken einzusehen. Das entstandene Bild wird wieder automatisch gelöscht. Eine Bildansicht der Situation ist nicht möglich und erfüllt damit die Anforderungen des Datenschutzes (DSGVO-konform). Der temporäre Videostream der Kamera wird direkt in die angebrachte Box per Kabel überführt.\n\n- Die Box führt eine Echtzeitanalyse durch und speichert lediglich numerische Informationen.\n- Die Bildinformationen werden automatisch gelöscht.\n- Die Box-Plattform speichert und überträgt keinerlei Bild- oder Videomaterial.\n- Es ist nicht möglich, Videostreams über die Plattform aufzuzeichnen.\n- Es werden zu keinem Zeitpunkt personenbezogene Daten verarbeitet oder erhoben.\n\nDie bloße Tatsache, dass ein Videostream existiert, stellt in fast allen Anwendungsfällen eine Verarbeitung von personenbezogenen Daten dar. Auch wenn sie im konkreten Fall weder gespeichert, abgerufen oder anderweitig verarbeitet werden. Es gilt daher zu beachten, dass die Extraktion der anonymisierten Daten aus dem Videostream (den einzelnen Bildern davor) direkt vor Ort durch die KI passiert. In der Weiterverarbeitung gibt es daher im klassischen keinerlei Personenbezug mehr.\n\nZum Stream selbst: Die Nutzung der Sensorik eines Kameravideostreams und die Analyse dessen in der SCVS-Plattform stellen grundsätzlich eine Verarbeitung personenbezogener Daten dar. Sollten weder der Videostream noch andere personenbezogenen Daten aus anderen Quellen derselben Situation mit diesen Daten verknüpft werden können, handelt es sich bei den ausgegebenen numerischen Informationen um anonymisierte Daten.\n\nFür Parkraum- und Verkehrsfrequenzanalysen ist grundsätzlich keine Aufnahme von Kennzeichen notwendig. In öffentlichen Bereichen empfehlen wir, dies auch nicht zu tun. Es sei denn, die notwendigen Erfordernisse wurden vom Auftraggeber/Endkunden vorausgesetzt und im Rahmen der DSGVO und damit verbundenen Pflichten umgesetzt, bzw. die Notwendigkeit dafür besteht.",
+      "length_tokens": 355,
+      "structure_path": "CONCEPT Konzept > 1. Datenschutzrechtliche Voraussetzungen"
+    },
+    {
+      "tender_id": "hof_parkanalyse_2023",
+      "theme": "Datenanalyse | Mobilität",
+      "chapter": "2. DSGVO-Aspekte des Smart City Vision System (SCVS) und SCVS-Lösungen",
+      "block_id": "a-af48d910-c8f4-5259-af79-af7739db6185",
+      "text": "2. DSGVO-Aspekte des Smart City Vision System (SCVS) und SCVS-Lösungen\n\nDie SCVS-Plattform wurde entwickelt, um anonymisierte Daten für eine Vielzahl von Anwendungsfällen bereitzustellen. In der am häufigsten verwendeten Standardimplementierung sind die ausgegebenen Daten anonymisiert und unterliegen daher nicht den DSGVO-Vorschriften für die weitere Verarbeitung. Es gibt jedoch zwei wichtige Punkte, die zu beachten sind, um datenschutzkonform zu bleiben:\n\n• Die bloße Tatsache, dass ein Videostream existiert, stellt in fast allen Anwendungsfällen eine Verarbeitung von personenbezogenen Daten dar. Daher muss sorgfältig darauf geachtet werden, dass grundsätzlich die Voraussetzung zur Verarbeitung personenbezogener Daten gegeben ist. Auch wenn sie im konkreten Fall weder gespeichert, abgerufen oder anderweitig verarbeitet werden.\n• Nummernschilder von Fahrzeugen sind als personenbezogene Daten zu betrachten. Bei jedem Einsatz, bei dem diese besondere Funktion verwendet wird, muss sorgfältig darauf geachtet werden, dass diese Daten nur für den vorgesehenen Zweck verarbeitet und nicht länger als für diesen Zweck erforderlich gespeichert werden.\n\nWenn personenbezogene Daten verarbeitet werden, muss eine entsprechende Rechtmäßigkeit der Datenverarbeitung vorhanden sein. Die mit der SCVS-Plattform und SCVS-Lösungen verbundenen Anwendungsfälle fallen meist unter Art. 6 EU-DSGVO1. Dieses Dokument soll einen Überblick über datenschutzrelevante Themen im Bereich der SCVS-Plattform bzw. der SCVS-Produkte geben.",
+      "length_tokens": 193,
+      "structure_path": "CONCEPT Konzept > 2. DSGVO-Aspekte des Smart City Vision System (SCVS) und SCVS-Lösungen"
+    },
+    {
+      "tender_id": "hof_parkanalyse_2023",
+      "theme": "Datenanalyse | Mobilität",
+      "chapter": "3. SCVS-Plattform- Funktionsweise",
+      "block_id": "a-fb87b929-9ec9-5ae8-84ad-7fba90d68827",
+      "text": "3. SCVS-Plattform- Funktionsweise\n\nDie SCVS-Plattform besteht aus einer SCVS Box und einem SCVS Control Center (SCC). Die SCVS Box wird entweder in einer dedizierten, von ZDE gelieferten Hardware, oder in einem virtuellen Docker-Container (VPX) auf einem vom Benutzer bereitgestellten Host-System eingesetzt. In beiden Fällen wird der Videostream der jeweiligen IP-Kamera an die SCVS Box weitergeleitet, die den Inhalt entsprechend ihrer Konfiguration (Objekterkennung und Objektklassifizierung) unverzüglich analysiert. Diese Konfiguration erfolgt über das SCVS Control Center, das alle SCVS Boxen eines bestimmten Bereiches verwaltet. Es legt das Analysemodell und Details wie z.B. Zähllinien, Ein- und Ausfahrten sowie Ursprungs- und Zielrichtungen fest. Das SCVS Control Center läuft\n\n1 Art. 6 EU-DSGVO e): “Die Verarbeitung [der Daten] ist für die Wahrnehmung einer Aufgabe erforderlich, die im öffentlichen Interesse liegt oder in Ausübung öffentlicher Gewalt erfolgt, die dem für die Verarbeitung Verantwortlichen übertragen wurde.”\n\nin einem IoT Hub auf Microsoft Azure, der vom Betreiber (= Datenverarbeiter), d.h. einem Endkunden oder einem Systemintegrator/Dienstleister, der dies im Auftrag des Endkunden tut, gesteuert wird. Jeder Anwendungsfall besteht aus mehreren neuronalen Netzen, die für die Extraktion von Merkmalen aus dem gegebenen Videostream und die Kombination der Ausgabe mit fallspezifischer Nachbearbeitung (z.B. Verkehrsanalyse) verantwortlich sind. Die extrahierten Daten (numerische Informationsausgabe) werden von der SCVS Box an eine vom Betreiber ausgewählte Datenbank übertragen. Diese kann im SCVS Control Center selbst sein oder aber auch ein beliebiges System des Betreibers oder von Dritten.",
+      "length_tokens": 231,
+      "structure_path": "CONCEPT Konzept > 3. SCVS-Plattform- Funktionsweise"
+    },
+    {
+      "tender_id": "hof_parkanalyse_2023",
+      "theme": "Datenanalyse | Mobilität",
+      "chapter": "4. DSGVO-Aspekte bei der Verwendung der SCVS-Plattform",
+      "block_id": "a-0ddd1078-bbec-52e9-a45f-79950962c219",
+      "text": "4. DSGVO-Aspekte bei der Verwendung der SCVS-Plattform\n\nDie Videoüberwachung mit der Kamera und die Analyse des Streams in der SCVS-Plattform stellen grundsätzlich eine Verarbeitung personenbezogener Daten dar. Sollten (wie meist der Fall) weder der Videostream noch andere personenbezogenen Daten aus anderen Quellen derselben Situation mit diesen Daten verknüpft werden können, handelt es sich bei den ausgegebenen numerischen Informationen um anonymisierte Daten. Wenn es hingegen solche parallelen personenbezogenen Daten gibt, muss der Betreiber (für die Verarbeitung personenbezogener Daten Verantwortlicher) technische und rechtliche Maßnahmen ergreifen, um sicherzustellen, dass es keine Möglichkeit gibt, die ausgegebenen numerischen Informationen mit diesen anderen Daten zu verknüpfen.\n\nWenn die SCVS Boxen in einem lokalen Netzwerk installiert sind und nicht mit einem ausgewiesenen Datenendpunkt verbunden sind (entweder durch den Kunden selbst oder einen Systemintegrator), ist ZDE kein Auftragsverarbeiter für personenbezogene Daten, die von dem SCVS Control Center erfasst werden. ZDE stellt diese Anwendungen lediglich zur Verfügung - ohne weitere Beteiligung an der Nutzung und/oder Verarbeitung personenbezogener Daten durch die Anwendung.\n\nZDE muss für einen Zugriff auf Nutzerinhalte, d.h. die von der SCVS-Plattform erfassten und verarbeiteten Informationen, für Supportzwecke ausdrücklich autorisiert werden. Je nach Setup der SCVS-Plattform können die Rollen des Datenverarbeiters und des für die Datenverarbeitung Verantwortlichen vom Endkunden selbst wahrgenommen oder auf einen Auftragsdatenverarbeiter übertragen werden. Wir empfehlen, zu prüfen, wie die Rollen im spezifischen Setup zugewiesen sind.\n\nSCVS hat mit allen offiziellen SCVS-Partnern wie auch Resellern Auftragsdatenverarbeitungsverträge abgeschlossen, die sicherstellen, dass ZDE auf Anfrage unterstützend tätig werden darf. Diese Partner sind auf der ZDE-Website angeführt. Sollte ein Endkunde sich nicht sicher sein, bitte hallo@ki-p.de kontaktieren.\n\nWenn Sie sich dafür entscheiden, die SCVS-Plattform mit anderen Dienstanbietern zu verbinden (z.B. Visualisierungstools von Drittanbietern, Business-Intelligence-Tools usw.), empfehlen wir Ihnen, zu prüfen, wie die DSGVO-Verantwortung innerhalb dieser spezifischen Dienstkonfiguration zugewiesen ist.",
+      "length_tokens": 291,
+      "structure_path": "CONCEPT Konzept > 4. DSGVO-Aspekte bei der Verwendung der SCVS-Plattform"
+    },
+    {
+      "tender_id": "hof_parkanalyse_2023",
+      "theme": "Datenanalyse | Mobilität",
+      "chapter": "5. Pseudonymisierung vs. Anonymisierung",
+      "block_id": "a-2b30327d-e847-5db7-aae2-6894dac9d815",
+      "text": "5. Pseudonymisierung vs. Anonymisierung\n\nWie bereits beschrieben, handelt es sich bei der Videoüberwachung von Personen im Allgemeinen um eine Verarbeitung personenbezogener Daten (Erscheinungsbild von Menschen). Diese Videoüberwachung findet in der IP-Kamera statt, sodass der Videostream, der an das SCVS Control Center gesendet wird, personenbezogene Daten enthält. Die Analyse des Videostreams in der SCVS Box stellt die Verarbeitung personenbezogener Daten dar. Das Ergebnis dieser Analyse ist die Ausgabe numerischer Informationen, die entweder pseudonymisiert oder anonymisiert sein können.\n\nDie Unterscheidung zwischen pseudonymisierten und anonymisierten Daten ist wichtig, weil anonymisierte Daten nicht unter die DSGVO fallen. Pseudonymisierte Daten hingegen unterliegen der DSGVO, sodass es eine Rechtsgrundlage für ihre Verarbeitung geben muss. Ähnlich wie bei der Verarbeitung personenbezogener Daten im Rahmen der Videoüberwachung liegt es in der Verantwortung des Nutzers, die in der numerischen Informationsausgabe enthaltenen Daten zu pseudonymisieren oder zu anonymisieren.\n\nWenn der Nutzer technische und rechtliche Maßnahmen ergreift, damit die in der numerischen Informationsausgabe enthaltenen Daten nicht mit anderen Daten (wie dem gespeicherten Videostream o.ä.) in Verbindung gebracht werden können, handelt es sich in der Regel bei den in der numerischen Informationsausgabe enthaltenen Daten um anonymisierte Daten (Ausnahme: Kfz-Kennzeichen!). In den meisten Anwendungsfällen lassen sich Personen aus der Konfigurations-Ansicht der Kamera nicht identifizieren. Die Anonymisierung wird also durch das Verbot des Direktzugangs zum Videostream und der Unschärfe in der Konfigurationsansicht gewährleistet.\n\nAls Softwarehersteller nehmen das ZDE und seine Zulieferer Cybersicherheit ernst und stellen Mittel zur Verfügung, um Produkte und Anwendungen widerstandsfähiger und sicherer zu machen - zum Beispiel durch Authentifizierung, Autorisierung und Passwort-Durchsetzung. Dies ist nicht spezifisch für die Anwendungen des SCVS gemeint, sondern ein fester Bestandteil unserer Produktentwicklungsstrategie, die darauf ausgerichtet ist, Computer Vision schneller, einfacher, smarter, erschwinglicher und vertrauenswürdiger zu machen.",
+      "length_tokens": 281,
+      "structure_path": "CONCEPT Konzept > 5. Pseudonymisierung vs. Anonymisierung"
+    }
+  ],
+  "links": [
+    {
+      "query_block_id": "q-12c35f08-2cda-50fc-b515-a51c3bd00a19",
+      "answer_block_id": "a-e2df42e9-6202-598b-b586-dfbffc8d53e4",
+      "relevance": 1
+    }
+  ]
+}
