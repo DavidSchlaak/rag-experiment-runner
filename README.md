@@ -138,7 +138,7 @@ Set the ZIP's direct HTTPS URL in `setup_resources.py`, through `EXPERIMENT_RUNN
 
 The selected generation model is downloaded by vLLM when an experiment starts. Setup does not preload these large, hardware-dependent models; some require Hugging Face authentication or license acceptance.
 
-## Agentic RAG
+## Multi Agent RAG
 
 The agentic runner loads workflow settings and prompts from the selected dataset's `multi_agent/` folder. From the repository root, run the default LEDGAR workflow with:
 
